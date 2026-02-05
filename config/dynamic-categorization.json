@@ -1,0 +1,1312 @@
+{
+    "version": "2.0",
+    "description": "Dynamic product categorization patterns for Indian retail",
+    "category_patterns": [
+        {
+            "category_id": "L1_STAPLES",
+            "category_name": "Staples & Cooking Essentials",
+            "default_unit": "kg",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "salt",
+                        "namak"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "atta",
+                        "flour",
+                        "maida",
+                        "besan",
+                        "sooji",
+                        "rava"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "rice",
+                        "chawal",
+                        "basmati"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "dal",
+                        "toor",
+                        "moong",
+                        "chana",
+                        "arhar",
+                        "masoor",
+                        "urad"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "oil",
+                        "tel",
+                        "ghee",
+                        "vanaspati"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "sugar",
+                        "shakkar",
+                        "cheeni",
+                        "gur",
+                        "jaggery",
+                        "mishri"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "aashirvaad",
+                        "pillsbury",
+                        "fortune",
+                        "saffola",
+                        "dhara",
+                        "sundrop",
+                        "nature fresh"
+                    ],
+                    "confidence": 0.85
+                }
+            ]
+        },
+        {
+            "category_id": "L2_FRESH_VEGETABLES",
+            "category_name": "Fresh Vegetables",
+            "default_unit": "kg",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "potato",
+                        "aloo",
+                        "आलू"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "onion",
+                        "pyaz",
+                        "pyaaz",
+                        "प्याज"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "tomato",
+                        "tamatar",
+                        "टमाटर"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "ginger",
+                        "adrak",
+                        "अदरक"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "garlic",
+                        "lehsun",
+                        "लहसुन"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "chilli",
+                        "mirch",
+                        "मिर्च"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "coriander",
+                        "dhaniya",
+                        "धनिया"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "spinach",
+                        "palak",
+                        "पालक"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cauliflower",
+                        "gobhi",
+                        "गोभी",
+                        "phool gobhi"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cabbage",
+                        "patta gobhi",
+                        "bandh gobhi"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "carrot",
+                        "gajar",
+                        "गाजर"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "beans",
+                        "sem",
+                        "सेम",
+                        "french beans"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "capsicum",
+                        "shimla mirch",
+                        "शिमला मिर्च"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "brinjal",
+                        "baingan",
+                        "बैंगन",
+                        "eggplant"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cucumber",
+                        "kheera",
+                        "खीरा",
+                        "kakdi"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "lady finger",
+                        "bhindi",
+                        "भिंडी",
+                        "okra"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "bitter gourd",
+                        "karela",
+                        "करेला"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "drumstick",
+                        "sahjan",
+                        "सहजन",
+                        "moringa"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "radish",
+                        "mooli",
+                        "मूली"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "peas",
+                        "matar",
+                        "मटर"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "bottle gourd",
+                        "lauki",
+                        "लौकी",
+                        "ghiya"
+                    ],
+                    "confidence": 0.95
+                }
+            ]
+        },
+        {
+            "category_id": "L2_FRESH_FRUITS",
+            "category_name": "Fresh Fruits",
+            "default_unit": "kg",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "banana",
+                        "kela",
+                        "केला"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "apple",
+                        "seb",
+                        "सेब"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "orange",
+                        "santra",
+                        "संतरा",
+                        "nagpur"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "mango",
+                        "aam",
+                        "आम",
+                        "alphonso",
+                        "kesar"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "grapes",
+                        "angoor",
+                        "अंगूर"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "papaya",
+                        "papita",
+                        "पपीता"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "pomegranate",
+                        "anar",
+                        "अनार"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "watermelon",
+                        "tarbooz",
+                        "तरबूज"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "muskmelon",
+                        "kharbooja",
+                        "खरबूजा"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "guava",
+                        "amrud",
+                        "अमरूद"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "sweet lime",
+                        "mosambi",
+                        "मौसंबी"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "lemon",
+                        "nimbu",
+                        "नींबू",
+                        "lime"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "coconut",
+                        "nariyal",
+                        "नारियल"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "pineapple",
+                        "ananas",
+                        "अनानास"
+                    ],
+                    "confidence": 0.95
+                }
+            ]
+        },
+        {
+            "category_id": "L2_MILK",
+            "category_name": "Milk",
+            "default_unit": "L",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "milk",
+                        "doodh",
+                        "दूध"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "toned milk",
+                        "full cream",
+                        "skimmed"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "amul",
+                        "mother dairy",
+                        "nestle a+",
+                        "verka",
+                        "nandini",
+                        "aavin"
+                    ],
+                    "confidence": 0.80
+                }
+            ]
+        },
+        {
+            "category_id": "L2_CURD_YOGURT",
+            "category_name": "Curd & Yogurt",
+            "default_unit": "kg",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "curd",
+                        "dahi",
+                        "दही",
+                        "yogurt",
+                        "yoghurt"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "lassi",
+                        "chaas",
+                        "buttermilk",
+                        "छाछ"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "mishti doi",
+                        "shrikhand"
+                    ],
+                    "confidence": 0.95
+                }
+            ]
+        },
+        {
+            "category_id": "L2_DAIRY_OTHER",
+            "category_name": "Dairy Products",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "paneer",
+                        "पनीर",
+                        "cottage cheese"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "butter",
+                        "मक्खन",
+                        "makhan"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cheese",
+                        "चीज़"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cream",
+                        "मलाई",
+                        "malai"
+                    ],
+                    "confidence": 0.95
+                }
+            ]
+        },
+        {
+            "category_id": "L2_EGGS",
+            "category_name": "Eggs",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "egg",
+                        "eggs",
+                        "anda",
+                        "अंडा",
+                        "अंडे"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "desi egg",
+                        "farm egg",
+                        "organic egg",
+                        "brown egg",
+                        "white egg"
+                    ],
+                    "confidence": 0.95
+                }
+            ]
+        },
+        {
+            "category_id": "L1_PACKAGED",
+            "category_name": "Packaged Food & Snacks",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "noodles",
+                        "maggi",
+                        "yippee",
+                        "top ramen",
+                        "chings",
+                        "knorr"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "biscuit",
+                        "biscuits",
+                        "cookies",
+                        "cream biscuit"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "chips",
+                        "wafers",
+                        "nachos",
+                        "kurkure",
+                        "namkeen"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "chocolate",
+                        "candy",
+                        "toffee",
+                        "lollipop"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "bhujia",
+                        "mixture",
+                        "sev",
+                        "chivda",
+                        "cornflakes",
+                        "muesli",
+                        "oats"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "bread",
+                        "pav",
+                        "bun",
+                        "toast",
+                        "rusk"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "jam",
+                        "jelly",
+                        "spread",
+                        "peanut butter",
+                        "nutella"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "ketchup",
+                        "sauce",
+                        "mayonnaise",
+                        "vinegar",
+                        "pickle",
+                        "achar"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "pasta",
+                        "macaroni",
+                        "spaghetti",
+                        "vermicelli",
+                        "seviyan"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "parle",
+                        "britannia",
+                        "sunfeast",
+                        "oreo",
+                        "lays",
+                        "haldiram",
+                        "bingo",
+                        "cadbury",
+                        "nestle",
+                        "ferrero",
+                        "kitkat",
+                        "snickers"
+                    ],
+                    "confidence": 0.85
+                }
+            ]
+        },
+        {
+            "category_id": "L1_BEVERAGES",
+            "category_name": "Beverages",
+            "default_unit": "L",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cola",
+                        "coke",
+                        "pepsi",
+                        "thums up",
+                        "sprite",
+                        "fanta",
+                        "limca",
+                        "7up",
+                        "mountain dew"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "juice",
+                        "frooti",
+                        "maaza",
+                        "real",
+                        "tropicana",
+                        "paper boat"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "water",
+                        "mineral water",
+                        "bisleri",
+                        "kinley",
+                        "aquafina"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "energy drink",
+                        "red bull",
+                        "monster",
+                        "sting"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "tea",
+                        "chai",
+                        "चाय",
+                        "green tea"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "coffee",
+                        "nescafe",
+                        "bru"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "coca cola",
+                        "pepsico",
+                        "dabur",
+                        "parle agro",
+                        "tata tea",
+                        "brooke bond",
+                        "lipton",
+                        "taj mahal"
+                    ],
+                    "confidence": 0.85
+                }
+            ]
+        },
+        {
+            "category_id": "L1_PHARMA",
+            "category_name": "Pharma & Wellness",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "toothpaste",
+                        "toothbrush",
+                        "mouthwash",
+                        "dental"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "soap",
+                        "handwash",
+                        "sanitizer",
+                        "body wash"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "shampoo",
+                        "conditioner",
+                        "hair oil",
+                        "hair gel",
+                        "serum"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "face wash",
+                        "face cream",
+                        "moisturizer",
+                        "sunscreen",
+                        "lotion"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "deodorant",
+                        "perfume",
+                        "talcum",
+                        "powder"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "colgate",
+                        "pepsodent",
+                        "closeup",
+                        "sensodyne",
+                        "oral-b",
+                        "listerine"
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "dove",
+                        "lux",
+                        "lifebuoy",
+                        "dettol",
+                        "santoor",
+                        "pears",
+                        "cinthol"
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "head & shoulders",
+                        "pantene",
+                        "sunsilk",
+                        "clinic plus",
+                        "tresemme",
+                        "parachute",
+                        "dabur",
+                        "navratna"
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "himalaya",
+                        "garnier",
+                        "nivea",
+                        "lakme",
+                        "ponds",
+                        "fair & lovely"
+                    ],
+                    "confidence": 0.85
+                }
+            ]
+        },
+        {
+            "category_id": "L1_HOUSEHOLD",
+            "category_name": "Household & Cleaning",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "detergent",
+                        "washing powder",
+                        "fabric softener",
+                        "bleach"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "dishwash",
+                        "dish wash",
+                        "dish soap",
+                        "utensil cleaner"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "floor cleaner",
+                        "phenyl",
+                        "toilet cleaner",
+                        "bathroom cleaner"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "glass cleaner",
+                        "surface cleaner",
+                        "all purpose cleaner"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "insect killer",
+                        "mosquito repellent",
+                        "cockroach killer",
+                        "ant killer"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "room freshener",
+                        "air freshener",
+                        "car freshener"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "garbage bag",
+                        "bin liner",
+                        "broom",
+                        "mop",
+                        "wiper"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "surf excel",
+                        "ariel",
+                        "tide",
+                        "rin",
+                        "nirma",
+                        "wheel"
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "vim",
+                        "pril",
+                        "exo"
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "harpic",
+                        "lizol",
+                        "domex",
+                        "colin"
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "good knight",
+                        "all out",
+                        "hit",
+                        "mortein",
+                        "kala hit"
+                    ],
+                    "confidence": 0.85
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "odonil",
+                        "ambi pur"
+                    ],
+                    "confidence": 0.85
+                }
+            ]
+        },
+        {
+            "category_id": "L1_BABY",
+            "category_name": "Baby Care",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "baby",
+                        "infant",
+                        "diaper",
+                        "nappy",
+                        "wipes"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cerelac",
+                        "baby food",
+                        "baby cereal"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "baby soap",
+                        "baby oil",
+                        "baby powder",
+                        "baby lotion",
+                        "baby cream"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "baby bottle",
+                        "nipple",
+                        "pacifier",
+                        "teether"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "johnson",
+                        "johnson's",
+                        "pampers",
+                        "huggies",
+                        "mamy poko",
+                        "himalaya baby"
+                    ],
+                    "confidence": 0.90
+                }
+            ]
+        },
+        {
+            "category_id": "L1_PET",
+            "category_name": "Pet Care",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "dog food",
+                        "cat food",
+                        "pet food",
+                        "puppy food",
+                        "kitten food"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "pet treat",
+                        "dog treat",
+                        "cat treat",
+                        "dog biscuit"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "pet shampoo",
+                        "dog shampoo",
+                        "cat litter"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "pedigree",
+                        "whiskas",
+                        "royal canin",
+                        "drools",
+                        "farmina",
+                        "sheba"
+                    ],
+                    "confidence": 0.90
+                }
+            ]
+        },
+        {
+            "category_id": "L1_FROZEN",
+            "category_name": "Frozen & Ice Cream",
+            "default_unit": "pcs",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "ice cream",
+                        "kulfi",
+                        "sorbet",
+                        "frozen dessert"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "frozen",
+                        "french fries",
+                        "nuggets",
+                        "frozen veg",
+                        "frozen paratha"
+                    ],
+                    "confidence": 0.90
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "amul",
+                        "vadilal",
+                        "kwality walls",
+                        "havmor",
+                        "naturals",
+                        "mother dairy"
+                    ],
+                    "confidence": 0.75
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "mccain",
+                        "godrej yummiez",
+                        "safal"
+                    ],
+                    "confidence": 0.85
+                }
+            ]
+        },
+        {
+            "category_id": "L2_SPICES",
+            "category_name": "Spices & Masalas",
+            "default_unit": "g",
+            "patterns": [
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "masala",
+                        "powder",
+                        "spice"
+                    ],
+                    "confidence": 0.80
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "turmeric",
+                        "haldi",
+                        "हल्दी"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "red chilli",
+                        "lal mirch",
+                        "chilli powder"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "coriander powder",
+                        "dhaniya powder"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "cumin",
+                        "jeera",
+                        "जीरा"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "garam masala",
+                        "kitchen king",
+                        "sambhar powder",
+                        "meat masala",
+                        "biryani masala"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "mustard seed",
+                        "rai",
+                        "sarson"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "keyword",
+                    "matches": [
+                        "pepper",
+                        "kali mirch",
+                        "काली मिर्च"
+                    ],
+                    "confidence": 0.95
+                },
+                {
+                    "type": "brand",
+                    "matches": [
+                        "mdh",
+                        "everest",
+                        "catch",
+                        "tata sampann",
+                        "eastern",
+                        "badshah",
+                        "shan"
+                    ],
+                    "confidence": 0.90
+                }
+            ]
+        }
+    ],
+    "unit_patterns": [
+        {
+            "pattern": "(\\d+(?:\\.\\d+)?)\\s*kg",
+            "unit": "kg",
+            "multiplier": 1
+        },
+        {
+            "pattern": "(\\d+(?:\\.\\d+)?)\\s*g(?:m)?",
+            "unit": "g",
+            "multiplier": 1
+        },
+        {
+            "pattern": "(\\d+(?:\\.\\d+)?)\\s*(?:l|ltr|litre|liter)",
+            "unit": "L",
+            "multiplier": 1
+        },
+        {
+            "pattern": "(\\d+(?:\\.\\d+)?)\\s*ml",
+            "unit": "ml",
+            "multiplier": 1
+        },
+        {
+            "pattern": "(\\d+(?:\\.\\d+)?)\\s*(?:pcs?|pieces?|pack|pkt)",
+            "unit": "pcs",
+            "multiplier": 1
+        },
+        {
+            "pattern": "(\\d+(?:\\.\\d+)?)\\s*(?:dozen|dz)",
+            "unit": "pcs",
+            "multiplier": 12
+        }
+    ],
+    "brand_extraction_patterns": [
+        "^([A-Z][a-z]+(?:\\s+[A-Z][a-z]+)?)",
+        "\\b(Tata|Amul|Britannia|Nestle|Parle|Fortune|Dabur|Hindustan|ITC|P&G|Colgate|Himalaya)\\b"
+    ]
+}

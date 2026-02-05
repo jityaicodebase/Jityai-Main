@@ -1,0 +1,105 @@
+{
+  "store_name": "CRITICAL_STRESS_TEST",
+  "items": [
+    {
+      "product_name": "AMUL",
+      "quantity": 10,
+      "selling_price": 30
+    },
+    {
+      "product_name": "MAGGI",
+      "quantity": 20,
+      "selling_price": 15
+    },
+    {
+      "product_name": "Loose Sugar (unbranded) 1.250 kg",
+      "quantity": 15,
+      "selling_price": 60
+    },
+    {
+      "product_name": "B1G1 FREE - Ariel Matic 1kg",
+      "quantity": 30,
+      "selling_price": 240
+    },
+    {
+      "product_name": "Himalaya Neem Face Wash 15ml Sachet",
+      "quantity": 100,
+      "selling_price": 15
+    },
+    {
+      "product_name": "Chawal (Basmati) 5kg",
+      "quantity": 10,
+      "selling_price": 600
+    },
+    {
+      "product_name": "Aata 10kg Chakki",
+      "quantity": 5,
+      "selling_price": 450
+    },
+    {
+      "product_name": "Sabudana (Sago) 500g",
+      "quantity": 20,
+      "selling_price": 80
+    },
+    {
+      "product_name": "Notebook A4 Classmate 120p",
+      "quantity": 50,
+      "selling_price": 55
+    },
+    {
+      "product_name": "Everead AA Cell 1pc",
+      "quantity": 100,
+      "selling_price": 15
+    },
+    {
+      "product_name": "Dettol (Value Pack)",
+      "quantity": 20,
+      "selling_price": 180
+    },
+    {
+      "product_name": "Colgate 1+1 Combo",
+      "quantity": 40,
+      "selling_price": 110
+    },
+    {
+      "product_name": "Avilakki (Poha) 500g",
+      "quantity": 30,
+      "selling_price": 45
+    },
+    {
+      "product_name": "Mukhwas Mouth Freshener",
+      "quantity": 50,
+      "selling_price": 10
+    },
+    {
+      "product_name": "Godrej Aer Pocket (Mixed)",
+      "quantity": 30,
+      "selling_price": 60
+    },
+    {
+      "product_name": "Papadum (South Indian Style)",
+      "quantity": 50,
+      "selling_price": 25
+    },
+    {
+      "product_name": "Cleaning Brush No.4",
+      "quantity": 15,
+      "selling_price": 45
+    },
+    {
+      "product_name": "Mixed Fruit Jam Kissan 15g sachet",
+      "quantity": 200,
+      "selling_price": 2
+    },
+    {
+      "product_name": "Bru Instant Coffee 2 rupee sachet",
+      "quantity": 300,
+      "selling_price": 2
+    },
+    {
+      "product_name": "Baby Diaper (Loose) 1pc",
+      "quantity": 50,
+      "selling_price": 12
+    }
+  ]
+}

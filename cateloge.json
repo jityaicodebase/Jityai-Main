@@ -1,0 +1,425 @@
+{
+  "catalog_version": "v2.4.0",
+  "catalog_name": "India Master Retail Catalogue (Enhanced)",
+  "description": "Expanded master catalogue for Indian retail with deep sub-categorization",
+  "last_updated": "2026-02-06",
+  "categories": [
+    {
+      "category_id": "L1_FRESH",
+      "category_name": "Fresh Food & Daily Essentials",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_FRESH_VEGETABLES",
+          "category_name": "Fresh Vegetables",
+          "category_level": 2,
+          "children": [
+            {
+              "category_id": "L3_FRESH_VEGETABLES_DAILY",
+              "category_name": "Daily Vegetables"
+            },
+            {
+              "category_id": "L3_FRESH_VEGETABLES_EXOTIC",
+              "category_name": "Exotic Vegetables"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_FRESH_FRUITS",
+          "category_name": "Fresh Fruits",
+          "category_level": 2,
+          "children": [
+            {
+              "category_id": "L3_FRESH_FRUITS_REGULAR",
+              "category_name": "Regular Fruits"
+            },
+            {
+              "category_id": "L3_FRESH_FRUITS_SEASONAL",
+              "category_name": "Seasonal Fruits"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_NON_VEG",
+          "category_name": "Meat, Fish & Sea Food",
+          "category_level": 2,
+          "children": [
+            {
+              "category_id": "L3_CHICKEN",
+              "category_name": "Chicken"
+            },
+            {
+              "category_id": "L3_MUTTON",
+              "category_name": "Mutton & Lamb"
+            },
+            {
+              "category_id": "L3_FISH_SEAFOOD",
+              "category_name": "Fish & Seafood"
+            },
+            {
+              "category_id": "L3_COLD_CUTS",
+              "category_name": "Cold Cuts & Sausages"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": "L1_DAIRY",
+      "category_name": "Dairy, Bread & Eggs",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_MILK",
+          "category_name": "Milk"
+        },
+        {
+          "category_id": "L2_CURD_YOGURT",
+          "category_name": "Curd & Yogurt"
+        },
+        {
+          "category_id": "L2_BREAD",
+          "category_name": "Bread & Bakery"
+        },
+        {
+          "category_id": "L2_EGGS",
+          "category_name": "Eggs"
+        },
+        {
+          "category_id": "L2_PANEER_CHEESE",
+          "category_name": "Paneer & Cheese"
+        },
+        {
+          "category_id": "L2_BUTTER_CREAM",
+          "category_name": "Butter & Cream"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_STAPLES",
+      "category_name": "Staples & Cooking Essentials",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_ATTA_FLOURS",
+          "category_name": "Atta & Flours",
+          "children": [
+            {
+              "category_id": "L3_WHEAT_ATTA",
+              "category_name": "Wheat Atta"
+            },
+            {
+              "category_id": "L3_SPECIALTY_FLOURS",
+              "category_name": "Specialty Flours (Besan, Maida, Suji)"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_RICE_PULSES",
+          "category_name": "Rice & Pulses",
+          "children": [
+            {
+              "category_id": "L3_RICE",
+              "category_name": "Rice & Basmati"
+            },
+            {
+              "category_id": "L3_PULSES_DALS",
+              "category_name": "Dals & Pulses"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_OILS_GHEE",
+          "category_name": "Edible Oils & Ghee",
+          "children": [
+            {
+              "category_id": "L3_COOKING_OILS",
+              "category_name": "Cooking Oils (Refined/Cold Pressed)"
+            },
+            {
+              "category_id": "L3_GHEE_VANASPATI",
+              "category_name": "Ghee & Vanaspati"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_SPICES_MASALAS",
+          "category_name": "Spices & Masalas",
+          "children": [
+            {
+              "category_id": "L3_SPICES_WHOLE",
+              "category_name": "Whole Spices"
+            },
+            {
+              "category_id": "L3_SPICES_POWDER",
+              "category_name": "Ground/Powdered Spices"
+            },
+            {
+              "category_id": "L3_BLENDED_MASALAS",
+              "category_name": "Blended Masalas (Pav Bhaji, Chicken, etc.)"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_CONDIMENTS",
+          "category_name": "Condiments & Cooking Pastes",
+          "children": [
+            {
+              "category_id": "L3_COOKING_PASTES",
+              "category_name": "Ginger Garlic / Tamarind Pastes"
+            },
+            {
+              "category_id": "L3_PICKLES",
+              "category_name": "Pickles & Chutneys"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_READY_INGREDIENTS",
+          "category_name": "Ready Cooking Ingredients",
+          "children": [
+            {
+              "category_id": "L3_PAPADS_FRYUMS",
+              "category_name": "Papads & Fryums"
+            },
+            {
+              "category_id": "L3_COCONUT_MILK_POWDER",
+              "category_name": "Coconut Products & Milk Powders"
+            }
+          ]
+        },
+        {
+          "category_id": "L2_SALT_SUGAR_JAGGERY",
+          "category_name": "Salt, Sugar & Jaggery"
+        },
+        {
+          "category_id": "L2_DRY_FRUITS",
+          "category_name": "Dry Fruits & Nuts"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_PACKAGED",
+      "category_name": "Packaged Food & Snacks",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_SNACKS",
+          "category_name": "Snacks & Namkeen"
+        },
+        {
+          "category_id": "L2_BISCUITS",
+          "category_name": "Biscuits & Cookies"
+        },
+        {
+          "category_id": "L2_CHOCOLATES",
+          "category_name": "Chocolates & Confectionery"
+        },
+        {
+          "category_id": "L2_INSTANT_FOOD",
+          "category_name": "Instant Noodles & Pasta"
+        },
+        {
+          "category_id": "L2_SAUCES_SPREADS",
+          "category_name": "Sauces, Spreads & Jams"
+        },
+        {
+          "category_id": "L2_BREAKFAST_CEREALS",
+          "category_name": "Breakfast Cereals"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_BEVERAGES",
+      "category_name": "Beverages",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_SOFT_DRINKS",
+          "category_name": "Soft Drinks & Juices"
+        },
+        {
+          "category_id": "L2_TEA_COFFEE",
+          "category_name": "Tea & Coffee"
+        },
+        {
+          "category_id": "L2_WATER_SODA",
+          "category_name": "Water & Soda"
+        },
+        {
+          "category_id": "L2_HEALTH_DRINKS",
+          "category_name": "Health & Energy Drinks"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_PERSONAL_CARE",
+      "category_name": "Personal Care & Beauty",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_ORAL_CARE",
+          "category_name": "Oral Care"
+        },
+        {
+          "category_id": "L2_HAIR_CARE",
+          "category_name": "Hair Care"
+        },
+        {
+          "category_id": "L2_SKIN_CARE",
+          "category_name": "Skin Care"
+        },
+        {
+          "category_id": "L2_BATH_BODY",
+          "category_name": "Bath & Body"
+        },
+        {
+          "category_id": "L2_FRAGRANCE",
+          "category_name": "Fragrance & Deo"
+        },
+        {
+          "category_id": "L2_FEMININE_HYGIENE",
+          "category_name": "Feminine Hygiene"
+        },
+        {
+          "category_id": "L2_MEN_GROOMING",
+          "category_name": "Men's Grooming"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_HOME_CARE",
+      "category_name": "Home Care & Cleaning",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_DETERGENTS",
+          "category_name": "Detergents & Fabric Care"
+        },
+        {
+          "category_id": "L2_DISHWASH",
+          "category_name": "Dishwash & Kitchen Cleaning"
+        },
+        {
+          "category_id": "L2_FLOOR_TOILET_CLEANER",
+          "category_name": "Floor & Toilet Cleaners"
+        },
+        {
+          "category_id": "L2_REPELLENTS",
+          "category_name": "Repellents & Air Freshners"
+        },
+        {
+          "category_id": "L2_HOME_PLASTICS",
+          "category_name": "Cleaning Tools & Plastics"
+        },
+        {
+          "category_id": "L2_POOJA_NEEDS",
+          "category_name": "Pooja Needs"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_PHARMA",
+      "category_name": "Health & Wellness",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_OTC_MEDICINES",
+          "category_name": "OTC Medicines"
+        },
+        {
+          "category_id": "L2_SUPPLEMENTS",
+          "category_name": "Vitamins & Supplements"
+        },
+        {
+          "category_id": "L2_AYURVEDA",
+          "category_name": "Ayurveda & Herbal"
+        },
+        {
+          "category_id": "L2_FIRST_AID",
+          "category_name": "First Aid & Supports"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_DURABLES",
+      "category_name": "Home, Kitchen & Durables",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_KITCHEN_WARE",
+          "category_name": "Kitchenware & Utensils"
+        },
+        {
+          "category_id": "L2_ELECTRICALS",
+          "category_name": "Electricals & Batteries"
+        },
+        {
+          "category_id": "L2_STATIONERY",
+          "category_name": "Stationery & School"
+        },
+        {
+          "category_id": "L2_TOYS_GAMES",
+          "category_name": "Toys & Games"
+        },
+        {
+          "category_id": "L2_LUGGAGE",
+          "category_name": "Luggage & Bags"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_BABY",
+      "category_name": "Baby Care",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_DIAPERS_WIPES",
+          "category_name": "Diapers & Wipes"
+        },
+        {
+          "category_id": "L2_BABY_FOOD",
+          "category_name": "Baby Food"
+        },
+        {
+          "category_id": "L2_BABY_BATH",
+          "category_name": "Baby Bath & Skin"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_PET",
+      "category_name": "Pet Care",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_DOG_CARE",
+          "category_name": "Dog Care"
+        },
+        {
+          "category_id": "L2_CAT_CARE",
+          "category_name": "Cat Care"
+        }
+      ]
+    },
+    {
+      "category_id": "L1_FROZEN",
+      "category_name": "Frozen Food",
+      "category_level": 1,
+      "children": [
+        {
+          "category_id": "L2_FROZEN_VEG",
+          "category_name": "Frozen Veg & Snacks"
+        },
+        {
+          "category_id": "L2_FROZEN_NON_VEG",
+          "category_name": "Frozen Non-Veg"
+        },
+        {
+          "category_id": "L2_ICE_CREAMS",
+          "category_name": "Ice Creams & Desserts"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1051 @@
+{
+    "store_name": "Green Mart - Bangalore (Regional & Modern Mix)",
+    "location": "Indiranagar, Bangalore",
+    "items": [
+        {
+            "product_name": "Nandini GoodLife Milk 1L",
+            "quantity": "120",
+            "selling_price": "54"
+        },
+        {
+            "product_name": "Nandini Pure Ghee 500ml",
+            "quantity": "45",
+            "selling_price": "310"
+        },
+        {
+            "product_name": "MTR Puliogare Powder 100g",
+            "quantity": "60",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "MTR Rava Idli Mix 500g",
+            "quantity": "35",
+            "selling_price": "110"
+        },
+        {
+            "product_name": "Aashirvaad Select Sharbati Atta 5kg",
+            "quantity": "25",
+            "selling_price": "320"
+        },
+        {
+            "product_name": "Fortune Sunlite Oil 1L",
+            "quantity": "90",
+            "selling_price": "145"
+        },
+        {
+            "product_name": "Saffola Active Oil 5L",
+            "quantity": "15",
+            "selling_price": "850"
+        },
+        {
+            "product_name": "Daawat Devaaya Rice 5kg",
+            "quantity": "40",
+            "selling_price": "450"
+        },
+        {
+            "product_name": "Maggi 2-Minute Noodles 280g",
+            "quantity": "100",
+            "selling_price": "48"
+        },
+        {
+            "product_name": "Top Ramen Curry 280g",
+            "quantity": "50",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Knorr Mixed Veg Soup 45g",
+            "quantity": "120",
+            "selling_price": "55"
+        },
+        {
+            "product_name": "Ching's Secret Schezwan Chutney 250g",
+            "quantity": "30",
+            "selling_price": "85"
+        },
+        {
+            "product_name": "Himalaya Purifying Neem Face Wash 200ml",
+            "quantity": "25",
+            "selling_price": "190"
+        },
+        {
+            "product_name": "Pears Soft & Fresh Soap 125g",
+            "quantity": "50",
+            "selling_price": "62"
+        },
+        {
+            "product_name": "Surf Excel Matic Front Load 1kg",
+            "quantity": "40",
+            "selling_price": "230"
+        },
+        {
+            "product_name": "Comfort Fabric Conditioner 860ml",
+            "quantity": "20",
+            "selling_price": "215"
+        },
+        {
+            "product_name": "Lizol Citrus Floor Cleaner 2L",
+            "quantity": "15",
+            "selling_price": "385"
+        },
+        {
+            "product_name": "Colin Glass Cleaner Ultra 500ml",
+            "quantity": "30",
+            "selling_price": "105"
+        },
+        {
+            "product_name": "Harpic Bathroom Cleaner 500ml",
+            "quantity": "40",
+            "selling_price": "99"
+        },
+        {
+            "product_name": "Pril Tamarind Dishwash Liquid 750ml",
+            "quantity": "25",
+            "selling_price": "155"
+        },
+        {
+            "product_name": "Paper Boat Jamun Fruit Power 250ml",
+            "quantity": "60",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Real Fruit Power Guava 1L",
+            "quantity": "40",
+            "selling_price": "115"
+        },
+        {
+            "product_name": "Raw Pressery Sugarcane 250ml",
+            "quantity": "30",
+            "selling_price": "60"
+        },
+        {
+            "product_name": "Bisleri Water 5L",
+            "quantity": "20",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Amul Mithai Mate 200g",
+            "quantity": "45",
+            "selling_price": "60"
+        },
+        {
+            "product_name": "Milton Thermosteel Flask 500ml",
+            "quantity": "10",
+            "selling_price": "850"
+        },
+        {
+            "product_name": "Cello H2O Water Bottle 1L",
+            "quantity": "25",
+            "selling_price": "120"
+        },
+        {
+            "product_name": "Classmate Notebook A4 120 pages",
+            "quantity": "100",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Reynolds 045 Fine Carbure Ball Pen Black",
+            "quantity": "200",
+            "selling_price": "10"
+        },
+        {
+            "product_name": "Natraj 621 Pencils Pack of 10",
+            "quantity": "50",
+            "selling_price": "50"
+        },
+        {
+            "product_name": "Fevicol MR Squeeze Bottle 50g",
+            "quantity": "40",
+            "selling_price": "25"
+        },
+        {
+            "product_name": "Nivea Soft Moisturizing Cream 200ml",
+            "quantity": "35",
+            "selling_price": "299"
+        },
+        {
+            "product_name": "Parachute Advansed Aloe Vera Hair Oil 250ml",
+            "quantity": "60",
+            "selling_price": "140"
+        },
+        {
+            "product_name": "Bajaj Almond Drops Hair Oil 300ml",
+            "quantity": "40",
+            "selling_price": "185"
+        },
+        {
+            "product_name": "Indulekha Bringha Hair Oil 100ml",
+            "quantity": "25",
+            "selling_price": "430"
+        },
+        {
+            "product_name": "Colgate MaxFresh Blue 150g",
+            "quantity": "80",
+            "selling_price": "105"
+        },
+        {
+            "product_name": "Oral-B Kids Soft Toothbrush",
+            "quantity": "40",
+            "selling_price": "60"
+        },
+        {
+            "product_name": "Sensodyne Rapid Relief 100g",
+            "quantity": "30",
+            "selling_price": "195"
+        },
+        {
+            "product_name": "Whisper Choice Ultra 7 Pads",
+            "quantity": "120",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Stayfree Secure Cottony XL 20 Pads",
+            "quantity": "80",
+            "selling_price": "165"
+        },
+        {
+            "product_name": "Dettol Liquid Handwash Refill 750ml",
+            "quantity": "50",
+            "selling_price": "115"
+        },
+        {
+            "product_name": "Savlon Antiseptic Liquid 500ml",
+            "quantity": "30",
+            "selling_price": "145"
+        },
+        {
+            "product_name": "Horlicks Health Drink 500g Jar",
+            "quantity": "40",
+            "selling_price": "265"
+        },
+        {
+            "product_name": "Bournvita Inner Strength 500g Pouch",
+            "quantity": "60",
+            "selling_price": "240"
+        },
+        {
+            "product_name": "Cadbury Celebrations Gift Pack 180g",
+            "quantity": "100",
+            "selling_price": "150"
+        },
+        {
+            "product_name": "Kinder Joy for Boys 20g",
+            "quantity": "150",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Dark Fantasy Choco Fills 75g",
+            "quantity": "80",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "Unibic Multigrain Cookies 75g",
+            "quantity": "60",
+            "selling_price": "30"
+        },
+        {
+            "product_name": "McVitie's Digestive Biscuits 250g",
+            "quantity": "45",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Oreo Strawberry Cream 120g",
+            "quantity": "70",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Haldiram's Bhujia Sev 400g",
+            "quantity": "100",
+            "selling_price": "110"
+        },
+        {
+            "product_name": "Balaji Tomato Wafers 45g",
+            "quantity": "200",
+            "selling_price": "20"
+        },
+        {
+            "product_name": "Act II Instant Popcorn Butter 60g",
+            "quantity": "120",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "Kellogg's Special K 435g",
+            "quantity": "25",
+            "selling_price": "210"
+        },
+        {
+            "product_name": "Bagrry's White Oats 1kg",
+            "quantity": "30",
+            "selling_price": "185"
+        },
+        {
+            "product_name": "Tata Coffee Grand 50g",
+            "quantity": "80",
+            "selling_price": "135"
+        },
+        {
+            "product_name": "Bru Instant Coffee 100g",
+            "quantity": "60",
+            "selling_price": "245"
+        },
+        {
+            "product_name": "Wagh Bakri Premium Tea 500g",
+            "quantity": "40",
+            "selling_price": "310"
+        },
+        {
+            "product_name": "Red Label Natural Care Tea 250g",
+            "quantity": "50",
+            "selling_price": "155"
+        },
+        {
+            "product_name": "Society Tea 250g",
+            "quantity": "35",
+            "selling_price": "140"
+        },
+        {
+            "product_name": "Nirapara Rice Powder 1kg",
+            "quantity": "50",
+            "selling_price": "75"
+        },
+        {
+            "product_name": "Eastern Turmeric Powder 100g",
+            "quantity": "100",
+            "selling_price": "32"
+        },
+        {
+            "product_name": "Everest Chicken Masala 100g",
+            "quantity": "60",
+            "selling_price": "78"
+        },
+        {
+            "product_name": "Badshah Rajwadi Garam Masala 100g",
+            "quantity": "45",
+            "selling_price": "85"
+        },
+        {
+            "product_name": "MDH Deggi Mirch 100g",
+            "quantity": "80",
+            "selling_price": "90"
+        },
+        {
+            "product_name": "Catch Jeera Powder 100g",
+            "quantity": "55",
+            "selling_price": "75"
+        },
+        {
+            "product_name": "Idhayam Sesame Oil 500ml",
+            "quantity": "30",
+            "selling_price": "195"
+        },
+        {
+            "product_name": "Tata Salt SuperLite 1kg",
+            "quantity": "200",
+            "selling_price": "28"
+        },
+        {
+            "product_name": "Catch Black Pepper Sprinkler 50g",
+            "quantity": "60",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Patanjali Cow Ghee 500ml",
+            "quantity": "40",
+            "selling_price": "325"
+        },
+        {
+            "product_name": "Gowardhan Paneer 200g",
+            "quantity": "50",
+            "selling_price": "95"
+        },
+        {
+            "product_name": "iD Fresh Paneer 200g",
+            "quantity": "40",
+            "selling_price": "110"
+        },
+        {
+            "product_name": "Milky Mist Fruit Yogurt Strawberry 100g",
+            "quantity": "100",
+            "selling_price": "25"
+        },
+        {
+            "product_name": "Epigamia Greek Yogurt Natural 90g",
+            "quantity": "60",
+            "selling_price": "50"
+        },
+        {
+            "product_name": "Amul Kool Rose 200ml",
+            "quantity": "120",
+            "selling_price": "25"
+        },
+        {
+            "product_name": "Britannia Cheese Cubes 200g",
+            "quantity": "45",
+            "selling_price": "135"
+        },
+        {
+            "product_name": "Mother Dairy Classic Curd 400g",
+            "quantity": "80",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "iD Soft & Smooth Idli Batter 1kg",
+            "quantity": "40",
+            "selling_price": "85"
+        },
+        {
+            "product_name": "Heritage Toned Milk 500ml",
+            "quantity": "200",
+            "selling_price": "27"
+        },
+        {
+            "product_name": "Safal Frozen Green Peas 500g",
+            "quantity": "30",
+            "selling_price": "120"
+        },
+        {
+            "product_name": "McCain Veggie Nuggets 325g",
+            "quantity": "25",
+            "selling_price": "145"
+        },
+        {
+            "product_name": "Yummiez Chicken Sausage 250g",
+            "quantity": "20",
+            "selling_price": "180"
+        },
+        {
+            "product_name": "Kwality Walls Choco Brownie Fudge 700ml",
+            "quantity": "15",
+            "selling_price": "275"
+        },
+        {
+            "product_name": "Amul Epic Choco Almond Ice Cream 80ml",
+            "quantity": "100",
+            "selling_price": "50"
+        },
+        {
+            "product_name": "Eggs Pack of 6",
+            "quantity": "100",
+            "selling_price": "42"
+        },
+        {
+            "product_name": "Farm Made Free Range Eggs 10pcs",
+            "quantity": "30",
+            "selling_price": "150"
+        },
+        {
+            "product_name": "Bread Sandwiches 1pkt",
+            "quantity": "50",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Britannia Pav Pack of 6",
+            "quantity": "60",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Rusk Toast 200g",
+            "quantity": "80",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "English Oven Whole Wheat Bread 400g",
+            "quantity": "40",
+            "selling_price": "55"
+        },
+        {
+            "product_name": "Fresho Potato 1kg",
+            "quantity": "100",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Fresho Onion 1kg",
+            "quantity": "150",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Fresho Tomato Hybrid 1kg",
+            "quantity": "120",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "Fresho Carrot Orange 500g",
+            "quantity": "80",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Fresho Garlic 250g",
+            "quantity": "100",
+            "selling_price": "60"
+        },
+        {
+            "product_name": "Fresho Ginger 250g",
+            "quantity": "100",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "Fresho Green Chilli 100g",
+            "quantity": "150",
+            "selling_price": "15"
+        },
+        {
+            "product_name": "Fresho Coriander Leaves 100g",
+            "quantity": "200",
+            "selling_price": "10"
+        },
+        {
+            "product_name": "Fresho Palak 250g",
+            "quantity": "100",
+            "selling_price": "20"
+        },
+        {
+            "product_name": "Fresho Seasonal Muskmelon 1kg",
+            "quantity": "40",
+            "selling_price": "60"
+        },
+        {
+            "product_name": "Fresho Papaya 1pc (Approx 1kg)",
+            "quantity": "50",
+            "selling_price": "70"
+        },
+        {
+            "product_name": "Fresho Elaichi Banana 1kg",
+            "quantity": "80",
+            "selling_price": "85"
+        },
+        {
+            "product_name": "Fresho Royal Gala Apple 4pcs",
+            "quantity": "60",
+            "selling_price": "180"
+        },
+        {
+            "product_name": "Eveready AA Alkaline Batteries Pack of 4",
+            "quantity": "100",
+            "selling_price": "140"
+        },
+        {
+            "product_name": "Panasonic Button Cell CR2032",
+            "quantity": "50",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Philips LED Bulb 9W Base B22",
+            "quantity": "60",
+            "selling_price": "99"
+        },
+        {
+            "product_name": "Syska Extension Cord 4-Way",
+            "quantity": "20",
+            "selling_price": "450"
+        },
+        {
+            "product_name": "Godrej Aer Pocket Road Trip 10g",
+            "quantity": "120",
+            "selling_price": "55"
+        },
+        {
+            "product_name": "Odonil Lavender Mist 50g",
+            "quantity": "100",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Hit Flying Insect Killer 400ml",
+            "quantity": "50",
+            "selling_price": "225"
+        },
+        {
+            "product_name": "Mortein PowerGard Coil Pack of 10",
+            "quantity": "150",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "Baygon Multi Insect Killer 400ml",
+            "quantity": "40",
+            "selling_price": "210"
+        },
+        {
+            "product_name": "Pedigree Chicken & Vegetables 3kg",
+            "quantity": "15",
+            "selling_price": "750"
+        },
+        {
+            "product_name": "Whiskas Jelly Food for Adult Cats 85g",
+            "quantity": "120",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Drools Absolute Milk Tablets 50pcs",
+            "quantity": "25",
+            "selling_price": "220"
+        },
+        {
+            "product_name": "Huggies Wonder Pants M size 20pcs",
+            "quantity": "60",
+            "selling_price": "399"
+        },
+        {
+            "product_name": "Pampers All Round Protection S size 22pcs",
+            "quantity": "50",
+            "selling_price": "349"
+        },
+        {
+            "product_name": "MamyPoko Pants Standard L 10pcs",
+            "quantity": "80",
+            "selling_price": "199"
+        },
+        {
+            "product_name": "Johnson's Baby Wipes 80pcs",
+            "quantity": "100",
+            "selling_price": "180"
+        },
+        {
+            "product_name": "Himalaya Baby Powder 400g",
+            "quantity": "45",
+            "selling_price": "210"
+        },
+        {
+            "product_name": "Nestle Cerelac Stage 2 Wheat Apple 300g",
+            "quantity": "40",
+            "selling_price": "240"
+        },
+        {
+            "product_name": "Dettol Antiseptic Disinfectant 1L",
+            "quantity": "30",
+            "selling_price": "360"
+        },
+        {
+            "product_name": "Moov Pain Relief Gel 50g",
+            "quantity": "60",
+            "selling_price": "165"
+        },
+        {
+            "product_name": "Iodex Fast Relief Balm 40g",
+            "quantity": "50",
+            "selling_price": "135"
+        },
+        {
+            "product_name": "Volini Instant Pain Relief Spray 40g",
+            "quantity": "45",
+            "selling_price": "145"
+        },
+        {
+            "product_name": "Digene Mint Tablets 15s",
+            "quantity": "120",
+            "selling_price": "22"
+        },
+        {
+            "product_name": "Eno Ginger 5g Sachet",
+            "quantity": "500",
+            "selling_price": "9"
+        },
+        {
+            "product_name": "Crocin Advance 500mg 15 Tablets",
+            "quantity": "100",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Saridon Pain Relief 10 Tablets",
+            "quantity": "120",
+            "selling_price": "42"
+        },
+        {
+            "product_name": "Revital H for Men 30 Capsules",
+            "quantity": "25",
+            "selling_price": "310"
+        },
+        {
+            "product_name": "HealthKart Fish Oil 60 Capsules",
+            "quantity": "15",
+            "selling_price": "599"
+        },
+        {
+            "product_name": "Sugar Free Natura 100 Tablets",
+            "quantity": "40",
+            "selling_price": "145"
+        },
+        {
+            "product_name": "Kellogg's Oats 1kg with Free Bowl",
+            "quantity": "25",
+            "selling_price": "195"
+        },
+        {
+            "product_name": "Quaker Oats Lemony Veggie Mix 40g",
+            "quantity": "100",
+            "selling_price": "20"
+        },
+        {
+            "product_name": "Saffola Masala Oats Classic Masala 38g",
+            "quantity": "150",
+            "selling_price": "18"
+        },
+        {
+            "product_name": "MTR Minute Fresh Vermicelli 400g",
+            "quantity": "60",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Bambino Roasted Vermicelli 400g",
+            "quantity": "80",
+            "selling_price": "55"
+        },
+        {
+            "product_name": "Kissan Fresh Tomato Ketchup 1kg Pouch",
+            "quantity": "50",
+            "selling_price": "135"
+        },
+        {
+            "product_name": "Maggi Hot & Sweet Chilli Sauce 1kg",
+            "quantity": "40",
+            "selling_price": "165"
+        },
+        {
+            "product_name": "Del Monte Eggless Mayo 265g",
+            "quantity": "35",
+            "selling_price": "120"
+        },
+        {
+            "product_name": "FunFoods Veg Mayonnaise 400g",
+            "quantity": "60",
+            "selling_price": "145"
+        },
+        {
+            "product_name": "Veeba Burger Mayonnaise 250g",
+            "quantity": "45",
+            "selling_price": "99"
+        },
+        {
+            "product_name": "Wingreens Farms Peri Peri Garlic Dip 150g",
+            "quantity": "25",
+            "selling_price": "185"
+        },
+        {
+            "product_name": "Hershey's Chocolate Syrup 623g",
+            "quantity": "30",
+            "selling_price": "245"
+        },
+        {
+            "product_name": "Kissan Mixed Fruit Jam 700g Jar",
+            "quantity": "45",
+            "selling_price": "195"
+        },
+        {
+            "product_name": "Nutella Hazelnut Spread 350g",
+            "quantity": "20",
+            "selling_price": "430"
+        },
+        {
+            "product_name": "Sundrop Peanut Butter Crunchy 462g",
+            "quantity": "25",
+            "selling_price": "210"
+        },
+        {
+            "product_name": "Disano Extra Virgin Olive Oil 1L",
+            "quantity": "15",
+            "selling_price": "999"
+        },
+        {
+            "product_name": "Borges Pomace Olive Oil 1L",
+            "quantity": "30",
+            "selling_price": "850"
+        },
+        {
+            "product_name": "Figaro Olive Oil 500ml Can",
+            "quantity": "20",
+            "selling_price": "650"
+        },
+        {
+            "product_name": "Dhara Kachi Ghani Mustard Oil 1L",
+            "quantity": "100",
+            "selling_price": "175"
+        },
+        {
+            "product_name": "Fortune Rice Bran Oil 5L",
+            "quantity": "30",
+            "selling_price": "795"
+        },
+        {
+            "product_name": "Dalda Vanaspati Pouch 1L",
+            "quantity": "60",
+            "selling_price": "135"
+        },
+        {
+            "product_name": "Uttam Sugar White Crystal 5kg",
+            "quantity": "40",
+            "selling_price": "265"
+        },
+        {
+            "product_name": "Trust Sunehra Mineral Brown Sugar 500g",
+            "quantity": "30",
+            "selling_price": "75"
+        },
+        {
+            "product_name": "Madhur Sugar Pure & Hygienic 1kg",
+            "quantity": "150",
+            "selling_price": "55"
+        },
+        {
+            "product_name": "Parle-G Gold Biscuits 1kg",
+            "quantity": "50",
+            "selling_price": "120"
+        },
+        {
+            "product_name": "Britannia Marie Gold 120g",
+            "quantity": "200",
+            "selling_price": "15"
+        },
+        {
+            "product_name": "Sunfeast Dark Fantasy Yumfills 152g",
+            "quantity": "60",
+            "selling_price": "120"
+        },
+        {
+            "product_name": "Hide & Seek Choco Chip Biscuits 400g",
+            "quantity": "40",
+            "selling_price": "150"
+        },
+        {
+            "product_name": "Good Day Cashew Cookies 600g",
+            "quantity": "100",
+            "selling_price": "180"
+        },
+        {
+            "product_name": "Bourbon Chocolate Cream Biscuits 150g",
+            "quantity": "120",
+            "selling_price": "25"
+        },
+        {
+            "product_name": "50-50 Maska Chaska 300g",
+            "quantity": "80",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Balaji Masala Masti Wafers 100g",
+            "quantity": "150",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Bingo Mad Angles Achari Masti 80g",
+            "quantity": "120",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "Kurkure Masala Munch 90g",
+            "quantity": "200",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Cheetos Cheese Puffs 30g",
+            "quantity": "150",
+            "selling_price": "10"
+        },
+        {
+            "product_name": "Dairy Milk Silk Bubbly 50g",
+            "quantity": "100",
+            "selling_price": "80"
+        },
+        {
+            "product_name": "KitKat Share Bag 10x12g",
+            "quantity": "60",
+            "selling_price": "120"
+        },
+        {
+            "product_name": "Snickers Almond Bar 45g",
+            "quantity": "150",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Lotte Choco Pie 12pcs Pack",
+            "quantity": "50",
+            "selling_price": "180"
+        },
+        {
+            "product_name": "Orbit Spearmint Gum Sachet 10s",
+            "quantity": "200",
+            "selling_price": "50"
+        },
+        {
+            "product_name": "Center Fresh Mint 100s Jar",
+            "quantity": "40",
+            "selling_price": "100"
+        },
+        {
+            "product_name": "Halls Mentholyptus Cherry 20s",
+            "quantity": "100",
+            "selling_price": "40"
+        },
+        {
+            "product_name": "Pulse Candy Mix Jar 500g",
+            "quantity": "30",
+            "selling_price": "150"
+        },
+        {
+            "product_name": "Raw Pressery Aloe Vera Juice 250ml",
+            "quantity": "40",
+            "selling_price": "80"
+        },
+        {
+            "product_name": "Ocean Fruit Water Peach 500ml",
+            "quantity": "60",
+            "selling_price": "55"
+        },
+        {
+            "product_name": "Yakult Probiotic Drink 5x65ml",
+            "quantity": "80",
+            "selling_price": "85"
+        },
+        {
+            "product_name": "Amul Lassi Rose 250ml Pouch",
+            "quantity": "150",
+            "selling_price": "15"
+        },
+        {
+            "product_name": "Paper Boat Aam Panna 250ml",
+            "quantity": "100",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Pepsi Black Guilt Free 250ml Can",
+            "quantity": "120",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Thums Up Charged 250ml Can",
+            "quantity": "120",
+            "selling_price": "35"
+        },
+        {
+            "product_name": "Red Bull Energy Drink 250ml",
+            "quantity": "200",
+            "selling_price": "125"
+        },
+        {
+            "product_name": "Monster Energy Ultra 350ml",
+            "quantity": "80",
+            "selling_price": "110"
+        },
+        {
+            "product_name": "Gatorade Blue Bolt 500ml",
+            "quantity": "60",
+            "selling_price": "60"
+        },
+        {
+            "product_name": "Kinley Soda 750ml",
+            "quantity": "100",
+            "selling_price": "30"
+        },
+        {
+            "product_name": "Schweppes Tonic Water 300ml Can",
+            "quantity": "60",
+            "selling_price": "60"
+        },
+        {
+            "product_name": "7up Nimbooz 250ml",
+            "quantity": "150",
+            "selling_price": "20"
+        },
+        {
+            "product_name": "Frooti Mango Drink 2L",
+            "quantity": "40",
+            "selling_price": "99"
+        },
+        {
+            "product_name": "Slice Mango Drink 1.2L",
+            "quantity": "50",
+            "selling_price": "75"
+        },
+        {
+            "product_name": "Fanta Orange Drink 2.25L",
+            "quantity": "30",
+            "selling_price": "95"
+        },
+        {
+            "product_name": "Minute Maid Pulpy Orange 1L",
+            "quantity": "40",
+            "selling_price": "70"
+        },
+        {
+            "product_name": "Breezer Non-Alcoholic Mix 275ml",
+            "quantity": "100",
+            "selling_price": "45"
+        },
+        {
+            "product_name": "Appy Fizz 1L",
+            "quantity": "60",
+            "selling_price": "65"
+        },
+        {
+            "product_name": "Cinthol Cool Soap 150g",
+            "quantity": "100",
+            "selling_price": "75"
+        },
+        {
+            "product_name": "Dove Daily Shine Shampoo 650ml",
+            "quantity": "25",
+            "selling_price": "599"
+        },
+        {
+            "product_name": "TRESemme Keratin Smooth Shampoo 185ml",
+            "quantity": "40",
+            "selling_price": "220"
+        },
+        {
+            "product_name": "Head & Shoulders Anti Dandruff 180ml",
+            "quantity": "40",
+            "selling_price": "195"
+        },
+        {
+            "product_name": "Pantene Hair Fall Control 180ml",
+            "quantity": "40",
+            "selling_price": "185"
+        },
+        {
+            "product_name": "L'Oreal Paris Total Repair 5 Shampoo 175ml",
+            "quantity": "35",
+            "selling_price": "210"
+        },
+        {
+            "product_name": "Biotique Bio Kelp Protein Shampoo 190ml",
+            "quantity": "30",
+            "selling_price": "159"
+        },
+        {
+            "product_name": "Mamaearth Onion Hair Oil 150ml",
+            "quantity": "25",
+            "selling_price": "399"
+        },
+        {
+            "product_name": "Dabur Amla Hair Oil 275ml",
+            "quantity": "60",
+            "selling_price": "135"
+        },
+        {
+            "product_name": "Navratna Ayurvedic Cool Oil 200ml",
+            "quantity": "50",
+            "selling_price": "165"
+        },
+        {
+            "product_name": "Cinthol Lime Deo Soap 125g",
+            "quantity": "120",
+            "selling_price": "180"
+        },
+        {
+            "product_name": "Wild Stone Code Iridium Body Perfume 120ml",
+            "quantity": "30",
+            "selling_price": "250"
+        },
+        {
+            "product_name": "Fog Black Series Royal Perfume 120ml",
+            "quantity": "45",
+            "selling_price": "299"
+        },
+        {
+            "product_name": "Engage W2 Perfume Spray for Women 120ml",
+            "quantity": "35",
+            "selling_price": "220"
+        },
+        {
+            "product_name": "Yardley London English Lavender Soap 100g",
+            "quantity": "50",
+            "selling_price": "95"
+        }
+    ]
+}

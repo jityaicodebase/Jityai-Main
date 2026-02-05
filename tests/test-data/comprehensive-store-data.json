@@ -1,0 +1,1315 @@
+{
+    "store_name": "Sharma Super Mart - Mumbai",
+    "store_type": "supermart",
+    "export_date": "2026-01-13",
+    "items": [
+        {
+            "product_name": "Tata Salt 1kg",
+            "quantity": 50,
+            "selling_price": 28,
+            "cost_price": 24
+        },
+        {
+            "product_name": "Tata Salt Lite 1kg",
+            "quantity": 20,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Catch Sprinklers Black Salt 200g",
+            "quantity": 30,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Aashirvaad Atta 5kg",
+            "quantity": 40,
+            "selling_price": 280,
+            "cost_price": 245
+        },
+        {
+            "product_name": "Aashirvaad Atta 10kg",
+            "quantity": 25,
+            "selling_price": 520,
+            "cost_price": 460
+        },
+        {
+            "product_name": "Pillsbury Chakki Atta 5kg",
+            "quantity": 15,
+            "selling_price": 265,
+            "cost_price": 230
+        },
+        {
+            "product_name": "Fortune Chakki Fresh Atta 5kg",
+            "quantity": 20,
+            "selling_price": 255,
+            "cost_price": 220
+        },
+        {
+            "product_name": "Patanjali Whole Wheat Atta 10kg",
+            "quantity": 18,
+            "selling_price": 400,
+            "cost_price": 350
+        },
+        {
+            "product_name": "India Gate Basmati Rice 5kg",
+            "quantity": 30,
+            "selling_price": 650,
+            "cost_price": 580
+        },
+        {
+            "product_name": "Daawat Rozana Basmati 1kg",
+            "quantity": 45,
+            "selling_price": 95,
+            "cost_price": 80
+        },
+        {
+            "product_name": "Fortune Everyday Basmati Rice 5kg",
+            "quantity": 20,
+            "selling_price": 420,
+            "cost_price": 370
+        },
+        {
+            "product_name": "Kohinoor Super Basmati 1kg",
+            "quantity": 25,
+            "selling_price": 180,
+            "cost_price": 155
+        },
+        {
+            "product_name": "Toor Dal 1kg",
+            "quantity": 60,
+            "selling_price": 145,
+            "cost_price": 125
+        },
+        {
+            "product_name": "Tata Sampann Moong Dal 1kg",
+            "quantity": 40,
+            "selling_price": 165,
+            "cost_price": 140
+        },
+        {
+            "product_name": "Fortune Arhar Dal 1kg",
+            "quantity": 35,
+            "selling_price": 150,
+            "cost_price": 128
+        },
+        {
+            "product_name": "Chana Dal 500g",
+            "quantity": 50,
+            "selling_price": 65,
+            "cost_price": 55
+        },
+        {
+            "product_name": "Urad Dal Chilka 1kg",
+            "quantity": 30,
+            "selling_price": 175,
+            "cost_price": 150
+        },
+        {
+            "product_name": "Fortune Sunflower Oil 1L",
+            "quantity": 80,
+            "selling_price": 145,
+            "cost_price": 125
+        },
+        {
+            "product_name": "Fortune Sunflower Oil 5L",
+            "quantity": 25,
+            "selling_price": 650,
+            "cost_price": 580
+        },
+        {
+            "product_name": "Saffola Gold Oil 1L",
+            "quantity": 40,
+            "selling_price": 195,
+            "cost_price": 170
+        },
+        {
+            "product_name": "Fortune Rice Bran Oil 1L",
+            "quantity": 35,
+            "selling_price": 160,
+            "cost_price": 138
+        },
+        {
+            "product_name": "Dhara Mustard Oil 1L",
+            "quantity": 50,
+            "selling_price": 175,
+            "cost_price": 152
+        },
+        {
+            "product_name": "Mother Dairy Pure Ghee 1L",
+            "quantity": 20,
+            "selling_price": 580,
+            "cost_price": 520
+        },
+        {
+            "product_name": "Amul Pure Ghee 500ml",
+            "quantity": 35,
+            "selling_price": 320,
+            "cost_price": 285
+        },
+        {
+            "product_name": "Sugar 1kg",
+            "quantity": 100,
+            "selling_price": 48,
+            "cost_price": 42
+        },
+        {
+            "product_name": "Uttam Sugar 5kg",
+            "quantity": 30,
+            "selling_price": 225,
+            "cost_price": 195
+        },
+        {
+            "product_name": "Patanjali Mishri 500g",
+            "quantity": 25,
+            "selling_price": 75,
+            "cost_price": 62
+        },
+        {
+            "product_name": "Amul Taaza Toned Milk 1L",
+            "quantity": 150,
+            "selling_price": 56,
+            "cost_price": 52
+        },
+        {
+            "product_name": "Amul Gold Full Cream Milk 1L",
+            "quantity": 100,
+            "selling_price": 68,
+            "cost_price": 63
+        },
+        {
+            "product_name": "Mother Dairy Toned Milk 500ml",
+            "quantity": 80,
+            "selling_price": 28,
+            "cost_price": 25
+        },
+        {
+            "product_name": "Nestle a+ Nourish Toned Milk 1L",
+            "quantity": 40,
+            "selling_price": 72,
+            "cost_price": 66
+        },
+        {
+            "product_name": "Amul Masti Dahi 400g",
+            "quantity": 60,
+            "selling_price": 35,
+            "cost_price": 30
+        },
+        {
+            "product_name": "Amul Masti Dahi 1kg",
+            "quantity": 40,
+            "selling_price": 75,
+            "cost_price": 65
+        },
+        {
+            "product_name": "Mother Dairy Classic Curd 400g",
+            "quantity": 50,
+            "selling_price": 38,
+            "cost_price": 32
+        },
+        {
+            "product_name": "Nestle a+ Mishti Doi 100g",
+            "quantity": 35,
+            "selling_price": 25,
+            "cost_price": 20
+        },
+        {
+            "product_name": "Amul Fresh Paneer 200g",
+            "quantity": 45,
+            "selling_price": 90,
+            "cost_price": 78
+        },
+        {
+            "product_name": "Mother Dairy Paneer 1kg",
+            "quantity": 15,
+            "selling_price": 420,
+            "cost_price": 380
+        },
+        {
+            "product_name": "Amul Butter 500g",
+            "quantity": 40,
+            "selling_price": 285,
+            "cost_price": 255
+        },
+        {
+            "product_name": "Amul Butter 100g",
+            "quantity": 80,
+            "selling_price": 60,
+            "cost_price": 52
+        },
+        {
+            "product_name": "Britannia Cheese Slices 200g",
+            "quantity": 30,
+            "selling_price": 120,
+            "cost_price": 105
+        },
+        {
+            "product_name": "Farm Fresh Egg 30pcs",
+            "quantity": 40,
+            "selling_price": 220,
+            "cost_price": 195
+        },
+        {
+            "product_name": "Organic Desi Eggs 6pcs",
+            "quantity": 25,
+            "selling_price": 90,
+            "cost_price": 75
+        },
+        {
+            "product_name": "White Eggs 12pcs",
+            "quantity": 60,
+            "selling_price": 85,
+            "cost_price": 72
+        },
+        {
+            "product_name": "Potato 1kg",
+            "quantity": 200,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Onion 1kg",
+            "quantity": 200,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Tomato 1kg",
+            "quantity": 150,
+            "selling_price": 50,
+            "cost_price": 40
+        },
+        {
+            "product_name": "Green Chilli 250g",
+            "quantity": 80,
+            "selling_price": 20,
+            "cost_price": 15
+        },
+        {
+            "product_name": "Ginger 250g",
+            "quantity": 60,
+            "selling_price": 30,
+            "cost_price": 22
+        },
+        {
+            "product_name": "Garlic 250g",
+            "quantity": 70,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Coriander Leaves 100g",
+            "quantity": 100,
+            "selling_price": 10,
+            "cost_price": 6
+        },
+        {
+            "product_name": "Palak (Spinach) 250g",
+            "quantity": 50,
+            "selling_price": 25,
+            "cost_price": 18
+        },
+        {
+            "product_name": "Bhindi (Lady Finger) 500g",
+            "quantity": 40,
+            "selling_price": 45,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Gobhi (Cauliflower) 1pc",
+            "quantity": 35,
+            "selling_price": 40,
+            "cost_price": 30
+        },
+        {
+            "product_name": "Cabbage 1pc",
+            "quantity": 30,
+            "selling_price": 35,
+            "cost_price": 25
+        },
+        {
+            "product_name": "Carrot 500g",
+            "quantity": 45,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Beans 250g",
+            "quantity": 35,
+            "selling_price": 30,
+            "cost_price": 22
+        },
+        {
+            "product_name": "Capsicum Green 250g",
+            "quantity": 30,
+            "selling_price": 40,
+            "cost_price": 32
+        },
+        {
+            "product_name": "Brinjal 500g",
+            "quantity": 40,
+            "selling_price": 30,
+            "cost_price": 22
+        },
+        {
+            "product_name": "Cucumber 500g",
+            "quantity": 50,
+            "selling_price": 25,
+            "cost_price": 18
+        },
+        {
+            "product_name": "Bitter Gourd (Karela) 250g",
+            "quantity": 25,
+            "selling_price": 30,
+            "cost_price": 22
+        },
+        {
+            "product_name": "Drumstick 250g",
+            "quantity": 20,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Banana Robusta 1 dozen",
+            "quantity": 100,
+            "selling_price": 50,
+            "cost_price": 40
+        },
+        {
+            "product_name": "Apple Shimla 1kg",
+            "quantity": 40,
+            "selling_price": 180,
+            "cost_price": 150
+        },
+        {
+            "product_name": "Apple Washington 1kg",
+            "quantity": 25,
+            "selling_price": 280,
+            "cost_price": 240
+        },
+        {
+            "product_name": "Orange Nagpur 1kg",
+            "quantity": 35,
+            "selling_price": 90,
+            "cost_price": 72
+        },
+        {
+            "product_name": "Papaya 1kg",
+            "quantity": 30,
+            "selling_price": 45,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Grapes Green Seedless 500g",
+            "quantity": 25,
+            "selling_price": 120,
+            "cost_price": 95
+        },
+        {
+            "product_name": "Pomegranate 1kg",
+            "quantity": 20,
+            "selling_price": 200,
+            "cost_price": 165
+        },
+        {
+            "product_name": "Watermelon 1pc",
+            "quantity": 15,
+            "selling_price": 80,
+            "cost_price": 60
+        },
+        {
+            "product_name": "Muskmelon 1pc",
+            "quantity": 18,
+            "selling_price": 60,
+            "cost_price": 45
+        },
+        {
+            "product_name": "Guava 500g",
+            "quantity": 40,
+            "selling_price": 50,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Mosambi (Sweet Lime) 1kg",
+            "quantity": 30,
+            "selling_price": 80,
+            "cost_price": 65
+        },
+        {
+            "product_name": "Lemon 250g",
+            "quantity": 80,
+            "selling_price": 25,
+            "cost_price": 18
+        },
+        {
+            "product_name": "Coconut Fresh 1pc",
+            "quantity": 50,
+            "selling_price": 45,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Maggi 2-Minute Noodles 70g",
+            "quantity": 200,
+            "selling_price": 14,
+            "cost_price": 12
+        },
+        {
+            "product_name": "Maggi Masala Noodles Pack of 8",
+            "quantity": 50,
+            "selling_price": 96,
+            "cost_price": 84
+        },
+        {
+            "product_name": "Top Ramen Curry Noodles 70g",
+            "quantity": 80,
+            "selling_price": 12,
+            "cost_price": 10
+        },
+        {
+            "product_name": "Yippee Noodles Classic 70g",
+            "quantity": 100,
+            "selling_price": 12,
+            "cost_price": 10
+        },
+        {
+            "product_name": "Knorr Soupy Noodles 75g",
+            "quantity": 40,
+            "selling_price": 30,
+            "cost_price": 25
+        },
+        {
+            "product_name": "Ching's Hakka Noodles 150g",
+            "quantity": 45,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Parle-G Biscuits 800g",
+            "quantity": 60,
+            "selling_price": 75,
+            "cost_price": 65
+        },
+        {
+            "product_name": "Parle-G 250g",
+            "quantity": 150,
+            "selling_price": 25,
+            "cost_price": 22
+        },
+        {
+            "product_name": "Britannia Good Day Butter 250g",
+            "quantity": 70,
+            "selling_price": 50,
+            "cost_price": 42
+        },
+        {
+            "product_name": "Britannia Marie Gold 300g",
+            "quantity": 80,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Sunfeast Mom's Magic 200g",
+            "quantity": 50,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Oreo Original 120g",
+            "quantity": 60,
+            "selling_price": 40,
+            "cost_price": 34
+        },
+        {
+            "product_name": "Britannia Bourbon 150g",
+            "quantity": 55,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Hide & Seek Fab! 112g",
+            "quantity": 45,
+            "selling_price": 40,
+            "cost_price": 34
+        },
+        {
+            "product_name": "Parle Monaco Salted 200g",
+            "quantity": 40,
+            "selling_price": 40,
+            "cost_price": 34
+        },
+        {
+            "product_name": "Britannia 50-50 Sweet & Salty 200g",
+            "quantity": 35,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Lays Classic Salted 52g",
+            "quantity": 100,
+            "selling_price": 20,
+            "cost_price": 17
+        },
+        {
+            "product_name": "Lays India's Magic Masala 73g",
+            "quantity": 80,
+            "selling_price": 30,
+            "cost_price": 26
+        },
+        {
+            "product_name": "Kurkure Masala Munch 95g",
+            "quantity": 90,
+            "selling_price": 20,
+            "cost_price": 17
+        },
+        {
+            "product_name": "Bingo Mad Angles 72.5g",
+            "quantity": 75,
+            "selling_price": 20,
+            "cost_price": 17
+        },
+        {
+            "product_name": "Uncle Chips Plain Salted 55g",
+            "quantity": 60,
+            "selling_price": 20,
+            "cost_price": 17
+        },
+        {
+            "product_name": "Haldiram's Aloo Bhujia 200g",
+            "quantity": 50,
+            "selling_price": 60,
+            "cost_price": 50
+        },
+        {
+            "product_name": "Haldiram's Moong Dal 150g",
+            "quantity": 45,
+            "selling_price": 50,
+            "cost_price": 42
+        },
+        {
+            "product_name": "Balaji Wafers 45g",
+            "quantity": 80,
+            "selling_price": 10,
+            "cost_price": 8
+        },
+        {
+            "product_name": "Cadbury Dairy Milk 50g",
+            "quantity": 100,
+            "selling_price": 50,
+            "cost_price": 44
+        },
+        {
+            "product_name": "Cadbury Dairy Milk Silk 150g",
+            "quantity": 40,
+            "selling_price": 160,
+            "cost_price": 140
+        },
+        {
+            "product_name": "Cadbury 5 Star 25g",
+            "quantity": 80,
+            "selling_price": 20,
+            "cost_price": 17
+        },
+        {
+            "product_name": "KitKat 2 Finger 18g",
+            "quantity": 100,
+            "selling_price": 15,
+            "cost_price": 12
+        },
+        {
+            "product_name": "Snickers 50g",
+            "quantity": 50,
+            "selling_price": 50,
+            "cost_price": 44
+        },
+        {
+            "product_name": "Ferrero Rocher 3pcs",
+            "quantity": 25,
+            "selling_price": 150,
+            "cost_price": 130
+        },
+        {
+            "product_name": "Amul Dark Chocolate 150g",
+            "quantity": 30,
+            "selling_price": 120,
+            "cost_price": 102
+        },
+        {
+            "product_name": "Coca Cola 750ml",
+            "quantity": 80,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Coca Cola 2L",
+            "quantity": 30,
+            "selling_price": 95,
+            "cost_price": 82
+        },
+        {
+            "product_name": "Pepsi 750ml",
+            "quantity": 70,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Sprite 750ml",
+            "quantity": 60,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Thums Up 750ml",
+            "quantity": 75,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Fanta Orange 750ml",
+            "quantity": 40,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Limca 750ml",
+            "quantity": 35,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "7Up 750ml",
+            "quantity": 35,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Mountain Dew 750ml",
+            "quantity": 30,
+            "selling_price": 40,
+            "cost_price": 35
+        },
+        {
+            "product_name": "Maaza Mango 600ml",
+            "quantity": 50,
+            "selling_price": 35,
+            "cost_price": 30
+        },
+        {
+            "product_name": "Frooti Mango 600ml",
+            "quantity": 60,
+            "selling_price": 30,
+            "cost_price": 25
+        },
+        {
+            "product_name": "Real Fruit Power Mixed Fruit 1L",
+            "quantity": 30,
+            "selling_price": 110,
+            "cost_price": 95
+        },
+        {
+            "product_name": "Tropicana Orange 1L",
+            "quantity": 25,
+            "selling_price": 105,
+            "cost_price": 90
+        },
+        {
+            "product_name": "Paper Boat Aamras 200ml",
+            "quantity": 40,
+            "selling_price": 30,
+            "cost_price": 25
+        },
+        {
+            "product_name": "Bisleri Water 1L",
+            "quantity": 100,
+            "selling_price": 22,
+            "cost_price": 18
+        },
+        {
+            "product_name": "Kinley Water 1L",
+            "quantity": 80,
+            "selling_price": 22,
+            "cost_price": 18
+        },
+        {
+            "product_name": "Himalayan Natural Mineral Water 1L",
+            "quantity": 40,
+            "selling_price": 30,
+            "cost_price": 25
+        },
+        {
+            "product_name": "Red Bull Energy Drink 250ml",
+            "quantity": 30,
+            "selling_price": 125,
+            "cost_price": 108
+        },
+        {
+            "product_name": "Monster Energy 350ml",
+            "quantity": 20,
+            "selling_price": 150,
+            "cost_price": 130
+        },
+        {
+            "product_name": "Brooke Bond Red Label Tea 500g",
+            "quantity": 50,
+            "selling_price": 260,
+            "cost_price": 225
+        },
+        {
+            "product_name": "Tata Tea Gold 500g",
+            "quantity": 45,
+            "selling_price": 285,
+            "cost_price": 248
+        },
+        {
+            "product_name": "Taj Mahal Tea 250g",
+            "quantity": 30,
+            "selling_price": 175,
+            "cost_price": 150
+        },
+        {
+            "product_name": "Lipton Green Tea Lemon 25 bags",
+            "quantity": 25,
+            "selling_price": 180,
+            "cost_price": 155
+        },
+        {
+            "product_name": "Nescafe Classic Coffee 50g",
+            "quantity": 40,
+            "selling_price": 165,
+            "cost_price": 142
+        },
+        {
+            "product_name": "Bru Instant Coffee 100g",
+            "quantity": 35,
+            "selling_price": 260,
+            "cost_price": 225
+        },
+        {
+            "product_name": "Nescafe Gold Blend 50g",
+            "quantity": 20,
+            "selling_price": 320,
+            "cost_price": 280
+        },
+        {
+            "product_name": "Britannia Bread White 400g",
+            "quantity": 80,
+            "selling_price": 40,
+            "cost_price": 34
+        },
+        {
+            "product_name": "Britannia Brown Bread 400g",
+            "quantity": 50,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Harvest Gold Bread 450g",
+            "quantity": 60,
+            "selling_price": 42,
+            "cost_price": 36
+        },
+        {
+            "product_name": "Modern Bread 400g",
+            "quantity": 40,
+            "selling_price": 38,
+            "cost_price": 32
+        },
+        {
+            "product_name": "English Oven Sandwich Bread 400g",
+            "quantity": 30,
+            "selling_price": 50,
+            "cost_price": 42
+        },
+        {
+            "product_name": "Britannia Milk Cake 125g",
+            "quantity": 35,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Colgate MaxFresh Toothpaste 150g",
+            "quantity": 60,
+            "selling_price": 95,
+            "cost_price": 82
+        },
+        {
+            "product_name": "Colgate Strong Teeth 200g",
+            "quantity": 70,
+            "selling_price": 98,
+            "cost_price": 85
+        },
+        {
+            "product_name": "Pepsodent Complete 150g",
+            "quantity": 40,
+            "selling_price": 75,
+            "cost_price": 65
+        },
+        {
+            "product_name": "Closeup Deep Action 150g",
+            "quantity": 45,
+            "selling_price": 88,
+            "cost_price": 76
+        },
+        {
+            "product_name": "Sensodyne Fresh Mint 150g",
+            "quantity": 25,
+            "selling_price": 180,
+            "cost_price": 155
+        },
+        {
+            "product_name": "Listerine Cool Mint 250ml",
+            "quantity": 20,
+            "selling_price": 135,
+            "cost_price": 115
+        },
+        {
+            "product_name": "Oral-B Toothbrush Medium",
+            "quantity": 50,
+            "selling_price": 40,
+            "cost_price": 32
+        },
+        {
+            "product_name": "Colgate Slim Soft Toothbrush",
+            "quantity": 40,
+            "selling_price": 95,
+            "cost_price": 82
+        },
+        {
+            "product_name": "Lux Soft Glow Soap 150g",
+            "quantity": 80,
+            "selling_price": 52,
+            "cost_price": 45
+        },
+        {
+            "product_name": "Dettol Original Soap 125g",
+            "quantity": 70,
+            "selling_price": 55,
+            "cost_price": 47
+        },
+        {
+            "product_name": "Dove Cream Beauty Bar 100g",
+            "quantity": 50,
+            "selling_price": 75,
+            "cost_price": 65
+        },
+        {
+            "product_name": "Lifebuoy Total 10 Soap 125g",
+            "quantity": 60,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Santoor Sandal Soap 125g",
+            "quantity": 55,
+            "selling_price": 42,
+            "cost_price": 36
+        },
+        {
+            "product_name": "Pears Pure & Gentle Soap 125g",
+            "quantity": 40,
+            "selling_price": 95,
+            "cost_price": 82
+        },
+        {
+            "product_name": "Cinthol Cool Soap 100g",
+            "quantity": 45,
+            "selling_price": 48,
+            "cost_price": 40
+        },
+        {
+            "product_name": "Himalaya Neem Face Wash 150ml",
+            "quantity": 35,
+            "selling_price": 180,
+            "cost_price": 155
+        },
+        {
+            "product_name": "Garnier Men Face Wash 100ml",
+            "quantity": 25,
+            "selling_price": 195,
+            "cost_price": 168
+        },
+        {
+            "product_name": "Head & Shoulders Shampoo 340ml",
+            "quantity": 40,
+            "selling_price": 360,
+            "cost_price": 312
+        },
+        {
+            "product_name": "Dove Daily Shine Shampoo 340ml",
+            "quantity": 35,
+            "selling_price": 295,
+            "cost_price": 255
+        },
+        {
+            "product_name": "Pantene Pro-V Shampoo 340ml",
+            "quantity": 30,
+            "selling_price": 310,
+            "cost_price": 268
+        },
+        {
+            "product_name": "Sunsilk Black Shine Shampoo 340ml",
+            "quantity": 28,
+            "selling_price": 275,
+            "cost_price": 238
+        },
+        {
+            "product_name": "Clinic Plus Shampoo 340ml",
+            "quantity": 35,
+            "selling_price": 245,
+            "cost_price": 212
+        },
+        {
+            "product_name": "Tresemme Keratin Shampoo 580ml",
+            "quantity": 20,
+            "selling_price": 445,
+            "cost_price": 385
+        },
+        {
+            "product_name": "Parachute Coconut Oil 175ml",
+            "quantity": 60,
+            "selling_price": 85,
+            "cost_price": 73
+        },
+        {
+            "product_name": "Dabur Amla Hair Oil 450ml",
+            "quantity": 40,
+            "selling_price": 195,
+            "cost_price": 168
+        },
+        {
+            "product_name": "Navratna Oil 500ml",
+            "quantity": 35,
+            "selling_price": 165,
+            "cost_price": 142
+        },
+        {
+            "product_name": "Surf Excel Quick Wash 1kg",
+            "quantity": 40,
+            "selling_price": 160,
+            "cost_price": 138
+        },
+        {
+            "product_name": "Surf Excel Matic Top Load 2kg",
+            "quantity": 25,
+            "selling_price": 480,
+            "cost_price": 415
+        },
+        {
+            "product_name": "Ariel Matic Front Load 2kg",
+            "quantity": 20,
+            "selling_price": 520,
+            "cost_price": 450
+        },
+        {
+            "product_name": "Tide Plus 1kg",
+            "quantity": 35,
+            "selling_price": 145,
+            "cost_price": 125
+        },
+        {
+            "product_name": "Rin Advanced Bar 250g",
+            "quantity": 80,
+            "selling_price": 22,
+            "cost_price": 18
+        },
+        {
+            "product_name": "Vim Dishwash Bar 300g",
+            "quantity": 60,
+            "selling_price": 35,
+            "cost_price": 30
+        },
+        {
+            "product_name": "Vim Gel Lemon 500ml",
+            "quantity": 40,
+            "selling_price": 105,
+            "cost_price": 90
+        },
+        {
+            "product_name": "Pril Dishwash Gel 500ml",
+            "quantity": 30,
+            "selling_price": 115,
+            "cost_price": 98
+        },
+        {
+            "product_name": "Harpic Power Plus 500ml",
+            "quantity": 35,
+            "selling_price": 120,
+            "cost_price": 102
+        },
+        {
+            "product_name": "Lizol Floor Cleaner 500ml",
+            "quantity": 30,
+            "selling_price": 135,
+            "cost_price": 115
+        },
+        {
+            "product_name": "Colin Glass Cleaner 500ml",
+            "quantity": 25,
+            "selling_price": 115,
+            "cost_price": 98
+        },
+        {
+            "product_name": "Domex Floor Cleaner 1L",
+            "quantity": 20,
+            "selling_price": 145,
+            "cost_price": 125
+        },
+        {
+            "product_name": "Aashirvaad Turmeric Powder 200g",
+            "quantity": 50,
+            "selling_price": 72,
+            "cost_price": 62
+        },
+        {
+            "product_name": "MDH Garam Masala 100g",
+            "quantity": 45,
+            "selling_price": 98,
+            "cost_price": 85
+        },
+        {
+            "product_name": "Everest Meat Masala 100g",
+            "quantity": 35,
+            "selling_price": 65,
+            "cost_price": 55
+        },
+        {
+            "product_name": "Catch Red Chilli Powder 200g",
+            "quantity": 55,
+            "selling_price": 92,
+            "cost_price": 78
+        },
+        {
+            "product_name": "Tata Sampann Coriander Powder 200g",
+            "quantity": 40,
+            "selling_price": 68,
+            "cost_price": 58
+        },
+        {
+            "product_name": "Eastern Sambar Powder 100g",
+            "quantity": 30,
+            "selling_price": 55,
+            "cost_price": 46
+        },
+        {
+            "product_name": "Kitchen King Masala 100g",
+            "quantity": 38,
+            "selling_price": 75,
+            "cost_price": 64
+        },
+        {
+            "product_name": "Cumin Seeds (Jeera) 100g",
+            "quantity": 60,
+            "selling_price": 55,
+            "cost_price": 46
+        },
+        {
+            "product_name": "Mustard Seeds (Rai) 100g",
+            "quantity": 45,
+            "selling_price": 35,
+            "cost_price": 28
+        },
+        {
+            "product_name": "Whole Black Pepper 50g",
+            "quantity": 40,
+            "selling_price": 75,
+            "cost_price": 64
+        },
+        {
+            "product_name": "Kissan Mixed Fruit Jam 500g",
+            "quantity": 35,
+            "selling_price": 150,
+            "cost_price": 128
+        },
+        {
+            "product_name": "Kissan Tomato Ketchup 500g",
+            "quantity": 45,
+            "selling_price": 110,
+            "cost_price": 95
+        },
+        {
+            "product_name": "Maggi Hot & Sweet Sauce 500g",
+            "quantity": 40,
+            "selling_price": 115,
+            "cost_price": 98
+        },
+        {
+            "product_name": "Sil Cooking Vinegar 700ml",
+            "quantity": 25,
+            "selling_price": 65,
+            "cost_price": 55
+        },
+        {
+            "product_name": "Smith & Jones Pasta Masala 200g",
+            "quantity": 30,
+            "selling_price": 85,
+            "cost_price": 72
+        },
+        {
+            "product_name": "Nestle Cerelac Stage 1 300g",
+            "quantity": 20,
+            "selling_price": 285,
+            "cost_price": 248
+        },
+        {
+            "product_name": "Cerelac Wheat Honey 300g",
+            "quantity": 25,
+            "selling_price": 295,
+            "cost_price": 255
+        },
+        {
+            "product_name": "Johnson's Baby Soap 100g",
+            "quantity": 30,
+            "selling_price": 75,
+            "cost_price": 65
+        },
+        {
+            "product_name": "Johnson's Baby Powder 200g",
+            "quantity": 35,
+            "selling_price": 165,
+            "cost_price": 142
+        },
+        {
+            "product_name": "Himalaya Baby Lotion 200ml",
+            "quantity": 25,
+            "selling_price": 175,
+            "cost_price": 150
+        },
+        {
+            "product_name": "Pampers Active Baby Diapers M 20pcs",
+            "quantity": 20,
+            "selling_price": 450,
+            "cost_price": 390
+        },
+        {
+            "product_name": "Huggies Wonder Pants L 16pcs",
+            "quantity": 18,
+            "selling_price": 380,
+            "cost_price": 328
+        },
+        {
+            "product_name": "MamyPoko Pants XL 14pcs",
+            "quantity": 22,
+            "selling_price": 420,
+            "cost_price": 365
+        },
+        {
+            "product_name": "Whiskas Cat Food Tuna 85g",
+            "quantity": 15,
+            "selling_price": 50,
+            "cost_price": 42
+        },
+        {
+            "product_name": "Pedigree Adult Dog Food Chicken 400g",
+            "quantity": 20,
+            "selling_price": 135,
+            "cost_price": 115
+        },
+        {
+            "product_name": "Drools Dog Biscuits 300g",
+            "quantity": 18,
+            "selling_price": 95,
+            "cost_price": 82
+        },
+        {
+            "product_name": "Kellogg's Corn Flakes 475g",
+            "quantity": 25,
+            "selling_price": 198,
+            "cost_price": 170
+        },
+        {
+            "product_name": "Kellogg's Chocos 375g",
+            "quantity": 30,
+            "selling_price": 218,
+            "cost_price": 188
+        },
+        {
+            "product_name": "Quaker Oats 1kg",
+            "quantity": 22,
+            "selling_price": 210,
+            "cost_price": 182
+        },
+        {
+            "product_name": "Saffola Oats 1kg",
+            "quantity": 28,
+            "selling_price": 195,
+            "cost_price": 168
+        },
+        {
+            "product_name": "Bagrry's Muesli 500g",
+            "quantity": 15,
+            "selling_price": 285,
+            "cost_price": 248
+        },
+        {
+            "product_name": "Vadilal Vanilla Ice Cream 1L",
+            "quantity": 25,
+            "selling_price": 180,
+            "cost_price": 155
+        },
+        {
+            "product_name": "Amul Kesar Pista Ice Cream 1L",
+            "quantity": 20,
+            "selling_price": 240,
+            "cost_price": 208
+        },
+        {
+            "product_name": "Kwality Walls Cornetto 110ml",
+            "quantity": 40,
+            "selling_price": 45,
+            "cost_price": 38
+        },
+        {
+            "product_name": "Havmor Mango Dolly 65ml",
+            "quantity": 60,
+            "selling_price": 20,
+            "cost_price": 16
+        },
+        {
+            "product_name": "McCain French Fries 400g",
+            "quantity": 20,
+            "selling_price": 175,
+            "cost_price": 150
+        },
+        {
+            "product_name": "Godrej Yummiez Chicken Nuggets 200g",
+            "quantity": 15,
+            "selling_price": 195,
+            "cost_price": 168
+        },
+        {
+            "product_name": "Good Knight Advanced 45ml Refill",
+            "quantity": 40,
+            "selling_price": 75,
+            "cost_price": 65
+        },
+        {
+            "product_name": "All Out Ultra Refill 45ml",
+            "quantity": 35,
+            "selling_price": 72,
+            "cost_price": 62
+        },
+        {
+            "product_name": "Hit Cockroach Spray 400ml",
+            "quantity": 30,
+            "selling_price": 185,
+            "cost_price": 160
+        },
+        {
+            "product_name": "Mortein All Insect Killer 425ml",
+            "quantity": 25,
+            "selling_price": 215,
+            "cost_price": 185
+        },
+        {
+            "product_name": "Odonil Room Freshener 50g",
+            "quantity": 45,
+            "selling_price": 55,
+            "cost_price": 47
+        },
+        {
+            "product_name": "Ambi Pur Car Freshener 7.5ml",
+            "quantity": 20,
+            "selling_price": 285,
+            "cost_price": 248
+        }
+    ]
+}

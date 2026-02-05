@@ -1,0 +1,306 @@
+/* --- REPORTS VIEW V2 --- */
+.report-card-v2 {
+    background: hsl(var(--card));
+    border: 1px solid hsl(var(--border));
+    border-radius: 14px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.report-card-v2:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px -8px rgba(0, 0, 0, 0.15);
+    border-color: hsl(var(--accent));
+}
+
+.report-card-v2:active {
+    transform: scale(0.98);
+}
+
+.report-card-v2.danger:hover {
+    border-color: hsl(var(--danger));
+}
+
+.report-card-v2.warning:hover {
+    border-color: hsl(var(--warning));
+}
+
+.report-icon {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    border-radius: 12px;
+    background: hsla(var(--accent), 0.12);
+    color: hsl(var(--accent));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.report-icon svg {
+    width: 22px;
+    height: 22px;
+    stroke-width: 2;
+}
+
+.report-icon.danger {
+    background: hsla(var(--danger), 0.12);
+    color: hsl(var(--danger));
+}
+
+.report-icon.warning {
+    background: hsla(var(--warning), 0.12);
+    color: hsl(var(--warning));
+}
+
+.report-icon.success {
+    background: hsla(var(--success), 0.12);
+    color: hsl(var(--success));
+}
+
+.report-card-v2:hover .report-icon {
+    transform: scale(1.1);
+}
+
+.report-card-v2.danger:hover .report-icon.danger {
+    background: hsl(var(--danger));
+    color: white;
+}
+
+.report-card-v2.warning:hover .report-icon.warning {
+    background: hsl(var(--warning));
+    color: white;
+}
+
+.report-card-v2:hover .report-icon.success {
+    background: hsl(var(--success));
+    color: white;
+}
+
+.report-info {
+    flex: 1;
+}
+
+.report-info h4 {
+    margin: 0 0 4px 0;
+    font-size: 15px;
+    font-weight: 700;
+    color: hsl(var(--foreground));
+}
+
+.report-info p {
+    margin: 0;
+    font-size: 12px;
+    color: hsl(var(--secondary));
+    line-height: 1.4;
+}
+
+.report-arrow {
+    width: 18px;
+    height: 18px;
+    color: hsl(var(--border));
+    transition: all 0.2s;
+}
+
+.report-card-v2:hover .report-arrow {
+    color: hsl(var(--accent));
+    transform: translateX(4px);
+}
+
+/* Time Period Filter Buttons */
+.time-btn {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: none;
+    background: transparent;
+    color: hsl(var(--secondary));
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: inherit;
+}
+
+.time-btn:hover {
+    background: hsla(var(--foreground), 0.05);
+    color: hsl(var(--foreground));
+}
+
+.time-btn.active {
+    background: hsl(var(--accent));
+    color: white;
+}
+
+/* --- REPORT OUTPUT CONTAINER --- */
+.report-output-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+    border-bottom: 1px solid hsl(var(--border));
+    background: hsl(var(--background));
+}
+
+.report-header-left h2 {
+    margin: 0 0 4px 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: hsl(var(--foreground));
+}
+
+.report-meta {
+    font-size: 12px;
+    color: hsl(var(--secondary));
+}
+
+.report-header-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.btn-export {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    background: linear-gradient(135deg, #217346, #1e6840);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: inherit;
+}
+
+.btn-export:hover {
+    background: linear-gradient(135deg, #1e6840, #185a36);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(33, 115, 70, 0.3);
+}
+
+.btn-close-report {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: hsl(var(--input));
+    border: 1px solid hsl(var(--border));
+    border-radius: 10px;
+    color: hsl(var(--secondary));
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-close-report:hover {
+    background: hsl(var(--border));
+    color: hsl(var(--foreground));
+}
+
+.report-table-wrapper {
+    max-height: 450px;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.report-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+}
+
+.report-table thead {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.report-table th {
+    background: hsl(var(--input));
+    padding: 14px 16px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: hsl(var(--secondary));
+    border-bottom: 2px solid hsl(var(--border));
+    white-space: nowrap;
+}
+
+.report-table td {
+    padding: 14px 16px;
+    border-bottom: 1px solid hsl(var(--border));
+    color: hsl(var(--foreground));
+    vertical-align: middle;
+}
+
+.report-table tr:hover {
+    background: hsla(var(--accent), 0.04);
+}
+
+.report-table tr:last-child td {
+    border-bottom: none;
+}
+
+/* Number columns */
+.report-table .num {
+    text-align: right;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+}
+
+/* Currency styling */
+.report-table .currency {
+    color: hsl(var(--success));
+    font-weight: 600;
+}
+
+/* Status pills */
+.status-pill {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 99px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.status-pill.critical {
+    background: hsla(var(--danger), 0.15);
+    color: hsl(var(--danger));
+}
+
+.status-pill.warning {
+    background: hsla(var(--warning), 0.15);
+    color: hsl(var(--warning));
+}
+
+.status-pill.success {
+    background: hsla(var(--success), 0.15);
+    color: hsl(var(--success));
+}
+
+.report-output-footer {
+    padding: 14px 24px;
+    background: hsl(var(--input));
+    border-top: 1px solid hsl(var(--border));
+}
+
+.report-disclaimer {
+    font-size: 11px;
+    color: hsl(var(--secondary));
+}
+
+.report-empty {
+    text-align: center;
+    padding: 60px 24px;
+    color: hsl(var(--secondary));
+}

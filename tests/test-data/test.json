@@ -1,0 +1,227 @@
+{
+  "store_name": "Super Fresh Mart - Mumbai",
+  "location": "Andheri West",
+  "store_type": "super_mart",
+  "data_source": "manual_json_upload",
+  "items": [
+    {
+      "store_item_id": "TEST-SKU-1000",
+      "product_name": "Aashirvaad Atta 5kg",
+      "quantity": 50,
+      "selling_price": 320,
+      "brand": "Aashirvaad"
+    },
+    {
+      "store_item_id": "TEST-SKU-1001",
+      "product_name": "Tata Salt 1kg",
+      "quantity": 100,
+      "selling_price": 25,
+      "brand": "Tata"
+    },
+    {
+      "store_item_id": "TEST-SKU-1002",
+      "product_name": "Fortune Sunflower Oil 1L",
+      "quantity": 40,
+      "selling_price": 165,
+      "brand": "Fortune"
+    },
+    {
+      "store_item_id": "TEST-SKU-1003",
+      "product_name": "Loose Toor Dal",
+      "quantity": 80,
+      "selling_price": 145
+    },
+    {
+      "store_item_id": "TEST-SKU-1004",
+      "product_name": "MDH Garam Masala 100g",
+      "quantity": 60,
+      "selling_price": 85,
+      "brand": "MDH"
+    },
+    {
+      "store_item_id": "TEST-SKU-1005",
+      "product_name": "Amul Toned Milk 500ml",
+      "quantity": 200,
+      "selling_price": 26,
+      "brand": "Amul"
+    },
+    {
+      "store_item_id": "TEST-SKU-1006",
+      "product_name": "Mother Dairy Curd 400g",
+      "quantity": 90,
+      "selling_price": 45,
+      "brand": "Mother Dairy"
+    },
+    {
+      "store_item_id": "TEST-SKU-1007",
+      "product_name": "Brown Eggs Tray 30 pcs",
+      "quantity": 12,
+      "selling_price": 190
+    },
+    {
+      "store_item_id": "TEST-SKU-1008",
+      "product_name": "Britannia Brown Bread",
+      "quantity": 50,
+      "selling_price": 40,
+      "brand": "Britannia"
+    },
+    {
+      "store_item_id": "TEST-SKU-1009",
+      "product_name": "Onion",
+      "quantity": 120,
+      "selling_price": 32
+    },
+    {
+      "store_item_id": "TEST-SKU-1010",
+      "product_name": "Potato",
+      "quantity": 150,
+      "selling_price": 28
+    },
+    {
+      "store_item_id": "TEST-SKU-1011",
+      "product_name": "Tomato Hybrid",
+      "quantity": 90,
+      "selling_price": 36
+    },
+    {
+      "store_item_id": "TEST-SKU-1012",
+      "product_name": "Broccoli",
+      "quantity": 25,
+      "selling_price": 120
+    },
+    {
+      "store_item_id": "TEST-SKU-1013",
+      "product_name": "Banana Robusta",
+      "quantity": 100,
+      "selling_price": 48
+    },
+    {
+      "store_item_id": "TEST-SKU-1014",
+      "product_name": "Apple Washington",
+      "quantity": 40,
+      "selling_price": 180
+    },
+    {
+      "store_item_id": "TEST-SKU-1015",
+      "product_name": "Seasonal Mango",
+      "quantity": 60
+    },
+    {
+      "store_item_id": "TEST-SKU-1016",
+      "product_name": "Lays Magic Masala 52g",
+      "quantity": 120,
+      "selling_price": 20,
+      "brand": "Lays"
+    },
+    {
+      "store_item_id": "TEST-SKU-1017",
+      "product_name": "Haldiram Aloo Bhujia 400g",
+      "quantity": 70,
+      "selling_price": 95,
+      "brand": "Haldiram"
+    },
+    {
+      "store_item_id": "TEST-SKU-1018",
+      "product_name": "Local Namkeen Mix",
+      "quantity": 30,
+      "selling_price": 180
+    },
+    {
+      "store_item_id": "TEST-SKU-1019",
+      "product_name": "Colgate Strong Teeth Toothpaste 200g",
+      "quantity": 60,
+      "selling_price": 120,
+      "brand": "Colgate"
+    },
+    {
+      "store_item_id": "TEST-SKU-1020",
+      "product_name": "Colgate Zigzag Toothbrush Medium",
+      "quantity": 45,
+      "selling_price": 45,
+      "brand": "Colgate"
+    },
+    {
+      "store_item_id": "TEST-SKU-1021",
+      "product_name": "Dove Bath Soap 100g",
+      "quantity": 90,
+      "selling_price": 65,
+      "brand": "Dove"
+    },
+    {
+      "store_item_id": "TEST-SKU-1022",
+      "product_name": "Clinic Plus Shampoo Sachet",
+      "quantity": 300,
+      "selling_price": 2
+    },
+    {
+      "store_item_id": "TEST-SKU-1023",
+      "product_name": "Surf Excel Detergent 1kg",
+      "quantity": 40,
+      "selling_price": 135,
+      "brand": "Surf Excel"
+    },
+    {
+      "store_item_id": "TEST-SKU-1024",
+      "product_name": "Harpic Toilet Cleaner 500ml",
+      "quantity": 30,
+      "selling_price": 95,
+      "brand": "Harpic"
+    },
+    {
+      "store_item_id": "TEST-SKU-1025",
+      "product_name": "LED Bulb 9W",
+      "quantity": 25,
+      "selling_price": 120
+    },
+    {
+      "store_item_id": "TEST-SKU-1026",
+      "product_name": "AA Battery Pack",
+      "quantity": 20,
+      "selling_price": 150
+    },
+    {
+      "store_item_id": "TEST-SKU-1027",
+      "product_name": "Amul Ice Cream Vanilla 1L",
+      "quantity": 15,
+      "selling_price": 320,
+      "brand": "Amul"
+    },
+    {
+      "store_item_id": "TEST-SKU-1028",
+      "product_name": "Frozen Veg Momos",
+      "quantity": 25,
+      "selling_price": 180
+    },
+    {
+      "store_item_id": "TEST-SKU-1029",
+      "product_name": "Crocin Tablet Strip",
+      "quantity": 40,
+      "selling_price": 35,
+      "brand": "Crocin"
+    },
+    {
+      "store_item_id": "TEST-SKU-1030",
+      "product_name": "Cough Syrup 100ml",
+      "quantity": 20,
+      "selling_price": 95
+    },
+    {
+      "store_item_id": "TEST-SKU-1031",
+      "product_name": "Vitamin C Tablets",
+      "quantity": 30,
+      "selling_price": 180
+    },
+    {
+      "store_item_id": "TEST-SKU-1032",
+      "product_name": "Cigarettes Small Pack",
+      "quantity": 50,
+      "selling_price": 110
+    },
+    {
+      "store_item_id": "TEST-SKU-1033",
+      "product_name": "Paan Masala Sachet",
+      "quantity": 200,
+      "selling_price": 5
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+store_item_id,product_name,brand,quantity_on_hand,selling_price,cost_price,store_id
+SKU-100000,Britannia Brown Bread,Britannia,17,207.97,15.07,store-mumbai-001
+SKU-100001,Colgate Toothpaste 100g,Colgate,1,476.63,266.98,store-mumbai-001
+SKU-100002,Tata Salt 0.5kg,Tata,91,463.62,91.57,store-mumbai-001
+SKU-100003,Brown Eggs Tray,,146,460.89,223.49,store-mumbai-001
+SKU-100004,Surf Excel Detergent 4kg,Surf Excel,121,35.66,269.43,store-mumbai-001
+SKU-100005,Britannia Brown Bread,Britannia,166,296.53,138.8,store-mumbai-001
+SKU-100006,Aashirvaad Atta 5kg,Aashirvaad,1,181.23,256.96,store-mumbai-001
+SKU-100007,Surf Excel Detergent 2kg,Surf Excel,17,182.12,341.3,store-mumbai-001
+SKU-100008,Fortune Sunflower Oil 2L,Fortune,98,323.65,252.49,store-mumbai-001
+SKU-100009,Aashirvaad Atta 1kg,Aashirvaad,114,160.43,201.8,store-mumbai-001
+SKU-100010,Colgate Toothpaste 100g,Colgate,178,87.4,177.44,store-mumbai-001
+SKU-100011,Colgate Toothpaste 200g,Colgate,10,493.73,73.71,store-mumbai-001
+SKU-100012,Brown Eggs Tray,,126,283.83,124.92,store-mumbai-001
+SKU-100013,Fortune Sunflower Oil 1L,Fortune,152,48.87,17.19,store-mumbai-001
+SKU-100014,Fortune Sunflower Oil 2L,Fortune,24,315.86,346.61,store-mumbai-001
+SKU-100015,Fortune Sunflower Oil 1L,Fortune,59,69.72,227.8,store-mumbai-001
+SKU-100016,Tata Salt 2kg,Tata,34,244.06,390.67,store-mumbai-001
+SKU-100017,MDH Garam Masala 50g,MDH,194,429.88,172.0,store-mumbai-001
+SKU-100018,Colgate Toothpaste 100g,Colgate,155,361.7,56.87,store-mumbai-001
+SKU-100019,MDH Garam Masala 200g,MDH,147,334.67,59.2,store-mumbai-001
+SKU-100020,Loose Toor Dal 1kg,,51,307.32,206.24,store-mumbai-001
+SKU-100021,Brown Eggs Tray,,83,390.3,294.98,store-mumbai-001
+SKU-100022,Surf Excel Detergent 1kg,Surf Excel,185,439.46,35.97,store-mumbai-001
+SKU-100023,Britannia Brown Bread,Britannia,139,119.77,352.67,store-mumbai-001
+SKU-100024,Britannia Brown Bread,Britannia,52,200.5,343.15,store-mumbai-001
+SKU-100025,Tata Salt 2kg,Tata,94,444.61,181.85,store-mumbai-001
+SKU-100026,MDH Garam Masala 50g,MDH,134,122.07,129.29,store-mumbai-001
+SKU-100027,Amul Toned Milk 1000ml,Amul,66,388.96,224.78,store-mumbai-001
+SKU-100028,Amul Toned Milk 1000ml,Amul,120,359.6,123.85,store-mumbai-001
+SKU-100029,Loose Toor Dal 0.5kg,,135,74.35,282.01,store-mumbai-001
+SKU-100030,Amul Toned Milk 1000ml,Amul,82,306.14,168.16,store-mumbai-001
+SKU-100031,Brown Eggs Tray,,55,198.07,249.09,store-mumbai-001
+SKU-100032,Loose Toor Dal 1kg,,4,240.26,300.54,store-mumbai-001
+SKU-100033,MDH Garam Masala 50g,MDH,197,28.54,227.36,store-mumbai-001
+SKU-100034,Amul Toned Milk 500ml,Amul,83,86.58,203.79,store-mumbai-001
+SKU-100035,Tata Salt 0.5kg,Tata,62,45.03,16.34,store-mumbai-001
+SKU-100036,Aashirvaad Atta 10kg,Aashirvaad,22,112.09,312.94,store-mumbai-001
+SKU-100037,Brown Eggs Tray,,199,73.8,364.79,store-mumbai-001
+SKU-100038,Tata Salt 1kg,Tata,157,361.45,69.3,store-mumbai-001
+SKU-100039,Amul Toned Milk 1000ml,Amul,7,48.65,124.72,store-mumbai-001
+SKU-100040,Britannia Brown Bread,Britannia,54,143.56,20.23,store-mumbai-001
+SKU-100041,Tata Salt 1kg,Tata,56,482.47,156.95,store-mumbai-001
+SKU-100042,Amul Toned Milk 500ml,Amul,113,150.5,212.87,store-mumbai-001
+SKU-100043,Tata Salt 1kg,Tata,68,78.81,204.31,store-mumbai-001
+SKU-100044,Brown Eggs Tray,,139,124.03,353.36,store-mumbai-001
+SKU-100045,Fortune Sunflower Oil 2L,Fortune,93,277.11,120.65,store-mumbai-001
+SKU-100046,Aashirvaad Atta 1kg,Aashirvaad,60,88.57,122.96,store-mumbai-001
+SKU-100047,Britannia Brown Bread,Britannia,160,219.36,236.13,store-mumbai-001
+SKU-100048,Loose Toor Dal 5kg,,109,411.72,172.41,store-mumbai-001
+SKU-100049,Amul Toned Milk 500ml,Amul,75,30.53,371.32,store-mumbai-001
+SKU-100050,Fortune Sunflower Oil 5L,Fortune,130,304.33,338.53,store-mumbai-001
+SKU-100051,MDH Garam Masala 200g,MDH,190,20.8,98.73,store-mumbai-001
+SKU-100052,Amul Toned Milk 1000ml,Amul,192,315.72,48.12,store-mumbai-001
+SKU-100053,Britannia Brown Bread,Britannia,105,29.47,207.92,store-mumbai-001
+SKU-100054,Tata Salt 0.5kg,Tata,23,295.34,250.75,store-mumbai-001
+SKU-100055,Amul Toned Milk 1000ml,Amul,25,391.64,209.01,store-mumbai-001
+SKU-100056,Amul Toned Milk 1000ml,Amul,73,118.31,232.45,store-mumbai-001
+SKU-100057,Brown Eggs Tray,,35,393.2,319.17,store-mumbai-001
+SKU-100058,Amul Toned Milk 1000ml,Amul,97,419.33,144.79,store-mumbai-001
+SKU-100059,Loose Toor Dal 1kg,,64,412.27,341.03,store-mumbai-001
+SKU-100060,Brown Eggs Tray,,19,117.52,324.31,store-mumbai-001
+SKU-100061,Brown Eggs Tray,,21,64.82,149.21,store-mumbai-001
+SKU-100062,Aashirvaad Atta 10kg,Aashirvaad,168,466.95,171.7,store-mumbai-001
+SKU-100063,Aashirvaad Atta 1kg,Aashirvaad,81,108.02,399.82,store-mumbai-001
+SKU-100064,MDH Garam Masala 200g,MDH,158,376.36,257.34,store-mumbai-001
+SKU-100065,Britannia Brown Bread,Britannia,189,144.0,178.64,store-mumbai-001
+SKU-100066,Colgate Toothpaste 100g,Colgate,60,205.49,62.03,store-mumbai-001
+SKU-100067,Amul Toned Milk 500ml,Amul,5,323.4,251.18,store-mumbai-001
+SKU-100068,Tata Salt 0.5kg,Tata,146,239.55,314.34,store-mumbai-001
+SKU-100069,Colgate Toothpaste 200g,Colgate,182,126.59,328.6,store-mumbai-001
+SKU-100070,Aashirvaad Atta 1kg,Aashirvaad,159,293.43,129.4,store-mumbai-001
+SKU-100071,Fortune Sunflower Oil 2L,Fortune,64,98.7,332.53,store-mumbai-001
+SKU-100072,MDH Garam Masala 200g,MDH,93,223.38,32.28,store-mumbai-001
+SKU-100073,Amul Toned Milk 500ml,Amul,149,179.11,40.48,store-mumbai-001
+SKU-100074,Brown Eggs Tray,,74,499.1,389.11,store-mumbai-001
+SKU-100075,Fortune Sunflower Oil 5L,Fortune,194,335.41,176.52,store-mumbai-001
+SKU-100076,Amul Toned Milk 500ml,Amul,64,205.37,280.02,store-mumbai-001
+SKU-100077,Colgate Toothpaste 100g,Colgate,136,193.19,130.16,store-mumbai-001
+SKU-100078,Surf Excel Detergent 4kg,Surf Excel,98,282.48,58.99,store-mumbai-001
+SKU-100079,Tata Salt 2kg,Tata,19,195.09,16.5,store-mumbai-001
+SKU-100080,Tata Salt 1kg,Tata,22,325.32,316.81,store-mumbai-001
+SKU-100081,Fortune Sunflower Oil 1L,Fortune,60,176.99,147.64,store-mumbai-001
+SKU-100082,Colgate Toothpaste 100g,Colgate,70,404.61,166.57,store-mumbai-001
+SKU-100083,Brown Eggs Tray,,166,173.43,296.09,store-mumbai-001
+SKU-100084,Britannia Brown Bread,Britannia,0,52.59,348.42,store-mumbai-001
+SKU-100085,Tata Salt 1kg,Tata,0,416.3,210.5,store-mumbai-001
+SKU-100086,Colgate Toothpaste 200g,Colgate,21,171.11,83.58,store-mumbai-001
+SKU-100087,Brown Eggs Tray,,114,77.12,115.86,store-mumbai-001
+SKU-100088,Fortune Sunflower Oil 5L,Fortune,10,407.0,291.83,store-mumbai-001
+SKU-100089,Colgate Toothpaste 200g,Colgate,118,165.12,275.24,store-mumbai-001
+SKU-100090,Brown Eggs Tray,,9,96.79,175.48,store-mumbai-001
+SKU-100091,Loose Toor Dal 5kg,,92,168.38,205.77,store-mumbai-001
+SKU-100092,Aashirvaad Atta 1kg,Aashirvaad,104,232.75,274.18,store-mumbai-001
+SKU-100093,Surf Excel Detergent 1kg,Surf Excel,8,480.69,103.56,store-mumbai-001
+SKU-100094,Surf Excel Detergent 2kg,Surf Excel,21,291.55,389.73,store-mumbai-001
+SKU-100095,Colgate Toothpaste 100g,Colgate,192,167.83,57.03,store-mumbai-001
+SKU-100096,Brown Eggs Tray,,159,359.76,113.79,store-mumbai-001
+SKU-100097,Amul Toned Milk 500ml,Amul,56,42.75,319.81,store-mumbai-001
+SKU-100098,Colgate Toothpaste 200g,Colgate,175,137.05,150.1,store-mumbai-001
+SKU-100099,Colgate Toothpaste 200g,Colgate,127,158.96,195.33,store-mumbai-001
+SKU-100100,Tata Salt 0.5kg,Tata,197,112.59,18.44,store-mumbai-001
+SKU-100101,Britannia Brown Bread,Britannia,151,141.44,75.52,store-mumbai-001
+SKU-100102,Loose Toor Dal 5kg,,196,35.75,385.98,store-mumbai-001
+SKU-100103,Tata Salt 1kg,Tata,165,227.47,45.3,store-mumbai-001
+SKU-100104,Aashirvaad Atta 5kg,Aashirvaad,123,205.93,215.08,store-mumbai-001
+SKU-100105,Fortune Sunflower Oil 5L,Fortune,147,148.44,389.3,store-mumbai-001
+SKU-100106,Tata Salt 0.5kg,Tata,80,345.99,267.24,store-mumbai-001
+SKU-100107,Fortune Sunflower Oil 5L,Fortune,175,102.89,43.24,store-mumbai-001
+SKU-100108,Fortune Sunflower Oil 1L,Fortune,99,255.58,244.66,store-mumbai-001
+SKU-100109,Brown Eggs Tray,,53,424.98,107.36,store-mumbai-001
+SKU-100110,Fortune Sunflower Oil 1L,Fortune,5,491.05,32.1,store-mumbai-001
+SKU-100111,Brown Eggs Tray,,115,149.7,210.87,store-mumbai-001
+SKU-100112,Brown Eggs Tray,,120,91.33,393.09,store-mumbai-001
+SKU-100113,Colgate Toothpaste 200g,Colgate,155,297.55,259.38,store-mumbai-001
+SKU-100114,Surf Excel Detergent 1kg,Surf Excel,163,409.21,361.27,store-mumbai-001
+SKU-100115,Britannia Brown Bread,Britannia,167,404.81,224.2,store-mumbai-001
+SKU-100116,Colgate Toothpaste 200g,Colgate,137,375.22,332.74,store-mumbai-001
+SKU-100117,Fortune Sunflower Oil 1L,Fortune,2,330.01,188.12,store-mumbai-001
+SKU-100118,Loose Toor Dal 5kg,,100,108.55,311.08,store-mumbai-001
+SKU-100119,MDH Garam Masala 200g,MDH,195,58.93,291.55,store-mumbai-001
+SKU-100120,Surf Excel Detergent 4kg,Surf Excel,9,120.75,44.64,store-mumbai-001
+SKU-100121,Britannia Brown Bread,Britannia,136,305.54,322.91,store-mumbai-001
+SKU-100122,Amul Toned Milk 1000ml,Amul,103,178.25,21.05,store-mumbai-001
+SKU-100123,Aashirvaad Atta 5kg,Aashirvaad,184,38.76,265.61,store-mumbai-001
+SKU-100124,Amul Toned Milk 1000ml,Amul,83,322.69,25.75,store-mumbai-001
+SKU-100125,Tata Salt 2kg,Tata,105,401.21,142.37,store-mumbai-001
+SKU-100126,Amul Toned Milk 500ml,Amul,133,192.38,34.67,store-mumbai-001
+SKU-100127,Surf Excel Detergent 4kg,Surf Excel,141,309.23,60.78,store-mumbai-001
+SKU-100128,Surf Excel Detergent 2kg,Surf Excel,7,196.2,213.09,store-mumbai-001
+SKU-100129,Loose Toor Dal 5kg,,24,326.94,110.71,store-mumbai-001
+SKU-100130,Britannia Brown Bread,Britannia,8,234.68,123.14,store-mumbai-001
+SKU-100131,Fortune Sunflower Oil 5L,Fortune,175,225.65,317.37,store-mumbai-001
+SKU-100132,Amul Toned Milk 1000ml,Amul,64,272.71,155.52,store-mumbai-001
+SKU-100133,Britannia Brown Bread,Britannia,176,304.53,57.7,store-mumbai-001
+SKU-100134,Amul Toned Milk 500ml,Amul,60,269.65,326.08,store-mumbai-001
+SKU-100135,Fortune Sunflower Oil 5L,Fortune,175,433.75,169.78,store-mumbai-001
+SKU-100136,MDH Garam Masala 50g,MDH,184,471.5,375.3,store-mumbai-001
+SKU-100137,Aashirvaad Atta 10kg,Aashirvaad,160,464.09,350.28,store-mumbai-001
+SKU-100138,Amul Toned Milk 1000ml,Amul,111,35.41,309.86,store-mumbai-001
+SKU-100139,Loose Toor Dal 1kg,,41,366.57,207.31,store-mumbai-001
+SKU-100140,Aashirvaad Atta 1kg,Aashirvaad,153,434.51,172.27,store-mumbai-001
+SKU-100141,Aashirvaad Atta 10kg,Aashirvaad,97,242.72,41.7,store-mumbai-001
+SKU-100142,Loose Toor Dal 1kg,,40,364.62,160.4,store-mumbai-001
+SKU-100143,Fortune Sunflower Oil 1L,Fortune,126,97.46,95.44,store-mumbai-001
+SKU-100144,Aashirvaad Atta 10kg,Aashirvaad,190,36.78,197.23,store-mumbai-001
+SKU-100145,Colgate Toothpaste 200g,Colgate,93,331.52,371.63,store-mumbai-001
+SKU-100146,Aashirvaad Atta 1kg,Aashirvaad,81,411.12,171.18,store-mumbai-001
+SKU-100147,Tata Salt 2kg,Tata,6,373.98,222.74,store-mumbai-001
+SKU-100148,Amul Toned Milk 1000ml,Amul,112,84.5,120.07,store-mumbai-001
+SKU-100149,Britannia Brown Bread,Britannia,149,171.56,216.54,store-mumbai-001
+SKU-100150,Fortune Sunflower Oil 1L,Fortune,14,337.65,185.83,store-mumbai-001
+SKU-100151,Amul Toned Milk 500ml,Amul,51,197.57,57.07,store-mumbai-001
+SKU-100152,Aashirvaad Atta 5kg,Aashirvaad,71,265.8,42.31,store-mumbai-001
+SKU-100153,Surf Excel Detergent 4kg,Surf Excel,39,499.16,35.13,store-mumbai-001
+SKU-100154,Britannia Brown Bread,Britannia,55,337.84,105.31,store-mumbai-001
+SKU-100155,Tata Salt 1kg,Tata,121,473.55,44.68,store-mumbai-001
+SKU-100156,Amul Toned Milk 1000ml,Amul,138,121.44,166.64,store-mumbai-001
+SKU-100157,MDH Garam Masala 200g,MDH,186,358.8,158.15,store-mumbai-001
+SKU-100158,Colgate Toothpaste 100g,Colgate,95,190.03,268.12,store-mumbai-001
+SKU-100159,Fortune Sunflower Oil 2L,Fortune,96,448.5,63.56,store-mumbai-001
+SKU-100160,MDH Garam Masala 200g,MDH,130,59.76,154.9,store-mumbai-001
+SKU-100161,Fortune Sunflower Oil 1L,Fortune,123,466.6,24.27,store-mumbai-001
+SKU-100162,Tata Salt 1kg,Tata,59,393.2,241.35,store-mumbai-001
+SKU-100163,Tata Salt 2kg,Tata,106,413.96,352.57,store-mumbai-001
+SKU-100164,Fortune Sunflower Oil 5L,Fortune,58,190.27,251.5,store-mumbai-001
+SKU-100165,Loose Toor Dal 5kg,,49,207.66,127.94,store-mumbai-001
+SKU-100166,Surf Excel Detergent 4kg,Surf Excel,21,425.39,332.45,store-mumbai-001
+SKU-100167,Aashirvaad Atta 5kg,Aashirvaad,103,119.93,298.26,store-mumbai-001
+SKU-100168,Loose Toor Dal 0.5kg,,40,494.29,274.22,store-mumbai-001
+SKU-100169,Fortune Sunflower Oil 2L,Fortune,25,182.37,126.54,store-mumbai-001
+SKU-100170,Britannia Brown Bread,Britannia,55,61.87,361.98,store-mumbai-001
+SKU-100171,Brown Eggs Tray,,180,369.9,337.26,store-mumbai-001
+SKU-100172,Surf Excel Detergent 2kg,Surf Excel,3,401.65,22.65,store-mumbai-001
+SKU-100173,Colgate Toothpaste 100g,Colgate,2,200.52,79.32,store-mumbai-001
+SKU-100174,Brown Eggs Tray,,106,162.98,157.74,store-mumbai-001
+SKU-100175,Fortune Sunflower Oil 2L,Fortune,22,377.93,184.99,store-mumbai-001
+SKU-100176,Aashirvaad Atta 1kg,Aashirvaad,111,326.2,272.34,store-mumbai-001
+SKU-100177,Aashirvaad Atta 5kg,Aashirvaad,22,264.16,139.08,store-mumbai-001
+SKU-100178,Colgate Toothpaste 100g,Colgate,191,451.69,268.57,store-mumbai-001
+SKU-100179,Aashirvaad Atta 10kg,Aashirvaad,91,471.25,63.49,store-mumbai-001
+SKU-100180,Loose Toor Dal 5kg,,158,42.69,369.18,store-mumbai-001
+SKU-100181,MDH Garam Masala 200g,MDH,68,160.9,182.07,store-mumbai-001
+SKU-100182,Britannia Brown Bread,Britannia,46,481.28,208.29,store-mumbai-001
+SKU-100183,MDH Garam Masala 50g,MDH,104,333.27,315.77,store-mumbai-001
+SKU-100184,Amul Toned Milk 1000ml,Amul,12,133.97,336.9,store-mumbai-001
+SKU-100185,Britannia Brown Bread,Britannia,179,122.97,62.09,store-mumbai-001
+SKU-100186,Tata Salt 2kg,Tata,36,415.14,365.61,store-mumbai-001
+SKU-100187,Brown Eggs Tray,,23,289.64,42.34,store-mumbai-001
+SKU-100188,MDH Garam Masala 200g,MDH,129,129.4,126.95,store-mumbai-001
+SKU-100189,Loose Toor Dal 1kg,,173,355.72,224.83,store-mumbai-001
+SKU-100190,Surf Excel Detergent 4kg,Surf Excel,114,234.04,68.26,store-mumbai-001
+SKU-100191,Britannia Brown Bread,Britannia,192,444.67,54.03,store-mumbai-001
+SKU-100192,Colgate Toothpaste 100g,Colgate,69,150.82,53.11,store-mumbai-001
+SKU-100193,MDH Garam Masala 50g,MDH,16,215.91,273.88,store-mumbai-001
+SKU-100194,Colgate Toothpaste 200g,Colgate,97,72.7,346.77,store-mumbai-001
+SKU-100195,Brown Eggs Tray,,33,205.43,356.0,store-mumbai-001
+SKU-100196,Brown Eggs Tray,,110,199.99,240.62,store-mumbai-001
+SKU-100197,Surf Excel Detergent 4kg,Surf Excel,189,304.61,63.28,store-mumbai-001
+SKU-100198,Colgate Toothpaste 200g,Colgate,79,498.71,315.01,store-mumbai-001
+SKU-100199,Britannia Brown Bread,Britannia,21,163.07,241.24,store-mumbai-001
+SKU-100200,Amul Toned Milk 1000ml,Amul,9,425.6,292.53,store-mumbai-001
+SKU-100201,MDH Garam Masala 100g,MDH,124,337.51,189.37,store-mumbai-001
+SKU-100202,Aashirvaad Atta 10kg,Aashirvaad,15,258.56,217.59,store-mumbai-001
+SKU-100203,MDH Garam Masala 200g,MDH,39,52.62,80.71,store-mumbai-001
+SKU-100204,Colgate Toothpaste 100g,Colgate,179,166.56,156.14,store-mumbai-001
+SKU-100205,Brown Eggs Tray,,81,143.12,334.42,store-mumbai-001
+SKU-100206,Tata Salt 0.5kg,Tata,96,72.72,396.35,store-mumbai-001
+SKU-100207,Britannia Brown Bread,Britannia,161,175.19,331.52,store-mumbai-001
+SKU-100208,Tata Salt 0.5kg,Tata,108,372.0,399.7,store-mumbai-001
+SKU-100209,Colgate Toothpaste 200g,Colgate,166,260.69,229.99,store-mumbai-001
+SKU-100210,Aashirvaad Atta 5kg,Aashirvaad,119,152.51,349.71,store-mumbai-001
+SKU-100211,Aashirvaad Atta 5kg,Aashirvaad,151,309.73,150.69,store-mumbai-001
+SKU-100212,Tata Salt 1kg,Tata,180,219.65,134.39,store-mumbai-001
+SKU-100213,Brown Eggs Tray,,57,469.15,188.0,store-mumbai-001
+SKU-100214,Amul Toned Milk 1000ml,Amul,27,37.11,324.01,store-mumbai-001
+SKU-100215,Aashirvaad Atta 1kg,Aashirvaad,40,251.54,52.21,store-mumbai-001
+SKU-100216,Aashirvaad Atta 5kg,Aashirvaad,65,417.3,137.0,store-mumbai-001
+SKU-100217,Surf Excel Detergent 4kg,Surf Excel,43,103.03,193.39,store-mumbai-001
+SKU-100218,Britannia Brown Bread,Britannia,154,173.91,129.34,store-mumbai-001
+SKU-100219,Tata Salt 2kg,Tata,38,311.45,60.15,store-mumbai-001
+SKU-100220,Aashirvaad Atta 5kg,Aashirvaad,8,305.96,158.01,store-mumbai-001
+SKU-100221,Colgate Toothpaste 100g,Colgate,143,207.26,198.18,store-mumbai-001
+SKU-100222,Fortune Sunflower Oil 2L,Fortune,133,325.6,385.75,store-mumbai-001
+SKU-100223,Tata Salt 0.5kg,Tata,153,168.43,237.75,store-mumbai-001
+SKU-100224,Loose Toor Dal 1kg,,21,417.16,372.4,store-mumbai-001
+SKU-100225,Fortune Sunflower Oil 2L,Fortune,102,126.93,227.44,store-mumbai-001
+SKU-100226,Britannia Brown Bread,Britannia,185,181.78,327.3,store-mumbai-001
+SKU-100227,Amul Toned Milk 1000ml,Amul,193,314.91,17.61,store-mumbai-001
+SKU-100228,Fortune Sunflower Oil 1L,Fortune,147,323.85,215.55,store-mumbai-001
+SKU-100229,Tata Salt 2kg,Tata,29,66.78,328.75,store-mumbai-001
+SKU-100230,Tata Salt 1kg,Tata,197,467.77,354.83,store-mumbai-001
+SKU-100231,Fortune Sunflower Oil 1L,Fortune,127,473.75,163.75,store-mumbai-001
+SKU-100232,Colgate Toothpaste 100g,Colgate,156,475.75,339.65,store-mumbai-001
+SKU-100233,Surf Excel Detergent 1kg,Surf Excel,3,280.48,269.19,store-mumbai-001
+SKU-100234,MDH Garam Masala 100g,MDH,111,385.12,273.95,store-mumbai-001
+SKU-100235,Fortune Sunflower Oil 5L,Fortune,119,116.26,287.85,store-mumbai-001
+SKU-100236,Amul Toned Milk 1000ml,Amul,199,219.81,311.56,store-mumbai-001
+SKU-100237,Colgate Toothpaste 200g,Colgate,59,317.2,318.13,store-mumbai-001
+SKU-100238,Brown Eggs Tray,,195,389.39,211.76,store-mumbai-001
+SKU-100239,Britannia Brown Bread,Britannia,2,152.66,177.45,store-mumbai-001
+SKU-100240,MDH Garam Masala 100g,MDH,42,453.05,77.36,store-mumbai-001
+SKU-100241,Aashirvaad Atta 1kg,Aashirvaad,184,241.23,76.51,store-mumbai-001
+SKU-100242,Tata Salt 1kg,Tata,130,362.96,311.45,store-mumbai-001
+SKU-100243,Tata Salt 1kg,Tata,131,76.85,395.22,store-mumbai-001
+SKU-100244,Tata Salt 2kg,Tata,189,238.79,346.17,store-mumbai-001
+SKU-100245,Surf Excel Detergent 2kg,Surf Excel,62,72.33,224.86,store-mumbai-001
+SKU-100246,Britannia Brown Bread,Britannia,112,432.38,153.58,store-mumbai-001
+SKU-100247,Amul Toned Milk 500ml,Amul,103,187.24,92.29,store-mumbai-001
+SKU-100248,Aashirvaad Atta 1kg,Aashirvaad,27,194.21,49.84,store-mumbai-001
+SKU-100249,MDH Garam Masala 50g,MDH,150,262.0,253.33,store-mumbai-001
+SKU-100250,Tata Salt 1kg,Tata,70,165.49,289.71,store-mumbai-001
+SKU-100251,Loose Toor Dal 5kg,,49,229.12,286.24,store-mumbai-001
+SKU-100252,Brown Eggs Tray,,86,160.26,283.8,store-mumbai-001
+SKU-100253,MDH Garam Masala 50g,MDH,124,274.41,382.42,store-mumbai-001
+SKU-100254,Amul Toned Milk 1000ml,Amul,129,464.12,137.78,store-mumbai-001
+SKU-100255,Amul Toned Milk 1000ml,Amul,57,473.66,196.86,store-mumbai-001
+SKU-100256,Aashirvaad Atta 1kg,Aashirvaad,144,166.16,209.56,store-mumbai-001
+SKU-100257,Amul Toned Milk 500ml,Amul,50,184.64,126.84,store-mumbai-001
+SKU-100258,MDH Garam Masala 100g,MDH,108,216.65,68.69,store-mumbai-001
+SKU-100259,Tata Salt 1kg,Tata,169,91.32,267.55,store-mumbai-001
+SKU-100260,Aashirvaad Atta 5kg,Aashirvaad,155,341.2,274.26,store-mumbai-001
+SKU-100261,Loose Toor Dal 5kg,,25,293.03,286.61,store-mumbai-001
+SKU-100262,Loose Toor Dal 5kg,,27,293.34,266.25,store-mumbai-001
+SKU-100263,Amul Toned Milk 500ml,Amul,6,435.02,135.4,store-mumbai-001
+SKU-100264,Britannia Brown Bread,Britannia,199,264.68,228.29,store-mumbai-001
+SKU-100265,MDH Garam Masala 100g,MDH,145,150.19,321.27,store-mumbai-001
+SKU-100266,Colgate Toothpaste 100g,Colgate,9,165.86,27.5,store-mumbai-001
+SKU-100267,Tata Salt 2kg,Tata,88,425.48,366.1,store-mumbai-001
+SKU-100268,Aashirvaad Atta 1kg,Aashirvaad,52,367.54,329.89,store-mumbai-001
+SKU-100269,Surf Excel Detergent 1kg,Surf Excel,136,434.41,275.17,store-mumbai-001
+SKU-100270,Brown Eggs Tray,,184,413.86,160.71,store-mumbai-001
+SKU-100271,Loose Toor Dal 5kg,,155,173.04,197.66,store-mumbai-001
+SKU-100272,MDH Garam Masala 200g,MDH,166,227.69,49.93,store-mumbai-001
+SKU-100273,Britannia Brown Bread,Britannia,106,196.88,91.99,store-mumbai-001
+SKU-100274,MDH Garam Masala 50g,MDH,1,223.32,19.24,store-mumbai-001
+SKU-100275,Britannia Brown Bread,Britannia,104,151.48,254.28,store-mumbai-001
+SKU-100276,Britannia Brown Bread,Britannia,118,155.85,148.84,store-mumbai-001
+SKU-100277,Loose Toor Dal 1kg,,19,246.72,370.55,store-mumbai-001
+SKU-100278,Britannia Brown Bread,Britannia,91,38.81,293.29,store-mumbai-001
+SKU-100279,Aashirvaad Atta 10kg,Aashirvaad,147,189.33,333.4,store-mumbai-001
+SKU-100280,Loose Toor Dal 0.5kg,,99,252.75,325.15,store-mumbai-001
+SKU-100281,Colgate Toothpaste 100g,Colgate,200,122.42,74.45,store-mumbai-001
+SKU-100282,Aashirvaad Atta 5kg,Aashirvaad,127,354.23,397.35,store-mumbai-001
+SKU-100283,Colgate Toothpaste 200g,Colgate,197,364.53,103.18,store-mumbai-001
+SKU-100284,Tata Salt 0.5kg,Tata,53,237.45,280.87,store-mumbai-001
+SKU-100285,Loose Toor Dal 1kg,,70,411.59,305.88,store-mumbai-001
+SKU-100286,Tata Salt 0.5kg,Tata,57,470.68,208.69,store-mumbai-001
+SKU-100287,Brown Eggs Tray,,164,421.37,231.74,store-mumbai-001
+SKU-100288,Brown Eggs Tray,,55,211.68,288.18,store-mumbai-001
+SKU-100289,Loose Toor Dal 0.5kg,,13,235.46,58.85,store-mumbai-001
+SKU-100290,MDH Garam Masala 50g,MDH,35,259.62,46.12,store-mumbai-001
+SKU-100291,Amul Toned Milk 500ml,Amul,14,452.73,350.55,store-mumbai-001
+SKU-100292,Surf Excel Detergent 1kg,Surf Excel,72,83.85,50.06,store-mumbai-001
+SKU-100293,Fortune Sunflower Oil 1L,Fortune,138,407.95,366.43,store-mumbai-001
+SKU-100294,Aashirvaad Atta 10kg,Aashirvaad,187,260.28,196.79,store-mumbai-001
+SKU-100295,Loose Toor Dal 0.5kg,,10,188.98,20.82,store-mumbai-001
+SKU-100296,MDH Garam Masala 200g,MDH,195,71.57,210.97,store-mumbai-001
+SKU-100297,Loose Toor Dal 5kg,,92,421.66,192.42,store-mumbai-001
+SKU-100298,Colgate Toothpaste 100g,Colgate,173,31.56,356.99,store-mumbai-001
+SKU-100299,MDH Garam Masala 200g,MDH,110,277.62,319.0,store-mumbai-001
+SKU-100300,Brown Eggs Tray,,194,482.81,304.74,store-mumbai-001
+SKU-100301,Colgate Toothpaste 100g,Colgate,59,414.37,333.89,store-mumbai-001
+SKU-100302,MDH Garam Masala 200g,MDH,198,442.44,243.65,store-mumbai-001
+SKU-100303,Loose Toor Dal 1kg,,3,441.82,297.29,store-mumbai-001
+SKU-100304,Loose Toor Dal 5kg,,134,167.87,299.87,store-mumbai-001
+SKU-100305,Amul Toned Milk 500ml,Amul,19,404.06,231.17,store-mumbai-001
+SKU-100306,Loose Toor Dal 0.5kg,,83,75.04,204.59,store-mumbai-001
+SKU-100307,Loose Toor Dal 0.5kg,,172,218.98,390.42,store-mumbai-001
+SKU-100308,Aashirvaad Atta 1kg,Aashirvaad,14,253.42,356.84,store-mumbai-001
+SKU-100309,Loose Toor Dal 0.5kg,,86,110.55,152.49,store-mumbai-001
+SKU-100310,MDH Garam Masala 50g,MDH,43,268.99,80.4,store-mumbai-001
+SKU-100311,Colgate Toothpaste 200g,Colgate,111,362.36,262.5,store-mumbai-001
+SKU-100312,Surf Excel Detergent 1kg,Surf Excel,94,376.23,336.6,store-mumbai-001
+SKU-100313,Colgate Toothpaste 100g,Colgate,154,295.42,374.91,store-mumbai-001
+SKU-100314,Tata Salt 0.5kg,Tata,30,390.54,336.16,store-mumbai-001
+SKU-100315,Colgate Toothpaste 200g,Colgate,38,69.71,291.98,store-mumbai-001
+SKU-100316,Surf Excel Detergent 4kg,Surf Excel,117,334.68,48.59,store-mumbai-001
+SKU-100317,Brown Eggs Tray,,194,27.63,94.24,store-mumbai-001
+SKU-100318,Surf Excel Detergent 2kg,Surf Excel,172,109.75,120.15,store-mumbai-001
+SKU-100319,MDH Garam Masala 200g,MDH,128,459.3,123.02,store-mumbai-001
+SKU-100320,Aashirvaad Atta 5kg,Aashirvaad,160,274.26,129.25,store-mumbai-001
+SKU-100321,Surf Excel Detergent 1kg,Surf Excel,105,357.03,294.14,store-mumbai-001
+SKU-100322,Aashirvaad Atta 1kg,Aashirvaad,50,309.5,258.02,store-mumbai-001
+SKU-100323,Britannia Brown Bread,Britannia,138,185.15,303.59,store-mumbai-001
+SKU-100324,Fortune Sunflower Oil 2L,Fortune,56,173.65,195.8,store-mumbai-001
+SKU-100325,Aashirvaad Atta 1kg,Aashirvaad,35,367.9,331.98,store-mumbai-001
+SKU-100326,Brown Eggs Tray,,44,138.61,38.42,store-mumbai-001
+SKU-100327,Fortune Sunflower Oil 2L,Fortune,63,467.43,269.76,store-mumbai-001
+SKU-100328,Aashirvaad Atta 10kg,Aashirvaad,158,465.69,365.11,store-mumbai-001
+SKU-100329,Britannia Brown Bread,Britannia,138,78.22,153.7,store-mumbai-001
+SKU-100330,Aashirvaad Atta 10kg,Aashirvaad,35,422.54,142.93,store-mumbai-001
+SKU-100331,Surf Excel Detergent 1kg,Surf Excel,189,149.87,24.48,store-mumbai-001
+SKU-100332,Britannia Brown Bread,Britannia,78,75.55,319.36,store-mumbai-001
+SKU-100333,MDH Garam Masala 100g,MDH,157,39.08,167.35,store-mumbai-001
+SKU-100334,Britannia Brown Bread,Britannia,7,318.14,86.86,store-mumbai-001
+SKU-100335,Surf Excel Detergent 4kg,Surf Excel,119,156.48,189.9,store-mumbai-001
+SKU-100336,Aashirvaad Atta 1kg,Aashirvaad,14,119.87,289.59,store-mumbai-001
+SKU-100337,Britannia Brown Bread,Britannia,180,149.4,157.91,store-mumbai-001
+SKU-100338,Colgate Toothpaste 200g,Colgate,88,167.39,362.55,store-mumbai-001
+SKU-100339,Amul Toned Milk 1000ml,Amul,200,491.45,356.96,store-mumbai-001
+SKU-100340,Tata Salt 2kg,Tata,6,173.06,338.47,store-mumbai-001
+SKU-100341,Surf Excel Detergent 1kg,Surf Excel,16,34.16,141.15,store-mumbai-001
+SKU-100342,Brown Eggs Tray,,109,392.53,136.04,store-mumbai-001
+SKU-100343,Loose Toor Dal 5kg,,66,395.61,257.9,store-mumbai-001
+SKU-100344,Surf Excel Detergent 1kg,Surf Excel,74,279.82,336.15,store-mumbai-001
+SKU-100345,MDH Garam Masala 100g,MDH,164,432.4,262.22,store-mumbai-001
+SKU-100346,Amul Toned Milk 1000ml,Amul,177,279.23,101.6,store-mumbai-001
+SKU-100347,Fortune Sunflower Oil 2L,Fortune,135,324.63,130.15,store-mumbai-001
+SKU-100348,Aashirvaad Atta 5kg,Aashirvaad,115,292.88,149.24,store-mumbai-001
+SKU-100349,Britannia Brown Bread,Britannia,19,177.75,139.86,store-mumbai-001
+SKU-100350,Tata Salt 2kg,Tata,153,450.24,373.42,store-mumbai-001
+SKU-100351,Brown Eggs Tray,,4,350.38,112.2,store-mumbai-001
+SKU-100352,Britannia Brown Bread,Britannia,159,482.23,339.51,store-mumbai-001
+SKU-100353,Loose Toor Dal 5kg,,174,218.99,79.63,store-mumbai-001
+SKU-100354,Amul Toned Milk 1000ml,Amul,181,409.35,87.51,store-mumbai-001
+SKU-100355,Surf Excel Detergent 1kg,Surf Excel,111,186.74,81.88,store-mumbai-001
+SKU-100356,Amul Toned Milk 500ml,Amul,116,304.89,89.32,store-mumbai-001
+SKU-100357,Loose Toor Dal 0.5kg,,19,401.36,358.68,store-mumbai-001
+SKU-100358,Britannia Brown Bread,Britannia,152,294.9,148.88,store-mumbai-001
+SKU-100359,Amul Toned Milk 500ml,Amul,73,281.16,382.22,store-mumbai-001
+SKU-100360,Amul Toned Milk 500ml,Amul,200,298.37,333.01,store-mumbai-001
+SKU-100361,Amul Toned Milk 500ml,Amul,159,296.21,292.79,store-mumbai-001
+SKU-100362,Amul Toned Milk 1000ml,Amul,51,224.85,341.11,store-mumbai-001
+SKU-100363,Fortune Sunflower Oil 2L,Fortune,32,348.58,155.26,store-mumbai-001
+SKU-100364,MDH Garam Masala 50g,MDH,14,87.53,271.39,store-mumbai-001
+SKU-100365,Colgate Toothpaste 100g,Colgate,103,25.83,193.62,store-mumbai-001
+SKU-100366,MDH Garam Masala 200g,MDH,51,214.62,32.52,store-mumbai-001
+SKU-100367,Brown Eggs Tray,,170,227.7,211.86,store-mumbai-001
+SKU-100368,Amul Toned Milk 500ml,Amul,100,190.99,260.88,store-mumbai-001
+SKU-100369,Loose Toor Dal 0.5kg,,65,119.66,89.62,store-mumbai-001
+SKU-100370,Aashirvaad Atta 1kg,Aashirvaad,177,49.01,223.72,store-mumbai-001
+SKU-100371,Britannia Brown Bread,Britannia,167,192.95,41.86,store-mumbai-001
+SKU-100372,Brown Eggs Tray,,13,321.47,16.5,store-mumbai-001
+SKU-100373,MDH Garam Masala 100g,MDH,72,497.96,320.39,store-mumbai-001
+SKU-100374,Brown Eggs Tray,,89,278.6,29.52,store-mumbai-001
+SKU-100375,Aashirvaad Atta 5kg,Aashirvaad,150,250.58,310.03,store-mumbai-001
+SKU-100376,Tata Salt 0.5kg,Tata,197,43.27,195.73,store-mumbai-001
+SKU-100377,Brown Eggs Tray,,47,284.38,263.82,store-mumbai-001
+SKU-100378,Surf Excel Detergent 2kg,Surf Excel,158,329.18,340.26,store-mumbai-001
+SKU-100379,Surf Excel Detergent 2kg,Surf Excel,58,118.58,260.55,store-mumbai-001
+SKU-100380,Brown Eggs Tray,,125,138.55,324.15,store-mumbai-001
+SKU-100381,Britannia Brown Bread,Britannia,14,289.14,86.88,store-mumbai-001
+SKU-100382,Colgate Toothpaste 100g,Colgate,36,369.06,63.41,store-mumbai-001
+SKU-100383,Amul Toned Milk 500ml,Amul,36,486.46,347.02,store-mumbai-001
+SKU-100384,Britannia Brown Bread,Britannia,71,174.09,228.28,store-mumbai-001
+SKU-100385,Brown Eggs Tray,,107,460.06,70.34,store-mumbai-001
+SKU-100386,Loose Toor Dal 0.5kg,,161,30.94,295.32,store-mumbai-001
+SKU-100387,Tata Salt 1kg,Tata,116,112.89,270.07,store-mumbai-001
+SKU-100388,Brown Eggs Tray,,72,495.98,165.39,store-mumbai-001
+SKU-100389,Britannia Brown Bread,Britannia,124,364.26,223.35,store-mumbai-001
+SKU-100390,Brown Eggs Tray,,48,80.07,280.38,store-mumbai-001
+SKU-100391,Colgate Toothpaste 100g,Colgate,67,384.5,132.99,store-mumbai-001
+SKU-100392,Loose Toor Dal 5kg,,115,330.39,204.16,store-mumbai-001
+SKU-100393,Colgate Toothpaste 200g,Colgate,31,115.18,176.09,store-mumbai-001
+SKU-100394,Amul Toned Milk 500ml,Amul,23,113.67,130.83,store-mumbai-001
+SKU-100395,Fortune Sunflower Oil 5L,Fortune,43,366.46,77.74,store-mumbai-001
+SKU-100396,Surf Excel Detergent 4kg,Surf Excel,33,55.98,306.65,store-mumbai-001
+SKU-100397,Fortune Sunflower Oil 5L,Fortune,85,341.83,195.11,store-mumbai-001
+SKU-100398,Surf Excel Detergent 1kg,Surf Excel,8,362.73,22.64,store-mumbai-001
+SKU-100399,Loose Toor Dal 5kg,,176,273.24,117.31,store-mumbai-001
+SKU-100400,Aashirvaad Atta 10kg,Aashirvaad,80,69.28,109.55,store-mumbai-001
+SKU-100401,MDH Garam Masala 100g,MDH,159,69.62,399.57,store-mumbai-001
+SKU-100402,Brown Eggs Tray,,107,340.51,237.78,store-mumbai-001
+SKU-100403,Brown Eggs Tray,,78,214.42,377.72,store-mumbai-001
+SKU-100404,Brown Eggs Tray,,39,391.02,129.68,store-mumbai-001
+SKU-100405,Loose Toor Dal 0.5kg,,35,235.4,205.65,store-mumbai-001
+SKU-100406,Amul Toned Milk 500ml,Amul,164,327.9,123.63,store-mumbai-001
+SKU-100407,Fortune Sunflower Oil 2L,Fortune,90,344.82,55.5,store-mumbai-001
+SKU-100408,Surf Excel Detergent 4kg,Surf Excel,184,215.22,377.04,store-mumbai-001
+SKU-100409,Tata Salt 1kg,Tata,27,98.33,145.59,store-mumbai-001
+SKU-100410,Amul Toned Milk 1000ml,Amul,87,152.55,370.44,store-mumbai-001
+SKU-100411,Aashirvaad Atta 5kg,Aashirvaad,182,317.47,200.49,store-mumbai-001
+SKU-100412,Fortune Sunflower Oil 1L,Fortune,89,389.17,308.26,store-mumbai-001
+SKU-100413,Fortune Sunflower Oil 2L,Fortune,164,338.68,58.38,store-mumbai-001
+SKU-100414,MDH Garam Masala 100g,MDH,85,481.51,150.36,store-mumbai-001
+SKU-100415,Surf Excel Detergent 1kg,Surf Excel,112,148.64,279.8,store-mumbai-001
+SKU-100416,Loose Toor Dal 0.5kg,,9,155.89,378.37,store-mumbai-001
+SKU-100417,Fortune Sunflower Oil 5L,Fortune,95,199.04,130.25,store-mumbai-001
+SKU-100418,Loose Toor Dal 1kg,,90,157.87,32.09,store-mumbai-001
+SKU-100419,Aashirvaad Atta 1kg,Aashirvaad,58,360.14,78.02,store-mumbai-001
+SKU-100420,Surf Excel Detergent 4kg,Surf Excel,185,267.07,119.24,store-mumbai-001
+SKU-100421,Amul Toned Milk 500ml,Amul,103,496.33,291.44,store-mumbai-001
+SKU-100422,Tata Salt 1kg,Tata,95,81.62,68.76,store-mumbai-001
+SKU-100423,Fortune Sunflower Oil 5L,Fortune,65,275.33,225.31,store-mumbai-001
+SKU-100424,Colgate Toothpaste 200g,Colgate,73,459.16,338.2,store-mumbai-001
+SKU-100425,MDH Garam Masala 100g,MDH,154,249.62,100.98,store-mumbai-001
+SKU-100426,Loose Toor Dal 0.5kg,,145,358.82,184.78,store-mumbai-001
+SKU-100427,Surf Excel Detergent 1kg,Surf Excel,128,202.26,273.66,store-mumbai-001
+SKU-100428,MDH Garam Masala 200g,MDH,55,307.0,159.14,store-mumbai-001
+SKU-100429,Fortune Sunflower Oil 2L,Fortune,19,328.99,139.48,store-mumbai-001
+SKU-100430,Colgate Toothpaste 200g,Colgate,57,415.55,227.65,store-mumbai-001
+SKU-100431,Surf Excel Detergent 2kg,Surf Excel,5,408.51,144.99,store-mumbai-001
+SKU-100432,Amul Toned Milk 500ml,Amul,114,196.49,252.93,store-mumbai-001
+SKU-100433,Britannia Brown Bread,Britannia,32,236.64,151.08,store-mumbai-001
+SKU-100434,MDH Garam Masala 50g,MDH,58,382.6,89.44,store-mumbai-001
+SKU-100435,MDH Garam Masala 50g,MDH,187,406.6,385.04,store-mumbai-001
+SKU-100436,Surf Excel Detergent 2kg,Surf Excel,10,191.48,311.49,store-mumbai-001
+SKU-100437,MDH Garam Masala 50g,MDH,75,253.54,331.17,store-mumbai-001
+SKU-100438,Colgate Toothpaste 200g,Colgate,174,68.75,316.38,store-mumbai-001
+SKU-100439,Britannia Brown Bread,Britannia,40,315.15,31.76,store-mumbai-001
+SKU-100440,Britannia Brown Bread,Britannia,149,242.66,328.52,store-mumbai-001
+SKU-100441,Aashirvaad Atta 10kg,Aashirvaad,12,472.03,18.52,store-mumbai-001
+SKU-100442,Amul Toned Milk 500ml,Amul,190,306.76,295.2,store-mumbai-001
+SKU-100443,Loose Toor Dal 5kg,,72,67.12,387.45,store-mumbai-001
+SKU-100444,Colgate Toothpaste 100g,Colgate,91,390.01,51.99,store-mumbai-001
+SKU-100445,Aashirvaad Atta 1kg,Aashirvaad,87,476.21,94.9,store-mumbai-001
+SKU-100446,Brown Eggs Tray,,156,264.03,358.39,store-mumbai-001
+SKU-100447,Fortune Sunflower Oil 2L,Fortune,36,438.86,181.26,store-mumbai-001
+SKU-100448,Colgate Toothpaste 200g,Colgate,109,472.7,70.29,store-mumbai-001
+SKU-100449,Fortune Sunflower Oil 5L,Fortune,194,203.26,77.96,store-mumbai-001
+SKU-100450,Amul Toned Milk 500ml,Amul,11,88.77,339.68,store-mumbai-001
+SKU-100451,Aashirvaad Atta 5kg,Aashirvaad,126,73.73,266.5,store-mumbai-001
+SKU-100452,Loose Toor Dal 1kg,,42,275.99,207.92,store-mumbai-001
+SKU-100453,Amul Toned Milk 1000ml,Amul,144,489.11,316.16,store-mumbai-001
+SKU-100454,Surf Excel Detergent 2kg,Surf Excel,138,235.33,242.82,store-mumbai-001
+SKU-100455,Fortune Sunflower Oil 2L,Fortune,141,53.2,206.03,store-mumbai-001
+SKU-100456,Britannia Brown Bread,Britannia,183,434.83,66.72,store-mumbai-001
+SKU-100457,MDH Garam Masala 100g,MDH,7,41.29,20.79,store-mumbai-001
+SKU-100458,Britannia Brown Bread,Britannia,75,470.77,345.55,store-mumbai-001
+SKU-100459,Colgate Toothpaste 200g,Colgate,20,122.99,131.39,store-mumbai-001
+SKU-100460,Fortune Sunflower Oil 2L,Fortune,0,361.31,216.92,store-mumbai-001
+SKU-100461,Brown Eggs Tray,,112,481.71,184.68,store-mumbai-001
+SKU-100462,Loose Toor Dal 0.5kg,,146,309.17,261.33,store-mumbai-001
+SKU-100463,Britannia Brown Bread,Britannia,31,212.35,115.89,store-mumbai-001
+SKU-100464,MDH Garam Masala 50g,MDH,30,69.59,183.75,store-mumbai-001
+SKU-100465,Amul Toned Milk 500ml,Amul,1,447.8,325.65,store-mumbai-001
+SKU-100466,Colgate Toothpaste 200g,Colgate,41,65.79,207.52,store-mumbai-001
+SKU-100467,Britannia Brown Bread,Britannia,196,359.57,102.66,store-mumbai-001
+SKU-100468,Fortune Sunflower Oil 2L,Fortune,174,428.62,46.64,store-mumbai-001
+SKU-100469,Brown Eggs Tray,,1,475.49,16.78,store-mumbai-001
+SKU-100470,Brown Eggs Tray,,148,359.92,295.28,store-mumbai-001
+SKU-100471,Tata Salt 1kg,Tata,44,345.27,340.89,store-mumbai-001
+SKU-100472,Surf Excel Detergent 2kg,Surf Excel,168,187.18,41.03,store-mumbai-001
+SKU-100473,Surf Excel Detergent 2kg,Surf Excel,96,116.5,373.76,store-mumbai-001
+SKU-100474,Aashirvaad Atta 1kg,Aashirvaad,46,83.18,158.75,store-mumbai-001
+SKU-100475,Brown Eggs Tray,,158,281.92,322.7,store-mumbai-001
+SKU-100476,Brown Eggs Tray,,176,173.35,181.4,store-mumbai-001
+SKU-100477,Colgate Toothpaste 200g,Colgate,33,369.95,202.89,store-mumbai-001
+SKU-100478,Surf Excel Detergent 1kg,Surf Excel,16,355.48,55.31,store-mumbai-001
+SKU-100479,Britannia Brown Bread,Britannia,94,22.1,201.14,store-mumbai-001
+SKU-100480,MDH Garam Masala 50g,MDH,109,445.46,49.26,store-mumbai-001
+SKU-100481,Amul Toned Milk 500ml,Amul,124,359.92,330.31,store-mumbai-001
+SKU-100482,Amul Toned Milk 500ml,Amul,58,62.22,330.33,store-mumbai-001
+SKU-100483,MDH Garam Masala 50g,MDH,44,127.92,337.79,store-mumbai-001
+SKU-100484,Tata Salt 0.5kg,Tata,161,471.75,87.46,store-mumbai-001
+SKU-100485,Tata Salt 2kg,Tata,196,266.71,101.06,store-mumbai-001
+SKU-100486,Aashirvaad Atta 10kg,Aashirvaad,112,185.06,312.24,store-mumbai-001
+SKU-100487,Aashirvaad Atta 1kg,Aashirvaad,134,466.07,333.49,store-mumbai-001
+SKU-100488,Brown Eggs Tray,,189,480.16,385.48,store-mumbai-001
+SKU-100489,Colgate Toothpaste 100g,Colgate,6,403.31,203.61,store-mumbai-001
+SKU-100490,Amul Toned Milk 1000ml,Amul,181,389.79,80.62,store-mumbai-001
+SKU-100491,Tata Salt 2kg,Tata,118,73.83,334.67,store-mumbai-001
+SKU-100492,MDH Garam Masala 50g,MDH,165,254.41,92.71,store-mumbai-001
+SKU-100493,Colgate Toothpaste 200g,Colgate,91,377.27,165.47,store-mumbai-001
+SKU-100494,Fortune Sunflower Oil 2L,Fortune,100,288.71,116.74,store-mumbai-001
+SKU-100495,Brown Eggs Tray,,166,152.11,395.77,store-mumbai-001
+SKU-100496,Fortune Sunflower Oil 2L,Fortune,112,33.42,251.83,store-mumbai-001
+SKU-100497,Colgate Toothpaste 200g,Colgate,140,241.46,191.67,store-mumbai-001
+SKU-100498,Brown Eggs Tray,,29,320.18,154.62,store-mumbai-001
+SKU-100499,Aashirvaad Atta 1kg,Aashirvaad,168,101.08,255.02,store-mumbai-001
+SKU-100500,Fortune Sunflower Oil 2L,Fortune,172,238.92,306.83,store-mumbai-001
+SKU-100501,Colgate Toothpaste 200g,Colgate,190,288.25,230.26,store-mumbai-001
+SKU-100502,Colgate Toothpaste 100g,Colgate,113,70.49,29.73,store-mumbai-001
+SKU-100503,MDH Garam Masala 50g,MDH,106,104.12,238.71,store-mumbai-001
+SKU-100504,Brown Eggs Tray,,126,217.52,339.83,store-mumbai-001
+SKU-100505,Surf Excel Detergent 4kg,Surf Excel,32,428.06,321.53,store-mumbai-001
+SKU-100506,Loose Toor Dal 0.5kg,,89,397.67,83.2,store-mumbai-001
+SKU-100507,Amul Toned Milk 500ml,Amul,123,336.6,328.45,store-mumbai-001
+SKU-100508,Loose Toor Dal 5kg,,171,65.45,240.22,store-mumbai-001
+SKU-100509,Aashirvaad Atta 1kg,Aashirvaad,72,42.08,392.17,store-mumbai-001
+SKU-100510,Brown Eggs Tray,,188,117.05,80.67,store-mumbai-001
+SKU-100511,MDH Garam Masala 50g,MDH,145,257.58,313.68,store-mumbai-001
+SKU-100512,Amul Toned Milk 500ml,Amul,119,473.02,134.67,store-mumbai-001
+SKU-100513,Surf Excel Detergent 4kg,Surf Excel,111,252.18,294.58,store-mumbai-001
+SKU-100514,Colgate Toothpaste 100g,Colgate,101,124.17,359.25,store-mumbai-001
+SKU-100515,Brown Eggs Tray,,101,98.21,242.96,store-mumbai-001
+SKU-100516,Britannia Brown Bread,Britannia,15,167.66,66.85,store-mumbai-001
+SKU-100517,Fortune Sunflower Oil 5L,Fortune,86,193.43,156.62,store-mumbai-001
+SKU-100518,Colgate Toothpaste 200g,Colgate,119,153.32,62.5,store-mumbai-001
+SKU-100519,Fortune Sunflower Oil 1L,Fortune,153,307.81,377.02,store-mumbai-001
+SKU-100520,Tata Salt 0.5kg,Tata,180,450.71,30.53,store-mumbai-001
+SKU-100521,Aashirvaad Atta 10kg,Aashirvaad,137,452.93,351.07,store-mumbai-001
+SKU-100522,Surf Excel Detergent 1kg,Surf Excel,195,414.98,200.28,store-mumbai-001
+SKU-100523,Fortune Sunflower Oil 1L,Fortune,46,129.83,226.07,store-mumbai-001
+SKU-100524,Brown Eggs Tray,,149,61.1,237.11,store-mumbai-001
+SKU-100525,Aashirvaad Atta 10kg,Aashirvaad,13,167.0,238.1,store-mumbai-001
+SKU-100526,MDH Garam Masala 200g,MDH,114,438.44,353.16,store-mumbai-001
+SKU-100527,Colgate Toothpaste 100g,Colgate,125,247.59,147.64,store-mumbai-001
+SKU-100528,Britannia Brown Bread,Britannia,121,149.01,38.68,store-mumbai-001
+SKU-100529,Amul Toned Milk 1000ml,Amul,193,337.99,318.28,store-mumbai-001
+SKU-100530,Colgate Toothpaste 100g,Colgate,143,81.17,26.44,store-mumbai-001
+SKU-100531,Colgate Toothpaste 100g,Colgate,88,250.7,304.73,store-mumbai-001
+SKU-100532,Brown Eggs Tray,,118,172.43,351.89,store-mumbai-001
+SKU-100533,Britannia Brown Bread,Britannia,134,456.71,266.59,store-mumbai-001
+SKU-100534,Surf Excel Detergent 1kg,Surf Excel,89,495.92,334.13,store-mumbai-001
+SKU-100535,Aashirvaad Atta 1kg,Aashirvaad,90,95.28,296.39,store-mumbai-001
+SKU-100536,Fortune Sunflower Oil 2L,Fortune,66,243.26,22.69,store-mumbai-001
+SKU-100537,Fortune Sunflower Oil 1L,Fortune,83,212.22,372.38,store-mumbai-001
+SKU-100538,Colgate Toothpaste 200g,Colgate,92,65.59,289.05,store-mumbai-001
+SKU-100539,Britannia Brown Bread,Britannia,35,206.92,380.31,store-mumbai-001
+SKU-100540,Surf Excel Detergent 4kg,Surf Excel,123,92.74,373.59,store-mumbai-001
+SKU-100541,Aashirvaad Atta 10kg,Aashirvaad,19,35.62,46.77,store-mumbai-001
+SKU-100542,Colgate Toothpaste 200g,Colgate,76,287.13,214.63,store-mumbai-001
+SKU-100543,Tata Salt 2kg,Tata,6,173.0,17.95,store-mumbai-001
+SKU-100544,Loose Toor Dal 5kg,,172,103.41,193.32,store-mumbai-001
+SKU-100545,Britannia Brown Bread,Britannia,128,382.14,136.83,store-mumbai-001
+SKU-100546,Brown Eggs Tray,,167,445.35,292.64,store-mumbai-001
+SKU-100547,Fortune Sunflower Oil 1L,Fortune,185,335.22,120.69,store-mumbai-001
+SKU-100548,Fortune Sunflower Oil 5L,Fortune,16,55.61,168.9,store-mumbai-001
+SKU-100549,Britannia Brown Bread,Britannia,132,404.41,150.26,store-mumbai-001
+SKU-100550,MDH Garam Masala 200g,MDH,183,388.67,284.9,store-mumbai-001
+SKU-100551,MDH Garam Masala 100g,MDH,71,128.05,128.01,store-mumbai-001
+SKU-100552,Tata Salt 0.5kg,Tata,98,346.3,102.39,store-mumbai-001
+SKU-100553,Colgate Toothpaste 100g,Colgate,143,466.93,138.8,store-mumbai-001
+SKU-100554,Fortune Sunflower Oil 5L,Fortune,118,101.29,233.13,store-mumbai-001
+SKU-100555,Colgate Toothpaste 200g,Colgate,169,348.02,141.56,store-mumbai-001
+SKU-100556,Amul Toned Milk 500ml,Amul,136,223.26,361.82,store-mumbai-001
+SKU-100557,Aashirvaad Atta 1kg,Aashirvaad,3,266.63,344.83,store-mumbai-001
+SKU-100558,Aashirvaad Atta 1kg,Aashirvaad,182,294.83,139.86,store-mumbai-001
+SKU-100559,Brown Eggs Tray,,200,334.31,140.68,store-mumbai-001
+SKU-100560,Fortune Sunflower Oil 1L,Fortune,200,152.15,284.97,store-mumbai-001
+SKU-100561,Brown Eggs Tray,,52,182.99,250.3,store-mumbai-001
+SKU-100562,Fortune Sunflower Oil 1L,Fortune,107,349.51,362.57,store-mumbai-001
+SKU-100563,Amul Toned Milk 500ml,Amul,146,260.88,218.99,store-mumbai-001
+SKU-100564,Aashirvaad Atta 5kg,Aashirvaad,164,256.88,172.25,store-mumbai-001
+SKU-100565,Surf Excel Detergent 2kg,Surf Excel,71,161.56,122.56,store-mumbai-001
+SKU-100566,Amul Toned Milk 1000ml,Amul,18,275.2,97.92,store-mumbai-001
+SKU-100567,Surf Excel Detergent 4kg,Surf Excel,97,360.73,149.35,store-mumbai-001
+SKU-100568,Loose Toor Dal 1kg,,16,433.02,297.17,store-mumbai-001
+SKU-100569,Surf Excel Detergent 4kg,Surf Excel,112,84.92,147.76,store-mumbai-001
+SKU-100570,Fortune Sunflower Oil 1L,Fortune,124,81.16,275.13,store-mumbai-001
+SKU-100571,Aashirvaad Atta 1kg,Aashirvaad,58,159.87,211.61,store-mumbai-001
+SKU-100572,Surf Excel Detergent 4kg,Surf Excel,179,498.05,109.85,store-mumbai-001
+SKU-100573,Brown Eggs Tray,,67,312.14,99.73,store-mumbai-001
+SKU-100574,MDH Garam Masala 200g,MDH,19,469.38,374.05,store-mumbai-001
+SKU-100575,Aashirvaad Atta 1kg,Aashirvaad,82,375.47,94.6,store-mumbai-001
+SKU-100576,Loose Toor Dal 1kg,,57,175.88,384.73,store-mumbai-001
+SKU-100577,Loose Toor Dal 0.5kg,,192,417.74,138.86,store-mumbai-001
+SKU-100578,MDH Garam Masala 50g,MDH,135,251.56,132.05,store-mumbai-001
+SKU-100579,Surf Excel Detergent 1kg,Surf Excel,29,270.52,160.83,store-mumbai-001
+SKU-100580,Brown Eggs Tray,,137,254.4,45.32,store-mumbai-001
+SKU-100581,Surf Excel Detergent 2kg,Surf Excel,47,44.05,284.18,store-mumbai-001
+SKU-100582,Aashirvaad Atta 10kg,Aashirvaad,140,340.76,69.75,store-mumbai-001
+SKU-100583,Aashirvaad Atta 1kg,Aashirvaad,13,224.96,68.82,store-mumbai-001
+SKU-100584,Aashirvaad Atta 5kg,Aashirvaad,65,452.03,294.61,store-mumbai-001
+SKU-100585,Britannia Brown Bread,Britannia,90,78.53,199.65,store-mumbai-001
+SKU-100586,Tata Salt 1kg,Tata,113,179.62,243.61,store-mumbai-001
+SKU-100587,Brown Eggs Tray,,68,224.67,166.39,store-mumbai-001
+SKU-100588,Brown Eggs Tray,,1,63.59,176.59,store-mumbai-001
+SKU-100589,Aashirvaad Atta 5kg,Aashirvaad,33,230.46,158.54,store-mumbai-001
+SKU-100590,Colgate Toothpaste 200g,Colgate,175,66.44,272.04,store-mumbai-001
+SKU-100591,Brown Eggs Tray,,116,36.77,358.77,store-mumbai-001
+SKU-100592,Britannia Brown Bread,Britannia,54,422.03,86.2,store-mumbai-001
+SKU-100593,MDH Garam Masala 50g,MDH,165,425.9,17.74,store-mumbai-001
+SKU-100594,Amul Toned Milk 500ml,Amul,148,284.7,225.03,store-mumbai-001
+SKU-100595,Amul Toned Milk 1000ml,Amul,146,360.77,164.27,store-mumbai-001
+SKU-100596,Surf Excel Detergent 4kg,Surf Excel,81,281.12,249.4,store-mumbai-001
+SKU-100597,Tata Salt 2kg,Tata,198,86.25,276.33,store-mumbai-001
+SKU-100598,Brown Eggs Tray,,53,87.87,298.15,store-mumbai-001
+SKU-100599,Britannia Brown Bread,Britannia,56,441.02,188.27,store-mumbai-001
+SKU-100600,Loose Toor Dal 0.5kg,,198,70.56,366.0,store-mumbai-001
+SKU-100601,MDH Garam Masala 200g,MDH,102,70.9,255.36,store-mumbai-001
+SKU-100602,Britannia Brown Bread,Britannia,97,326.15,67.39,store-mumbai-001
+SKU-100603,Colgate Toothpaste 200g,Colgate,160,267.04,123.2,store-mumbai-001
+SKU-100604,Amul Toned Milk 500ml,Amul,167,368.58,277.59,store-mumbai-001
+SKU-100605,Colgate Toothpaste 100g,Colgate,181,243.36,269.16,store-mumbai-001
+SKU-100606,MDH Garam Masala 200g,MDH,2,410.3,47.63,store-mumbai-001
+SKU-100607,Aashirvaad Atta 10kg,Aashirvaad,39,150.22,362.78,store-mumbai-001
+SKU-100608,Surf Excel Detergent 2kg,Surf Excel,81,421.87,147.55,store-mumbai-001
+SKU-100609,MDH Garam Masala 50g,MDH,197,231.48,371.15,store-mumbai-001
+SKU-100610,MDH Garam Masala 200g,MDH,118,295.61,240.94,store-mumbai-001
+SKU-100611,Fortune Sunflower Oil 1L,Fortune,113,303.26,33.02,store-mumbai-001
+SKU-100612,Surf Excel Detergent 2kg,Surf Excel,185,212.69,119.37,store-mumbai-001
+SKU-100613,Brown Eggs Tray,,196,336.42,211.36,store-mumbai-001
+SKU-100614,Fortune Sunflower Oil 1L,Fortune,155,409.39,318.45,store-mumbai-001
+SKU-100615,MDH Garam Masala 50g,MDH,108,26.1,21.19,store-mumbai-001
+SKU-100616,Brown Eggs Tray,,177,183.52,33.05,store-mumbai-001
+SKU-100617,Britannia Brown Bread,Britannia,115,348.13,259.62,store-mumbai-001
+SKU-100618,Amul Toned Milk 500ml,Amul,27,303.5,245.81,store-mumbai-001
+SKU-100619,Tata Salt 0.5kg,Tata,156,38.0,164.11,store-mumbai-001
+SKU-100620,MDH Garam Masala 100g,MDH,17,31.16,205.48,store-mumbai-001
+SKU-100621,Tata Salt 0.5kg,Tata,74,107.02,196.1,store-mumbai-001
+SKU-100622,Tata Salt 2kg,Tata,72,308.04,398.38,store-mumbai-001
+SKU-100623,Fortune Sunflower Oil 1L,Fortune,149,295.37,373.01,store-mumbai-001
+SKU-100624,Aashirvaad Atta 1kg,Aashirvaad,94,403.57,163.83,store-mumbai-001
+SKU-100625,Amul Toned Milk 500ml,Amul,142,45.37,388.64,store-mumbai-001
+SKU-100626,Surf Excel Detergent 4kg,Surf Excel,124,109.81,40.03,store-mumbai-001
+SKU-100627,Britannia Brown Bread,Britannia,69,284.59,100.21,store-mumbai-001
+SKU-100628,Aashirvaad Atta 5kg,Aashirvaad,168,89.01,27.63,store-mumbai-001
+SKU-100629,Colgate Toothpaste 200g,Colgate,189,101.94,163.2,store-mumbai-001
+SKU-100630,MDH Garam Masala 100g,MDH,141,318.38,84.54,store-mumbai-001
+SKU-100631,Aashirvaad Atta 5kg,Aashirvaad,126,118.8,324.61,store-mumbai-001
+SKU-100632,Aashirvaad Atta 10kg,Aashirvaad,70,466.19,149.51,store-mumbai-001
+SKU-100633,Aashirvaad Atta 10kg,Aashirvaad,69,209.38,318.04,store-mumbai-001
+SKU-100634,MDH Garam Masala 200g,MDH,118,157.66,266.59,store-mumbai-001
+SKU-100635,Aashirvaad Atta 5kg,Aashirvaad,6,336.46,164.87,store-mumbai-001
+SKU-100636,Amul Toned Milk 1000ml,Amul,56,495.69,331.86,store-mumbai-001
+SKU-100637,Brown Eggs Tray,,149,345.58,202.69,store-mumbai-001
+SKU-100638,MDH Garam Masala 100g,MDH,163,342.23,254.22,store-mumbai-001
+SKU-100639,Tata Salt 2kg,Tata,99,226.83,153.79,store-mumbai-001
+SKU-100640,Amul Toned Milk 500ml,Amul,59,384.72,211.06,store-mumbai-001
+SKU-100641,Colgate Toothpaste 200g,Colgate,2,120.9,258.03,store-mumbai-001
+SKU-100642,Fortune Sunflower Oil 1L,Fortune,158,36.52,380.1,store-mumbai-001
+SKU-100643,Brown Eggs Tray,,149,225.65,25.2,store-mumbai-001
+SKU-100644,Tata Salt 2kg,Tata,52,213.72,303.06,store-mumbai-001
+SKU-100645,Tata Salt 0.5kg,Tata,77,469.04,149.29,store-mumbai-001
+SKU-100646,Aashirvaad Atta 5kg,Aashirvaad,38,56.77,92.98,store-mumbai-001
+SKU-100647,Britannia Brown Bread,Britannia,80,118.04,122.6,store-mumbai-001
+SKU-100648,Aashirvaad Atta 1kg,Aashirvaad,122,137.29,191.47,store-mumbai-001
+SKU-100649,Surf Excel Detergent 2kg,Surf Excel,199,201.75,207.61,store-mumbai-001
+SKU-100650,Brown Eggs Tray,,123,26.21,129.86,store-mumbai-001
+SKU-100651,Colgate Toothpaste 100g,Colgate,86,367.9,64.15,store-mumbai-001
+SKU-100652,Fortune Sunflower Oil 2L,Fortune,97,404.01,94.16,store-mumbai-001
+SKU-100653,Tata Salt 0.5kg,Tata,128,236.4,58.68,store-mumbai-001
+SKU-100654,Tata Salt 1kg,Tata,6,221.06,151.75,store-mumbai-001
+SKU-100655,Tata Salt 0.5kg,Tata,166,385.7,270.06,store-mumbai-001
+SKU-100656,Loose Toor Dal 1kg,,18,400.17,43.07,store-mumbai-001
+SKU-100657,Colgate Toothpaste 200g,Colgate,10,198.72,365.8,store-mumbai-001
+SKU-100658,MDH Garam Masala 50g,MDH,150,395.74,268.38,store-mumbai-001
+SKU-100659,MDH Garam Masala 100g,MDH,180,289.32,312.26,store-mumbai-001
+SKU-100660,Tata Salt 2kg,Tata,126,116.52,168.22,store-mumbai-001
+SKU-100661,Tata Salt 1kg,Tata,38,154.36,110.46,store-mumbai-001
+SKU-100662,Surf Excel Detergent 2kg,Surf Excel,35,164.2,94.96,store-mumbai-001
+SKU-100663,Britannia Brown Bread,Britannia,94,111.34,92.28,store-mumbai-001
+SKU-100664,Tata Salt 2kg,Tata,71,208.29,226.98,store-mumbai-001
+SKU-100665,Britannia Brown Bread,Britannia,0,348.54,211.81,store-mumbai-001
+SKU-100666,Aashirvaad Atta 5kg,Aashirvaad,20,297.2,198.69,store-mumbai-001
+SKU-100667,Brown Eggs Tray,,68,310.25,41.18,store-mumbai-001
+SKU-100668,MDH Garam Masala 50g,MDH,174,20.48,261.72,store-mumbai-001
+SKU-100669,Aashirvaad Atta 5kg,Aashirvaad,88,313.93,385.79,store-mumbai-001
+SKU-100670,Brown Eggs Tray,,82,164.62,366.39,store-mumbai-001
+SKU-100671,Tata Salt 1kg,Tata,15,203.76,348.17,store-mumbai-001
+SKU-100672,Brown Eggs Tray,,96,122.89,219.98,store-mumbai-001
+SKU-100673,Loose Toor Dal 0.5kg,,198,320.95,173.08,store-mumbai-001
+SKU-100674,Colgate Toothpaste 200g,Colgate,52,326.11,159.0,store-mumbai-001
+SKU-100675,Tata Salt 2kg,Tata,137,290.68,311.85,store-mumbai-001
+SKU-100676,Amul Toned Milk 1000ml,Amul,174,196.13,354.46,store-mumbai-001
+SKU-100677,Tata Salt 2kg,Tata,191,422.13,65.83,store-mumbai-001
+SKU-100678,Fortune Sunflower Oil 2L,Fortune,92,411.7,265.76,store-mumbai-001
+SKU-100679,Amul Toned Milk 500ml,Amul,173,296.09,157.76,store-mumbai-001
+SKU-100680,Aashirvaad Atta 1kg,Aashirvaad,83,410.99,295.06,store-mumbai-001
+SKU-100681,Britannia Brown Bread,Britannia,1,55.4,351.44,store-mumbai-001
+SKU-100682,Surf Excel Detergent 1kg,Surf Excel,147,488.21,216.39,store-mumbai-001
+SKU-100683,Britannia Brown Bread,Britannia,100,461.35,79.81,store-mumbai-001
+SKU-100684,Fortune Sunflower Oil 1L,Fortune,54,476.41,201.64,store-mumbai-001
+SKU-100685,Tata Salt 2kg,Tata,47,125.05,183.93,store-mumbai-001
+SKU-100686,Britannia Brown Bread,Britannia,155,292.89,172.72,store-mumbai-001
+SKU-100687,Colgate Toothpaste 200g,Colgate,38,450.17,41.4,store-mumbai-001
+SKU-100688,MDH Garam Masala 50g,MDH,123,187.22,225.41,store-mumbai-001
+SKU-100689,Tata Salt 0.5kg,Tata,64,130.08,395.79,store-mumbai-001
+SKU-100690,Loose Toor Dal 5kg,,42,488.27,125.09,store-mumbai-001
+SKU-100691,Fortune Sunflower Oil 2L,Fortune,92,476.34,336.82,store-mumbai-001
+SKU-100692,Aashirvaad Atta 5kg,Aashirvaad,187,387.74,177.26,store-mumbai-001
+SKU-100693,Colgate Toothpaste 200g,Colgate,2,494.95,128.07,store-mumbai-001
+SKU-100694,Surf Excel Detergent 4kg,Surf Excel,153,474.36,51.45,store-mumbai-001
+SKU-100695,Colgate Toothpaste 100g,Colgate,54,55.84,361.93,store-mumbai-001
+SKU-100696,Fortune Sunflower Oil 2L,Fortune,55,372.82,88.09,store-mumbai-001
+SKU-100697,MDH Garam Masala 100g,MDH,143,130.09,366.2,store-mumbai-001
+SKU-100698,Loose Toor Dal 5kg,,10,48.35,36.82,store-mumbai-001
+SKU-100699,Loose Toor Dal 5kg,,121,451.21,166.08,store-mumbai-001
+SKU-100700,Aashirvaad Atta 1kg,Aashirvaad,33,400.04,123.09,store-mumbai-001
+SKU-100701,Loose Toor Dal 1kg,,66,23.83,101.17,store-mumbai-001
+SKU-100702,Brown Eggs Tray,,15,286.06,260.85,store-mumbai-001
+SKU-100703,MDH Garam Masala 100g,MDH,159,68.11,79.41,store-mumbai-001
+SKU-100704,Fortune Sunflower Oil 2L,Fortune,51,279.26,289.84,store-mumbai-001
+SKU-100705,Fortune Sunflower Oil 2L,Fortune,165,418.18,354.53,store-mumbai-001
+SKU-100706,Loose Toor Dal 0.5kg,,157,484.4,83.44,store-mumbai-001
+SKU-100707,Britannia Brown Bread,Britannia,125,487.19,157.68,store-mumbai-001
+SKU-100708,Fortune Sunflower Oil 1L,Fortune,147,479.96,72.54,store-mumbai-001
+SKU-100709,Fortune Sunflower Oil 2L,Fortune,130,119.29,105.0,store-mumbai-001
+SKU-100710,Amul Toned Milk 500ml,Amul,21,29.22,333.39,store-mumbai-001
+SKU-100711,Amul Toned Milk 500ml,Amul,22,52.52,369.67,store-mumbai-001
+SKU-100712,Tata Salt 0.5kg,Tata,139,370.73,72.5,store-mumbai-001
+SKU-100713,Fortune Sunflower Oil 2L,Fortune,43,100.74,110.26,store-mumbai-001
+SKU-100714,Amul Toned Milk 1000ml,Amul,178,30.67,233.6,store-mumbai-001
+SKU-100715,Amul Toned Milk 500ml,Amul,26,225.21,134.83,store-mumbai-001
+SKU-100716,Fortune Sunflower Oil 2L,Fortune,177,232.13,185.49,store-mumbai-001
+SKU-100717,MDH Garam Masala 50g,MDH,124,98.8,321.81,store-mumbai-001
+SKU-100718,Brown Eggs Tray,,93,125.43,221.38,store-mumbai-001
+SKU-100719,MDH Garam Masala 200g,MDH,29,173.96,178.51,store-mumbai-001
+SKU-100720,Loose Toor Dal 0.5kg,,86,126.25,174.11,store-mumbai-001
+SKU-100721,Aashirvaad Atta 10kg,Aashirvaad,165,216.08,203.22,store-mumbai-001
+SKU-100722,Loose Toor Dal 1kg,,181,197.29,248.31,store-mumbai-001
+SKU-100723,Amul Toned Milk 500ml,Amul,168,75.4,171.97,store-mumbai-001
+SKU-100724,Aashirvaad Atta 1kg,Aashirvaad,72,306.18,288.4,store-mumbai-001
+SKU-100725,Amul Toned Milk 500ml,Amul,29,471.35,328.77,store-mumbai-001
+SKU-100726,Loose Toor Dal 1kg,,181,255.4,37.47,store-mumbai-001
+SKU-100727,Britannia Brown Bread,Britannia,85,308.28,224.59,store-mumbai-001
+SKU-100728,Loose Toor Dal 5kg,,49,412.44,268.63,store-mumbai-001
+SKU-100729,Fortune Sunflower Oil 1L,Fortune,97,216.26,397.83,store-mumbai-001
+SKU-100730,Aashirvaad Atta 10kg,Aashirvaad,56,327.27,186.34,store-mumbai-001
+SKU-100731,Surf Excel Detergent 1kg,Surf Excel,38,230.42,277.55,store-mumbai-001
+SKU-100732,Tata Salt 1kg,Tata,196,494.29,334.14,store-mumbai-001
+SKU-100733,Amul Toned Milk 500ml,Amul,179,214.89,40.72,store-mumbai-001
+SKU-100734,Aashirvaad Atta 1kg,Aashirvaad,170,109.26,291.17,store-mumbai-001
+SKU-100735,Britannia Brown Bread,Britannia,136,202.07,157.31,store-mumbai-001
+SKU-100736,Surf Excel Detergent 2kg,Surf Excel,141,150.13,317.61,store-mumbai-001
+SKU-100737,Loose Toor Dal 1kg,,149,362.79,110.07,store-mumbai-001
+SKU-100738,Britannia Brown Bread,Britannia,154,43.88,47.87,store-mumbai-001
+SKU-100739,Surf Excel Detergent 2kg,Surf Excel,149,87.98,98.15,store-mumbai-001
+SKU-100740,Loose Toor Dal 1kg,,147,85.02,275.02,store-mumbai-001
+SKU-100741,Britannia Brown Bread,Britannia,46,69.0,20.25,store-mumbai-001
+SKU-100742,Colgate Toothpaste 200g,Colgate,152,257.15,249.66,store-mumbai-001
+SKU-100743,Tata Salt 2kg,Tata,7,399.9,222.35,store-mumbai-001
+SKU-100744,Colgate Toothpaste 100g,Colgate,134,111.46,357.26,store-mumbai-001
+SKU-100745,Tata Salt 0.5kg,Tata,140,453.02,302.8,store-mumbai-001
+SKU-100746,Tata Salt 2kg,Tata,144,402.33,191.05,store-mumbai-001
+SKU-100747,MDH Garam Masala 200g,MDH,194,90.92,362.82,store-mumbai-001
+SKU-100748,Colgate Toothpaste 200g,Colgate,193,103.38,248.35,store-mumbai-001
+SKU-100749,Surf Excel Detergent 4kg,Surf Excel,38,141.38,129.28,store-mumbai-001
+SKU-100750,Fortune Sunflower Oil 1L,Fortune,132,442.3,172.14,store-mumbai-001
+SKU-100751,Brown Eggs Tray,,29,140.4,391.96,store-mumbai-001
+SKU-100752,Brown Eggs Tray,,121,232.88,384.47,store-mumbai-001
+SKU-100753,MDH Garam Masala 200g,MDH,94,352.86,236.54,store-mumbai-001
+SKU-100754,Colgate Toothpaste 100g,Colgate,101,362.21,393.55,store-mumbai-001
+SKU-100755,Aashirvaad Atta 5kg,Aashirvaad,36,238.83,34.44,store-mumbai-001
+SKU-100756,Brown Eggs Tray,,150,266.46,220.81,store-mumbai-001
+SKU-100757,Brown Eggs Tray,,150,37.64,103.83,store-mumbai-001
+SKU-100758,MDH Garam Masala 200g,MDH,32,92.25,279.08,store-mumbai-001
+SKU-100759,Surf Excel Detergent 4kg,Surf Excel,198,81.52,276.79,store-mumbai-001
+SKU-100760,Colgate Toothpaste 200g,Colgate,126,213.2,78.79,store-mumbai-001
+SKU-100761,Amul Toned Milk 1000ml,Amul,157,157.26,358.92,store-mumbai-001
+SKU-100762,Fortune Sunflower Oil 5L,Fortune,116,194.73,76.07,store-mumbai-001
+SKU-100763,Tata Salt 0.5kg,Tata,53,188.11,23.03,store-mumbai-001
+SKU-100764,Britannia Brown Bread,Britannia,128,370.72,328.57,store-mumbai-001
+SKU-100765,Brown Eggs Tray,,46,329.86,132.43,store-mumbai-001
+SKU-100766,Tata Salt 2kg,Tata,170,137.93,280.2,store-mumbai-001
+SKU-100767,Amul Toned Milk 500ml,Amul,15,156.53,366.95,store-mumbai-001
+SKU-100768,Surf Excel Detergent 4kg,Surf Excel,70,173.17,160.82,store-mumbai-001
+SKU-100769,Tata Salt 1kg,Tata,126,379.42,31.51,store-mumbai-001
+SKU-100770,Brown Eggs Tray,,129,143.21,381.88,store-mumbai-001
+SKU-100771,Tata Salt 1kg,Tata,200,366.66,65.31,store-mumbai-001
+SKU-100772,Aashirvaad Atta 1kg,Aashirvaad,72,382.95,131.04,store-mumbai-001
+SKU-100773,Loose Toor Dal 0.5kg,,86,375.17,174.72,store-mumbai-001
+SKU-100774,Loose Toor Dal 0.5kg,,122,32.47,379.66,store-mumbai-001
+SKU-100775,MDH Garam Masala 100g,MDH,24,398.71,361.12,store-mumbai-001
+SKU-100776,Britannia Brown Bread,Britannia,47,391.62,126.9,store-mumbai-001
+SKU-100777,Loose Toor Dal 0.5kg,,29,438.87,162.72,store-mumbai-001
+SKU-100778,Tata Salt 1kg,Tata,109,332.04,119.99,store-mumbai-001
+SKU-100779,Fortune Sunflower Oil 5L,Fortune,9,80.7,178.01,store-mumbai-001
+SKU-100780,Fortune Sunflower Oil 1L,Fortune,90,223.14,329.35,store-mumbai-001
+SKU-100781,Britannia Brown Bread,Britannia,154,171.54,86.65,store-mumbai-001
+SKU-100782,Brown Eggs Tray,,55,499.08,155.07,store-mumbai-001
+SKU-100783,Colgate Toothpaste 200g,Colgate,141,214.14,108.13,store-mumbai-001
+SKU-100784,Tata Salt 1kg,Tata,0,347.73,351.16,store-mumbai-001
+SKU-100785,Tata Salt 1kg,Tata,193,260.26,76.52,store-mumbai-001
+SKU-100786,Loose Toor Dal 1kg,,150,329.72,364.49,store-mumbai-001
+SKU-100787,Loose Toor Dal 5kg,,20,391.0,227.09,store-mumbai-001
+SKU-100788,Fortune Sunflower Oil 1L,Fortune,177,392.53,211.76,store-mumbai-001
+SKU-100789,Colgate Toothpaste 100g,Colgate,76,433.85,260.69,store-mumbai-001
+SKU-100790,Surf Excel Detergent 1kg,Surf Excel,164,388.13,51.2,store-mumbai-001
+SKU-100791,Amul Toned Milk 1000ml,Amul,153,110.07,70.1,store-mumbai-001
+SKU-100792,Fortune Sunflower Oil 1L,Fortune,21,386.27,335.87,store-mumbai-001
+SKU-100793,Surf Excel Detergent 1kg,Surf Excel,152,264.26,75.72,store-mumbai-001
+SKU-100794,Brown Eggs Tray,,143,41.27,93.81,store-mumbai-001
+SKU-100795,Amul Toned Milk 1000ml,Amul,89,230.19,112.82,store-mumbai-001
+SKU-100796,Britannia Brown Bread,Britannia,163,113.12,257.15,store-mumbai-001
+SKU-100797,Aashirvaad Atta 1kg,Aashirvaad,165,141.63,352.58,store-mumbai-001
+SKU-100798,MDH Garam Masala 50g,MDH,16,201.77,329.16,store-mumbai-001
+SKU-100799,Surf Excel Detergent 1kg,Surf Excel,65,455.77,201.48,store-mumbai-001
+SKU-100800,MDH Garam Masala 50g,MDH,80,154.32,119.81,store-mumbai-001
+SKU-100801,Tata Salt 2kg,Tata,5,276.9,179.15,store-mumbai-001
+SKU-100802,Tata Salt 0.5kg,Tata,182,268.24,382.79,store-mumbai-001
+SKU-100803,Loose Toor Dal 5kg,,126,401.17,89.29,store-mumbai-001
+SKU-100804,Tata Salt 0.5kg,Tata,192,163.86,384.28,store-mumbai-001
+SKU-100805,Brown Eggs Tray,,131,190.89,213.68,store-mumbai-001
+SKU-100806,MDH Garam Masala 50g,MDH,44,192.55,378.86,store-mumbai-001
+SKU-100807,Brown Eggs Tray,,96,402.61,315.27,store-mumbai-001
+SKU-100808,Tata Salt 0.5kg,Tata,79,82.33,35.93,store-mumbai-001
+SKU-100809,Fortune Sunflower Oil 5L,Fortune,52,405.83,292.52,store-mumbai-001
+SKU-100810,Loose Toor Dal 0.5kg,,5,283.23,94.17,store-mumbai-001
+SKU-100811,Britannia Brown Bread,Britannia,125,311.52,84.66,store-mumbai-001
+SKU-100812,Brown Eggs Tray,,186,227.91,225.99,store-mumbai-001
+SKU-100813,Tata Salt 0.5kg,Tata,61,348.35,25.36,store-mumbai-001
+SKU-100814,Tata Salt 0.5kg,Tata,124,80.67,75.45,store-mumbai-001
+SKU-100815,Amul Toned Milk 1000ml,Amul,26,231.65,278.93,store-mumbai-001
+SKU-100816,Tata Salt 2kg,Tata,34,472.97,358.92,store-mumbai-001
+SKU-100817,MDH Garam Masala 200g,MDH,150,199.96,264.29,store-mumbai-001
+SKU-100818,Fortune Sunflower Oil 2L,Fortune,28,288.18,260.04,store-mumbai-001
+SKU-100819,Amul Toned Milk 500ml,Amul,22,156.2,257.34,store-mumbai-001
+SKU-100820,Brown Eggs Tray,,144,365.61,67.19,store-mumbai-001
+SKU-100821,Colgate Toothpaste 200g,Colgate,7,140.72,214.32,store-mumbai-001
+SKU-100822,Brown Eggs Tray,,91,96.41,254.37,store-mumbai-001
+SKU-100823,Brown Eggs Tray,,126,344.65,35.87,store-mumbai-001
+SKU-100824,Britannia Brown Bread,Britannia,125,28.02,126.65,store-mumbai-001
+SKU-100825,Aashirvaad Atta 10kg,Aashirvaad,137,435.75,334.24,store-mumbai-001
+SKU-100826,Britannia Brown Bread,Britannia,169,489.68,38.33,store-mumbai-001
+SKU-100827,Surf Excel Detergent 1kg,Surf Excel,85,389.43,192.5,store-mumbai-001
+SKU-100828,Aashirvaad Atta 1kg,Aashirvaad,134,135.33,186.07,store-mumbai-001
+SKU-100829,Amul Toned Milk 1000ml,Amul,182,243.35,399.39,store-mumbai-001
+SKU-100830,MDH Garam Masala 100g,MDH,36,29.71,337.6,store-mumbai-001
+SKU-100831,Tata Salt 0.5kg,Tata,136,362.39,362.74,store-mumbai-001
+SKU-100832,Colgate Toothpaste 200g,Colgate,72,472.4,121.9,store-mumbai-001
+SKU-100833,Aashirvaad Atta 10kg,Aashirvaad,182,73.85,44.89,store-mumbai-001
+SKU-100834,Loose Toor Dal 5kg,,75,72.8,67.09,store-mumbai-001
+SKU-100835,Surf Excel Detergent 4kg,Surf Excel,6,116.71,80.43,store-mumbai-001
+SKU-100836,Loose Toor Dal 5kg,,113,358.57,157.54,store-mumbai-001
+SKU-100837,MDH Garam Masala 200g,MDH,99,254.57,96.53,store-mumbai-001
+SKU-100838,Surf Excel Detergent 4kg,Surf Excel,163,434.96,296.46,store-mumbai-001
+SKU-100839,Aashirvaad Atta 1kg,Aashirvaad,76,472.54,329.86,store-mumbai-001
+SKU-100840,Fortune Sunflower Oil 5L,Fortune,52,392.4,335.66,store-mumbai-001
+SKU-100841,Tata Salt 0.5kg,Tata,94,70.89,338.99,store-mumbai-001
+SKU-100842,Colgate Toothpaste 200g,Colgate,185,408.0,249.38,store-mumbai-001
+SKU-100843,Britannia Brown Bread,Britannia,151,103.89,157.37,store-mumbai-001
+SKU-100844,Aashirvaad Atta 1kg,Aashirvaad,138,93.43,172.92,store-mumbai-001
+SKU-100845,Britannia Brown Bread,Britannia,159,75.73,82.69,store-mumbai-001
+SKU-100846,Brown Eggs Tray,,89,324.32,339.5,store-mumbai-001
+SKU-100847,Aashirvaad Atta 10kg,Aashirvaad,178,249.38,116.07,store-mumbai-001
+SKU-100848,Aashirvaad Atta 10kg,Aashirvaad,118,122.48,388.06,store-mumbai-001
+SKU-100849,Amul Toned Milk 1000ml,Amul,172,187.01,228.09,store-mumbai-001
+SKU-100850,Tata Salt 1kg,Tata,176,277.99,203.84,store-mumbai-001
+SKU-100851,Brown Eggs Tray,,52,499.72,294.94,store-mumbai-001
+SKU-100852,Loose Toor Dal 5kg,,133,476.75,278.91,store-mumbai-001
+SKU-100853,Britannia Brown Bread,Britannia,173,239.86,41.7,store-mumbai-001
+SKU-100854,Colgate Toothpaste 200g,Colgate,16,272.4,224.82,store-mumbai-001
+SKU-100855,Amul Toned Milk 1000ml,Amul,174,21.62,311.57,store-mumbai-001
+SKU-100856,Fortune Sunflower Oil 5L,Fortune,111,374.0,95.99,store-mumbai-001
+SKU-100857,Britannia Brown Bread,Britannia,91,186.73,214.88,store-mumbai-001
+SKU-100858,Amul Toned Milk 500ml,Amul,114,187.31,304.86,store-mumbai-001
+SKU-100859,Colgate Toothpaste 100g,Colgate,123,104.28,211.7,store-mumbai-001
+SKU-100860,Brown Eggs Tray,,194,387.29,338.98,store-mumbai-001
+SKU-100861,Colgate Toothpaste 200g,Colgate,115,389.61,25.05,store-mumbai-001
+SKU-100862,Loose Toor Dal 5kg,,179,384.23,156.78,store-mumbai-001
+SKU-100863,Fortune Sunflower Oil 5L,Fortune,31,76.14,263.75,store-mumbai-001
+SKU-100864,Aashirvaad Atta 5kg,Aashirvaad,50,402.17,110.34,store-mumbai-001
+SKU-100865,Britannia Brown Bread,Britannia,128,70.21,361.02,store-mumbai-001
+SKU-100866,Britannia Brown Bread,Britannia,163,38.57,380.19,store-mumbai-001
+SKU-100867,Brown Eggs Tray,,123,299.08,339.03,store-mumbai-001
+SKU-100868,Loose Toor Dal 5kg,,9,409.11,240.29,store-mumbai-001
+SKU-100869,Aashirvaad Atta 10kg,Aashirvaad,113,198.6,341.93,store-mumbai-001
+SKU-100870,Britannia Brown Bread,Britannia,195,356.21,344.53,store-mumbai-001
+SKU-100871,Aashirvaad Atta 1kg,Aashirvaad,141,116.63,185.01,store-mumbai-001
+SKU-100872,MDH Garam Masala 50g,MDH,156,74.52,208.1,store-mumbai-001
+SKU-100873,Britannia Brown Bread,Britannia,134,158.62,52.91,store-mumbai-001
+SKU-100874,Amul Toned Milk 1000ml,Amul,11,292.88,17.04,store-mumbai-001
+SKU-100875,Brown Eggs Tray,,88,173.36,93.94,store-mumbai-001
+SKU-100876,Fortune Sunflower Oil 5L,Fortune,149,92.53,383.9,store-mumbai-001
+SKU-100877,Brown Eggs Tray,,153,274.02,67.44,store-mumbai-001
+SKU-100878,Amul Toned Milk 1000ml,Amul,10,496.49,303.22,store-mumbai-001
+SKU-100879,Aashirvaad Atta 1kg,Aashirvaad,177,140.57,117.95,store-mumbai-001
+SKU-100880,Brown Eggs Tray,,199,255.34,276.25,store-mumbai-001
+SKU-100881,Fortune Sunflower Oil 5L,Fortune,30,306.29,296.77,store-mumbai-001
+SKU-100882,Loose Toor Dal 1kg,,122,307.89,106.22,store-mumbai-001
+SKU-100883,Loose Toor Dal 5kg,,169,289.15,274.51,store-mumbai-001
+SKU-100884,Aashirvaad Atta 10kg,Aashirvaad,145,70.3,66.29,store-mumbai-001
+SKU-100885,Tata Salt 0.5kg,Tata,150,215.58,382.15,store-mumbai-001
+SKU-100886,Surf Excel Detergent 4kg,Surf Excel,194,122.94,256.01,store-mumbai-001
+SKU-100887,Britannia Brown Bread,Britannia,73,141.51,16.43,store-mumbai-001
+SKU-100888,Surf Excel Detergent 4kg,Surf Excel,149,151.96,42.74,store-mumbai-001
+SKU-100889,Brown Eggs Tray,,142,203.48,45.46,store-mumbai-001
+SKU-100890,Surf Excel Detergent 1kg,Surf Excel,108,129.44,219.8,store-mumbai-001
+SKU-100891,Fortune Sunflower Oil 5L,Fortune,194,121.71,102.69,store-mumbai-001
+SKU-100892,Britannia Brown Bread,Britannia,95,354.73,54.02,store-mumbai-001
+SKU-100893,Colgate Toothpaste 100g,Colgate,154,444.64,390.81,store-mumbai-001
+SKU-100894,Tata Salt 1kg,Tata,158,471.89,338.78,store-mumbai-001
+SKU-100895,Fortune Sunflower Oil 5L,Fortune,79,44.94,203.16,store-mumbai-001
+SKU-100896,Brown Eggs Tray,,43,322.03,168.8,store-mumbai-001
+SKU-100897,Tata Salt 0.5kg,Tata,69,86.96,177.5,store-mumbai-001
+SKU-100898,Surf Excel Detergent 4kg,Surf Excel,63,431.02,117.14,store-mumbai-001
+SKU-100899,Colgate Toothpaste 200g,Colgate,58,295.07,128.02,store-mumbai-001
+SKU-100900,Amul Toned Milk 500ml,Amul,63,261.86,283.54,store-mumbai-001
+SKU-100901,Britannia Brown Bread,Britannia,169,413.46,187.54,store-mumbai-001
+SKU-100902,Britannia Brown Bread,Britannia,44,423.65,147.95,store-mumbai-001
+SKU-100903,Surf Excel Detergent 4kg,Surf Excel,51,315.85,137.55,store-mumbai-001
+SKU-100904,Britannia Brown Bread,Britannia,146,357.07,191.3,store-mumbai-001
+SKU-100905,Amul Toned Milk 1000ml,Amul,174,447.2,364.54,store-mumbai-001
+SKU-100906,Aashirvaad Atta 10kg,Aashirvaad,9,421.68,112.07,store-mumbai-001
+SKU-100907,MDH Garam Masala 50g,MDH,77,457.2,321.6,store-mumbai-001
+SKU-100908,Britannia Brown Bread,Britannia,92,185.72,59.98,store-mumbai-001
+SKU-100909,Britannia Brown Bread,Britannia,50,362.56,83.76,store-mumbai-001
+SKU-100910,Fortune Sunflower Oil 5L,Fortune,23,403.72,184.76,store-mumbai-001
+SKU-100911,Surf Excel Detergent 1kg,Surf Excel,188,194.01,93.11,store-mumbai-001
+SKU-100912,Aashirvaad Atta 1kg,Aashirvaad,68,461.88,332.39,store-mumbai-001
+SKU-100913,Amul Toned Milk 1000ml,Amul,143,267.04,361.37,store-mumbai-001
+SKU-100914,Tata Salt 2kg,Tata,154,295.15,44.18,store-mumbai-001
+SKU-100915,Britannia Brown Bread,Britannia,125,200.35,110.91,store-mumbai-001
+SKU-100916,Surf Excel Detergent 2kg,Surf Excel,48,283.99,80.05,store-mumbai-001
+SKU-100917,Aashirvaad Atta 10kg,Aashirvaad,18,458.29,150.81,store-mumbai-001
+SKU-100918,Amul Toned Milk 500ml,Amul,159,419.39,195.1,store-mumbai-001
+SKU-100919,Fortune Sunflower Oil 2L,Fortune,159,393.39,237.08,store-mumbai-001
+SKU-100920,Amul Toned Milk 1000ml,Amul,170,98.04,33.98,store-mumbai-001
+SKU-100921,Aashirvaad Atta 1kg,Aashirvaad,65,263.5,233.52,store-mumbai-001
+SKU-100922,Loose Toor Dal 5kg,,140,407.6,83.09,store-mumbai-001
+SKU-100923,Brown Eggs Tray,,15,212.93,108.8,store-mumbai-001
+SKU-100924,MDH Garam Masala 100g,MDH,23,265.16,16.68,store-mumbai-001
+SKU-100925,Brown Eggs Tray,,147,448.17,30.31,store-mumbai-001
+SKU-100926,Aashirvaad Atta 10kg,Aashirvaad,140,117.52,255.29,store-mumbai-001
+SKU-100927,Colgate Toothpaste 100g,Colgate,190,55.99,307.15,store-mumbai-001
+SKU-100928,Surf Excel Detergent 2kg,Surf Excel,32,235.87,256.02,store-mumbai-001
+SKU-100929,MDH Garam Masala 200g,MDH,72,485.45,392.73,store-mumbai-001
+SKU-100930,Colgate Toothpaste 200g,Colgate,18,269.14,119.92,store-mumbai-001
+SKU-100931,Brown Eggs Tray,,65,176.36,84.54,store-mumbai-001
+SKU-100932,Surf Excel Detergent 1kg,Surf Excel,72,260.41,371.07,store-mumbai-001
+SKU-100933,Loose Toor Dal 5kg,,108,246.63,356.73,store-mumbai-001
+SKU-100934,Brown Eggs Tray,,82,50.84,290.03,store-mumbai-001
+SKU-100935,Amul Toned Milk 500ml,Amul,110,112.13,147.58,store-mumbai-001
+SKU-100936,Amul Toned Milk 1000ml,Amul,45,265.24,195.44,store-mumbai-001
+SKU-100937,Brown Eggs Tray,,18,47.31,366.15,store-mumbai-001
+SKU-100938,Amul Toned Milk 1000ml,Amul,91,25.83,158.15,store-mumbai-001
+SKU-100939,Fortune Sunflower Oil 1L,Fortune,126,229.6,254.06,store-mumbai-001
+SKU-100940,Amul Toned Milk 500ml,Amul,79,388.07,70.17,store-mumbai-001
+SKU-100941,Surf Excel Detergent 4kg,Surf Excel,15,41.47,362.08,store-mumbai-001
+SKU-100942,MDH Garam Masala 100g,MDH,87,437.48,363.32,store-mumbai-001
+SKU-100943,Surf Excel Detergent 1kg,Surf Excel,74,64.55,49.01,store-mumbai-001
+SKU-100944,Colgate Toothpaste 200g,Colgate,28,425.67,227.19,store-mumbai-001
+SKU-100945,Brown Eggs Tray,,177,274.35,217.05,store-mumbai-001
+SKU-100946,Britannia Brown Bread,Britannia,182,169.11,41.04,store-mumbai-001
+SKU-100947,Aashirvaad Atta 1kg,Aashirvaad,42,281.95,144.33,store-mumbai-001
+SKU-100948,Tata Salt 1kg,Tata,43,207.2,190.74,store-mumbai-001
+SKU-100949,Aashirvaad Atta 1kg,Aashirvaad,196,220.33,290.31,store-mumbai-001
+SKU-100950,Amul Toned Milk 500ml,Amul,53,464.79,274.91,store-mumbai-001
+SKU-100951,Amul Toned Milk 500ml,Amul,0,435.86,78.53,store-mumbai-001
+SKU-100952,MDH Garam Masala 50g,MDH,92,450.23,306.02,store-mumbai-001
+SKU-100953,Amul Toned Milk 1000ml,Amul,179,277.46,247.72,store-mumbai-001
+SKU-100954,Fortune Sunflower Oil 5L,Fortune,116,428.39,364.8,store-mumbai-001
+SKU-100955,Tata Salt 1kg,Tata,182,393.67,117.19,store-mumbai-001
+SKU-100956,Tata Salt 1kg,Tata,4,478.7,397.33,store-mumbai-001
+SKU-100957,Surf Excel Detergent 2kg,Surf Excel,130,470.13,228.03,store-mumbai-001
+SKU-100958,MDH Garam Masala 200g,MDH,42,232.55,374.92,store-mumbai-001
+SKU-100959,Fortune Sunflower Oil 5L,Fortune,179,54.75,19.01,store-mumbai-001
+SKU-100960,Britannia Brown Bread,Britannia,176,158.79,67.82,store-mumbai-001
+SKU-100961,Fortune Sunflower Oil 2L,Fortune,146,177.91,336.06,store-mumbai-001
+SKU-100962,Surf Excel Detergent 2kg,Surf Excel,197,233.52,281.49,store-mumbai-001
+SKU-100963,Tata Salt 2kg,Tata,179,275.36,208.68,store-mumbai-001
+SKU-100964,Fortune Sunflower Oil 1L,Fortune,141,327.25,287.08,store-mumbai-001
+SKU-100965,Aashirvaad Atta 1kg,Aashirvaad,132,469.42,62.02,store-mumbai-001
+SKU-100966,Aashirvaad Atta 10kg,Aashirvaad,51,28.22,228.52,store-mumbai-001
+SKU-100967,MDH Garam Masala 100g,MDH,51,335.45,332.14,store-mumbai-001
+SKU-100968,Fortune Sunflower Oil 2L,Fortune,55,454.27,245.32,store-mumbai-001
+SKU-100969,Amul Toned Milk 1000ml,Amul,2,338.07,63.01,store-mumbai-001
+SKU-100970,Tata Salt 1kg,Tata,116,166.55,329.46,store-mumbai-001
+SKU-100971,Tata Salt 1kg,Tata,22,306.54,54.63,store-mumbai-001
+SKU-100972,Surf Excel Detergent 1kg,Surf Excel,198,207.82,311.73,store-mumbai-001
+SKU-100973,Loose Toor Dal 0.5kg,,86,72.62,74.07,store-mumbai-001
+SKU-100974,Colgate Toothpaste 200g,Colgate,101,375.63,324.6,store-mumbai-001
+SKU-100975,Surf Excel Detergent 1kg,Surf Excel,29,451.02,245.01,store-mumbai-001
+SKU-100976,MDH Garam Masala 50g,MDH,42,456.65,170.85,store-mumbai-001
+SKU-100977,Aashirvaad Atta 10kg,Aashirvaad,127,351.06,179.5,store-mumbai-001
+SKU-100978,Amul Toned Milk 500ml,Amul,194,207.85,212.92,store-mumbai-001
+SKU-100979,Fortune Sunflower Oil 1L,Fortune,66,186.79,329.69,store-mumbai-001
+SKU-100980,MDH Garam Masala 200g,MDH,67,69.36,152.54,store-mumbai-001
+SKU-100981,Colgate Toothpaste 100g,Colgate,14,460.63,145.53,store-mumbai-001
+SKU-100982,Amul Toned Milk 500ml,Amul,124,453.95,377.23,store-mumbai-001
+SKU-100983,Brown Eggs Tray,,193,428.31,182.92,store-mumbai-001
+SKU-100984,Brown Eggs Tray,,144,390.63,286.44,store-mumbai-001
+SKU-100985,Colgate Toothpaste 200g,Colgate,109,119.7,22.79,store-mumbai-001
+SKU-100986,Amul Toned Milk 500ml,Amul,60,246.14,359.61,store-mumbai-001
+SKU-100987,Surf Excel Detergent 1kg,Surf Excel,10,344.94,312.52,store-mumbai-001
+SKU-100988,Tata Salt 1kg,Tata,36,243.76,202.61,store-mumbai-001
+SKU-100989,Brown Eggs Tray,,128,81.3,118.31,store-mumbai-001
+SKU-100990,Surf Excel Detergent 4kg,Surf Excel,57,457.22,372.56,store-mumbai-001
+SKU-100991,Fortune Sunflower Oil 1L,Fortune,41,289.86,93.08,store-mumbai-001
+SKU-100992,Tata Salt 0.5kg,Tata,58,156.09,351.52,store-mumbai-001
+SKU-100993,Fortune Sunflower Oil 5L,Fortune,5,400.04,192.15,store-mumbai-001
+SKU-100994,Tata Salt 1kg,Tata,75,280.19,384.39,store-mumbai-001
+SKU-100995,Brown Eggs Tray,,28,498.11,195.07,store-mumbai-001
+SKU-100996,Brown Eggs Tray,,134,336.2,143.61,store-mumbai-001
+SKU-100997,Fortune Sunflower Oil 2L,Fortune,72,210.8,392.97,store-mumbai-001
+SKU-100998,Britannia Brown Bread,Britannia,15,236.39,89.66,store-mumbai-001
+SKU-100999,Fortune Sunflower Oil 1L,Fortune,0,141.66,201.65,store-mumbai-001

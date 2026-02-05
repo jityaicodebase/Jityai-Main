@@ -1,0 +1,12 @@
+{
+    "name": "jityai-auth-dependencies",
+    "description": "Additional dependencies for cloud-ready authentication",
+    "dependencies": {
+        "jsonwebtoken": "^9.0.2",
+        "bcrypt": "^5.1.1",
+        "axios": "^1.6.7",
+        "chokidar": "^3.6.0",
+        "form-data": "^4.0.0"
+    },
+    "installation": "npm install jsonwebtoken bcrypt axios chokidar form-data"
+}

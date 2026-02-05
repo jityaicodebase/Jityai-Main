@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+config/local.js
+
+# Artifacts & Logs
+logs/
+*.log
+_archived_data/
+_utility_scripts/
+temp/
+coverage/
+dist/
+build/
+
+# OS misc
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Archive
+*.csv
+*.txt
+*.xlsx

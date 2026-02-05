@@ -1,0 +1,41 @@
+{
+  "store_name": "Super Fresh Mart - Mumbai",
+  "location": "Andheri West",
+  "items": [
+    {
+      "store_item_id": "POS-1001",
+      "product_name": "Aashirvaad Atta 5kg",
+      "quantity": 50,
+      "selling_price": 320,
+      "brand": "Aashirvaad"
+    },
+    {
+      "store_item_id": "POS-1002",
+      "product_name": "Tata Salt 1kg",
+      "quantity": 100,
+      "selling_price": 25,
+      "brand": "Tata"
+    },
+    {
+      "store_item_id": "POS-1003",
+      "product_name": "Maggi 2-Minute Noodles 420g",
+      "quantity": 80,
+      "selling_price": 60,
+      "brand": "Maggi"
+    },
+    {
+      "store_item_id": "POS-1004",
+      "product_name": "Amul Butter 500g",
+      "quantity": 40,
+      "selling_price": 275,
+      "brand": "Amul"
+    },
+    {
+      "store_item_id": "POS-1005",
+      "product_name": "Surf Excel Matic Liquid 1L",
+      "quantity": 30,
+      "selling_price": 230,
+      "brand": "Surf Excel"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "ignore": [
+        "config/llm-cache.json",
+        "test-data/*",
+        "uploads/*",
+        "*.csv",
+        "*.xlsx",
+        "logs/*",
+        "*.log"
+    ],
+    "delay": "2500"
+}

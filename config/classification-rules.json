@@ -1,0 +1,173 @@
+{
+    "version": "1.0",
+    "description": "Category classification rules - maps keywords to category IDs",
+    "last_updated": "2026-01-13",
+    "classification_rules": [
+        {
+            "category_id": "L3_FRESH_VEGETABLES_DAILY",
+            "keywords": [
+                "potato",
+                "aloo",
+                "onion",
+                "pyaz",
+                "tomato",
+                "tamatar",
+                "cabbage",
+                "patta gobi",
+                "carrot",
+                "gajar",
+                "beans",
+                "peas",
+                "matar",
+                "spinach",
+                "palak",
+                "cauliflower",
+                "gobi"
+            ],
+            "priority": 1,
+            "confidence_boost": 0.05
+        },
+        {
+            "category_id": "L3_FRESH_VEGETABLES_EXOTIC",
+            "keywords": [
+                "broccoli",
+                "zucchini",
+                "bell pepper",
+                "capsicum",
+                "lettuce",
+                "celery",
+                "asparagus"
+            ],
+            "priority": 1,
+            "confidence_boost": 0.05
+        },
+        {
+            "category_id": "L3_FRESH_FRUITS_REGULAR",
+            "keywords": [
+                "apple",
+                "seb",
+                "banana",
+                "kela",
+                "orange",
+                "santra",
+                "mango",
+                "aam",
+                "grape",
+                "angoor",
+                "watermelon",
+                "tarbooz",
+                "papaya"
+            ],
+            "priority": 1,
+            "confidence_boost": 0.05
+        },
+        {
+            "category_id": "L3_FRESH_FRUITS_SEASONAL",
+            "keywords": [
+                "strawberry",
+                "kiwi",
+                "pomegranate",
+                "anar",
+                "lychee",
+                "litchi",
+                "guava",
+                "amrud"
+            ],
+            "priority": 1,
+            "confidence_boost": 0.05
+        },
+        {
+            "category_id": "L2_MILK",
+            "keywords": [
+                "milk",
+                "doodh",
+                "dairy milk"
+            ],
+            "priority": 2,
+            "confidence_boost": 0.10
+        },
+        {
+            "category_id": "L2_CURD_YOGURT",
+            "keywords": [
+                "curd",
+                "dahi",
+                "yogurt",
+                "yoghurt"
+            ],
+            "priority": 2,
+            "confidence_boost": 0.10
+        },
+        {
+            "category_id": "L2_BREAD",
+            "keywords": [
+                "bread",
+                "pav",
+                "bun",
+                "roti",
+                "chapati"
+            ],
+            "priority": 2,
+            "confidence_boost": 0.10
+        },
+        {
+            "category_id": "L2_EGGS",
+            "keywords": [
+                "egg",
+                "anda"
+            ],
+            "priority": 2,
+            "confidence_boost": 0.10
+        },
+        {
+            "category_id": "L1_PACKAGED",
+            "keywords": [
+                "biscuit",
+                "chips",
+                "namkeen",
+                "noodles",
+                "maggi",
+                "kurkure",
+                "lays",
+                "snack",
+                "wafer",
+                "kitkat",
+                "cadbury",
+                "chocolate",
+                "sauce"
+            ],
+            "priority": 3,
+            "confidence_boost": 0.0
+        },
+        {
+            "category_id": "L1_STAPLES",
+            "keywords": [
+                "rice",
+                "chawal",
+                "wheat",
+                "gehun",
+                "atta",
+                "flour",
+                "maida",
+                "honey",
+                "dal",
+                "pulse",
+                "lentil",
+                "oil",
+                "tel",
+                "salt",
+                "namak",
+                "sugar",
+                "chini",
+                "masala",
+                "spice"
+            ],
+            "priority": 3,
+            "confidence_boost": 0.0
+        }
+    ],
+    "fallback_category": {
+        "category_id": "L1_STAPLES",
+        "confidence": 0.35,
+        "analytics_mode": "category_aggregate"
+    }
+}
