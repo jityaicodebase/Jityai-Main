@@ -591,111 +591,122 @@ app.post('/api/onboarding/upload',
 /**
  * Incremental Sync
  */
-app.post('/api/sync/inventory/upload', upload.single('file'), async (req, res) => {
-    try {
-        const { storeId } = req.body;
-        if (!req.file) return res.status(400).json({ success: false, error: 'No file' });
+/**
+ * Incremental Sync (Protected)
+ */
+app.post('/api/sync/inventory/upload',
+    authenticateJWT(authService),
+    requireStoreScope,
+    upload.single('file'),
+    async (req, res) => {
+        try {
+            const storeId = req.store_id; // Secure Source
+            if (!req.file) return res.status(400).json({ success: false, error: 'No file' });
 
-        const parser = new ExcelParser();
-        const items = await parser.parseFile(req.file.path);
-        const result = await incrementalSync.sync(storeId, items, { syncType: 'file_upload' });
-        await fs.unlink(req.file.path);
+            const parser = new ExcelParser();
+            const items = await parser.parseFile(req.file.path);
+            const result = await incrementalSync.sync(storeId, items, { syncType: 'file_upload' });
+            await fs.unlink(req.file.path);
 
-        res.json({ success: true, ...result });
-    } catch (e) {
-        res.status(500).json({ success: false, error: e.message });
-    }
-});
+            res.json({ success: true, ...result });
+        } catch (e) {
+            res.status(500).json({ success: false, error: e.message });
+        }
+    });
 
 /**
- * Purchase Order Upload (NEW)
+ * Purchase Order Upload (Protected)
  */
-app.post('/api/pos/upload', upload.single('file'), async (req, res) => {
-    try {
-        const { storeId } = req.body;
-        if (!req.file) return res.status(400).json({ success: false, error: 'No file' });
-
-        const XLSX = require('xlsx');
-        const workbook = XLSX.readFile(req.file.path);
-        const sheetName = workbook.SheetNames[0];
-        const rawData = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName], { defval: null });
-
-        await fs.unlink(req.file.path);
-
-        if (rawData.length === 0) return res.status(400).json({ success: false, error: 'Empty file' });
-
-        // Group by PO ID
-        const poMap = new Map();
-
-        // Flexible Column Mapping
-        const getVal = (row, keys) => {
-            for (const key of keys) {
-                const found = Object.keys(row).find(k => k.toLowerCase().includes(key));
-                if (found) return row[found];
-            }
-            return null;
-        };
-
-        for (const row of rawData) {
-            const poId = getVal(row, ['po_id', 'po number', 'order_id', 'reference']) || `PO-${Date.now()}`;
-            const skuId = getVal(row, ['sku', 'item_id', 'product_id', 'store_item_id']);
-            const qty = getVal(row, ['qty', 'quantity', 'ordered']);
-            const date = getVal(row, ['date', 'created', 'order_date']) || new Date();
-            const status = getVal(row, ['status']) || 'RECEIVED'; // Default to received for history
-            const supplier = getVal(row, ['supplier', 'vendor']) || 'General Supplier';
-
-            if (!skuId || !qty) continue;
-
-            if (!poMap.has(poId)) {
-                poMap.set(poId, {
-                    storeId,
-                    poId,
-                    supplier,
-                    status: status.toUpperCase(),
-                    items: [],
-                    date: new Date(date)
-                });
-            }
-            poMap.get(poId).items.push({ skuId, qty: parseInt(qty) });
-        }
-
-        const client = await pool.connect();
+app.post('/api/pos/upload',
+    authenticateJWT(authService),
+    requireStoreScope,
+    upload.single('file'),
+    async (req, res) => {
         try {
-            await client.query('BEGIN');
-            let importedCount = 0;
+            const storeId = req.store_id; // Secure Source
+            if (!req.file) return res.status(400).json({ success: false, error: 'No file' });
 
-            for (const po of poMap.values()) {
-                // Insert PO Header
-                const poRes = await client.query(`
+            const XLSX = require('xlsx');
+            const workbook = XLSX.readFile(req.file.path);
+            const sheetName = workbook.SheetNames[0];
+            const rawData = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName], { defval: null });
+
+            await fs.unlink(req.file.path);
+
+            if (rawData.length === 0) return res.status(400).json({ success: false, error: 'Empty file' });
+
+            // Group by PO ID
+            const poMap = new Map();
+
+            // Flexible Column Mapping
+            const getVal = (row, keys) => {
+                for (const key of keys) {
+                    const found = Object.keys(row).find(k => k.toLowerCase().includes(key));
+                    if (found) return row[found];
+                }
+                return null;
+            };
+
+            for (const row of rawData) {
+                const poId = getVal(row, ['po_id', 'po number', 'order_id', 'reference']) || `PO-${Date.now()}`;
+                const skuId = getVal(row, ['sku', 'item_id', 'product_id', 'store_item_id']);
+                const qty = getVal(row, ['qty', 'quantity', 'ordered']);
+                const date = getVal(row, ['date', 'created', 'order_date']) || new Date();
+                const status = getVal(row, ['status']) || 'RECEIVED'; // Default to received for history
+                const supplier = getVal(row, ['supplier', 'vendor']) || 'General Supplier';
+
+                if (!skuId || !qty) continue;
+
+                if (!poMap.has(poId)) {
+                    poMap.set(poId, {
+                        storeId,
+                        poId,
+                        supplier,
+                        status: status.toUpperCase(),
+                        items: [],
+                        date: new Date(date)
+                    });
+                }
+                poMap.get(poId).items.push({ skuId, qty: parseInt(qty) });
+            }
+
+            const client = await pool.connect();
+            try {
+                await client.query('BEGIN');
+                let importedCount = 0;
+
+                for (const po of poMap.values()) {
+                    // Insert PO Header
+                    const poRes = await client.query(`
                     INSERT INTO purchase_orders (store_id, supplier_name, status, total_items, created_at, updated_at)
                     VALUES ($1, $2, $3, $4, $5, $5)
                     RETURNING po_id
                 `, [po.storeId, po.supplier, po.status, po.items.length, po.date]);
 
-                const newPoId = poRes.rows[0].po_id;
+                    const newPoId = poRes.rows[0].po_id;
 
-                // Insert Items
-                for (const item of po.items) {
-                    await client.query(`
+                    // Insert Items
+                    for (const item of po.items) {
+                        await client.query(`
                         INSERT INTO purchase_order_items (po_id, store_id, store_item_id, quantity_ordered, received_quantity, received_date)
                         VALUES ($1, $2, $3, $4, $4, $5)
                     `, [newPoId, po.storeId, item.skuId, item.qty, po.date]);
+                    }
+                    importedCount++;
                 }
-                importedCount++;
+                await client.query('COMMIT');
+                res.json({ success: true, message: `Successfully imported ${importedCount} Purchase Orders.` });
+            } catch (err) {
+                await client.query('ROLLBACK');
+                throw err;
+            } finally {
+                client.release();
             }
-            await client.query('COMMIT');
-            res.json({ success: true, message: `Successfully imported ${importedCount} Purchase Orders.` });
-        } catch (err) {
-            await client.query('ROLLBACK');
-            throw err;
-        } finally {
-            client.release();
-        }
 
-    } catch (e) {
-        res.status(500).json({ success: false, error: e.message });
-    }
-});
+        } catch (e) {
+            res.status(500).json({ success: false, error: e.message });
+        }
+    });
 
 /**
  * AI Endpoints
