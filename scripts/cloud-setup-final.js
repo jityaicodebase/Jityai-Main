@@ -48,6 +48,30 @@ async function harmonizeData() {
             ON CONFLICT (store_id) DO NOTHING
         `, [storeId]);
 
+        // 4. FIX: Populate 'onboarding_handoff' because 'v_latest_inventory' depends on it!
+        console.log("   👉 bridging Snapshots -> Onboarding Handoff (Fixing View)...");
+        await pool.query(`
+            INSERT INTO onboarding_handoff 
+            (store_id, store_item_id, quantity_on_hand, selling_price, cost_price, unit, as_of_date, source, onboarding_batch_id, transaction_type)
+            SELECT 
+                i.store_id, 
+                i.store_item_id, 
+                i.quantity_on_hand, 
+                i.selling_price, 
+                i.cost_price, 
+                'pcs', 
+                NOW(), 
+                'manual_entry', 
+                '00000000-0000-0000-0000-000000000000', 
+                'STOCK_TAKE'
+            FROM inventory_snapshots i
+            WHERE i.store_id = $1
+            AND NOT EXISTS (
+                SELECT 1 FROM onboarding_handoff h 
+                WHERE h.store_id = i.store_id AND h.store_item_id = i.store_item_id
+            );
+        `, [storeId]);
+
         // 4. Verification Check
         const viewCount = await pool.query("SELECT count(*) FROM v_latest_inventory");
         console.log(`\n✅ DONE. Visible Items in Dashboard View: ${viewCount.rows[0].count}`);
