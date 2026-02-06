@@ -127,10 +127,11 @@ class AuthService {
             // Get user
             const userResult = await client.query(
                 `SELECT u.user_id, u.email, u.password_hash, u.store_id, u.role, u.is_active, 
-                        u.login_attempts, u.locked_until, u.full_name, s.store_name, 
+                 SELECT u.user_id, u.email, u.password_hash, u.role, u.store_id, u.is_active, 
+                        u.login_attempts, u.locked_until, u.full_name, COALESCE(s.store_name, 'Unknown Store') as store_name, 
                         COALESCE(s.store_location, '') as store_location
                  FROM users u
-                 JOIN store_settings s ON u.store_id = s.store_id
+                 LEFT JOIN store_settings s ON u.store_id = s.store_id
                  WHERE u.email = $1`,
                 [email]
             );
