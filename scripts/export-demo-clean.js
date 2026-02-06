@@ -37,6 +37,7 @@ async function exportCleanData() {
             'users',              // Depends on stores
             'store_settings',     // Depends on stores
             'store_sku_registry', // Depends on stores
+            'inventory_snapshots', // HOLDS STOCK LEVELS (Critical)
             'sales_transactions'  // Depends on store_sku_registry
         ];
 
