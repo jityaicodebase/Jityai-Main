@@ -23,7 +23,7 @@ class OnboardingOrchestrator {
         this.llmCategorizer = llmCategorizer;
         this.dbPersistence = dbPersistence;  // Optional database persistence
 
-        this.CURRENT_CATALOG_VERSION = 'v2.1.0';
+        this.CURRENT_CATALOG_VERSION = 'v2.4.0';
         this.AGENT_VERSION = 'v1.5.3';
     }
 
